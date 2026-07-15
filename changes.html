@@ -1,0 +1,100 @@
+<!doctype html><html lang=ko><head><meta charset="utf-8">
+<title>변경 로그 | Silicon Pills</title>
+<meta name="description" content="반도체 변경 소식 전체.">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="canonical" href="https://yoonkyu-lee.github.io/silicon-pills/changes.html">
+<style>:root{--bg:#0b0f14;--hero:#0e141c;--surface:#11161d;--border:#1e2733;--head:#e6edf3;--ink:#b7c2cc;--mut:#7d8b99;--brand:#22d3ee;--accent:#22d3ee;--accent-ink:#062a31;--hl:#0d2a33;--calc:#0d2a33;--calcink:#9adbe8;--calcbig:#e6edf3;--up:#fbbf24;--dn:#34d399;--badgebg:#22d3ee;--badgeink:#062a31;--tagbg:#12303a;--tagink:#7fe3f5;--radius:12px;--num:ui-monospace,'Cascadia Mono',Consolas,monospace;--th:#0e141c;}
+:root[data-theme="pill-dark"]{--bg:#0b0f14;--hero:#0e141c;--surface:#11161d;--border:#1e2733;--head:#e6edf3;--ink:#b7c2cc;--mut:#7d8b99;--brand:#22d3ee;--accent:#22d3ee;--accent-ink:#062a31;--hl:#0d2a33;--calc:#0d2a33;--calcink:#9adbe8;--calcbig:#e6edf3;--up:#fbbf24;--dn:#34d399;--badgebg:#22d3ee;--badgeink:#062a31;--tagbg:#12303a;--tagink:#7fe3f5;--radius:12px;--num:ui-monospace,'Cascadia Mono',Consolas,monospace;--th:#0e141c;}
+:root[data-theme="pill-light"]{--bg:#f7fafc;--hero:#eef4f8;--surface:#fff;--border:#dbe4ec;--head:#0b2530;--ink:#33454f;--mut:#6b7f8c;--brand:#0891b2;--accent:#0891b2;--accent-ink:#fff;--hl:#d9f2f8;--calc:#0b2530;--calcink:#bfe3ee;--calcbig:#fff;--up:#b45309;--dn:#047857;--badgebg:#0891b2;--badgeink:#fff;--tagbg:#d9f2f8;--tagink:#0e5a6e;--radius:12px;--num:ui-monospace,'Cascadia Mono',Consolas,monospace;--th:#eef4f8;}
+
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;font:15.5px/1.6 "Segoe UI",Pretendard,-apple-system,Roboto,sans-serif;
+color:var(--ink);background:var(--bg)}
+a{color:var(--brand);text-decoration:none}a:hover{text-decoration:underline}
+.wrap{max-width:980px;margin:0 auto;padding:0 18px}
+header.site{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--border)}
+header.site .wrap{display:flex;gap:14px;align-items:center;height:62px}
+/* 브랜드 = 알약 캡슐(두 톤) */
+.brand{display:inline-flex;align-items:stretch;font-weight:800;font-size:14px;border-radius:999px;
+overflow:hidden;border:1px solid var(--accent);line-height:1}
+.brand{color:var(--accent);padding:0}
+.brand::before{content:"Si";display:flex;align-items:center;background:var(--accent);color:var(--accent-ink);padding:6px 9px}
+.brand .b{display:flex;align-items:center;padding:6px 10px;color:var(--head)}
+header.site nav{display:flex;gap:13px;font-size:13px;margin-left:auto;flex-wrap:wrap}
+header.site nav a{color:var(--mut);padding:3px 9px;border-radius:999px}
+header.site nav a:hover{background:var(--hl);color:var(--head);text-decoration:none}
+.tsel{background:var(--surface);color:var(--ink);border:1px solid var(--border);border-radius:999px;
+padding:4px 10px;font:inherit;font-size:11.5px}
+h1{color:var(--head);font-size:1.8rem;line-height:1.2;margin:.5em 0 .3em;letter-spacing:-.03em;font-weight:900}
+h2{color:var(--head);font-size:1.15rem;margin:1.7em 0 .5em;letter-spacing:-.01em}
+h2::before{content:"◆ ";color:var(--accent);font-size:.7em;vertical-align:2px}
+.sub{color:var(--mut);margin:.2em 0 1em}
+/* 히어로: 미세 회로 격자 */
+.hero{background:var(--hero);border:1px solid var(--border);border-radius:var(--radius);
+padding:28px 24px;margin:16px 0;position:relative;overflow:hidden}
+.hero::after{content:"";position:absolute;inset:0;pointer-events:none;opacity:.5;
+background-image:linear-gradient(var(--border) 1px,transparent 1px),linear-gradient(90deg,var(--border) 1px,transparent 1px);
+background-size:28px 28px;mask-image:linear-gradient(to bottom right,transparent 40%,#000)}
+.hero h1{margin-top:0}.hero>*{position:relative;z-index:1}
+.stats{display:inline-flex;gap:20px;flex-wrap:wrap}
+.stats div{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--border);
+border-radius:999px;padding:8px 18px;align-items:center}
+.stats b{font-size:1.25rem;color:var(--accent);font-family:var(--num);line-height:1.1}
+.stats span{font-size:10px;color:var(--mut);text-transform:uppercase;letter-spacing:.06em}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin:12px 0}
+.grid a{background:var(--surface);border:1px solid var(--border);border-radius:999px;text-align:center;
+padding:9px 12px;color:var(--ink);font-size:13px}
+.grid a:hover{border-color:var(--accent);color:var(--head);text-decoration:none}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--border)}
+th{color:var(--mut);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.04em;background:var(--th)}
+td{font-family:var(--num)}
+/* ===== 피드 ===== */
+.feed{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden}
+.it{border-bottom:1px solid var(--border)}.it:last-child{border-bottom:0}
+.it .frow{display:flex;align-items:center;gap:8px;padding:10px 14px;font-size:13px;flex-wrap:wrap}
+.it .frow:hover{background:var(--th)}
+.it .up{color:var(--up)}.it .dn{color:var(--dn)}
+.it .delta{font-family:var(--num);font-weight:600;color:var(--head)}
+.it .pct{font-weight:700;font-family:var(--num)}
+.it .tag{font-size:9px;font-weight:800;padding:2px 8px;border-radius:999px;background:var(--tagbg);color:var(--tagink);
+white-space:nowrap;text-transform:uppercase;letter-spacing:.05em}
+.it .ttl{font-weight:600;color:var(--head)}
+.it .when{margin-left:auto;color:var(--mut);font-size:11px;white-space:nowrap;font-family:var(--num)}
+.it .detail{max-height:0;overflow:hidden;transition:max-height .22s ease}
+.it.open .detail{max-height:240px}
+.it .dbody{padding:0 14px 11px;font-size:12.5px;color:var(--mut)}
+.empty{color:var(--mut);font-size:13px;padding:12px;border:1px dashed var(--border);border-radius:var(--radius);text-align:center}
+.cap{font-size:12px;color:var(--mut)}
+footer.site{border-top:1px solid var(--border);margin-top:44px;color:var(--mut);font-size:12.5px}
+footer.site .wrap{padding:18px 18px 38px}
+@media(max-width:760px){header.site nav{gap:8px;font-size:12px}}
+
+.ehead{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.ehead h1{margin:.3em 0}
+.badges{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0}
+.b{font-size:11px;font-weight:600;padding:2px 8px;border-radius:20px;background:var(--tagbg);color:var(--tagink)}
+.conf{font-size:10px;font-weight:700;padding:1px 7px;border-radius:20px}
+.conf.rumor{background:#eef0f3;color:#8a94a0}.conf.certified{background:#e7f3ff;color:#1663b0}.conf.confirmed{background:var(--hl);color:var(--head)}
+.pgraph{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:10px;margin:10px 0}
+.pgraph .cap{font-size:11px;color:var(--mut);margin-top:4px}
+.spectbl{width:100%;border-collapse:collapse;font-size:14px}
+.spectbl td{padding:7px 10px;border-bottom:1px solid var(--border)}
+.spectbl td:first-child{color:var(--mut);width:40%}
+.tl{display:flex;align-items:flex-start;gap:0;margin:12px 0}
+.tl .st{flex:1;text-align:center;font-size:10px;color:var(--mut);position:relative}
+.tl .dot{width:12px;height:12px;border-radius:50%;margin:0 auto 4px;background:#e6e9ee}
+.tl .st.done .dot{background:var(--dn)}.tl .st.now .dot{background:#0b64d6}
+.tl .st::before{content:"";position:absolute;top:5px;left:-50%;width:100%;height:2px;background:var(--border);z-index:-1}
+.tl .st:first-child::before{display:none}
+.related{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px;margin:10px 0}
+.related a{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:8px 10px;color:var(--ink);font-size:13px;text-decoration:none}
+.related a:hover{border-color:var(--accent)}
+.facetbar{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}
+.facetbar select{font:inherit;font-size:12px;padding:5px 8px;border:1px solid var(--border);border-radius:20px;background:var(--surface);color:var(--ink)}
+.relrow{display:flex;align-items:center;gap:8px;padding:7px 0;border-bottom:1px solid var(--border);font-size:13px}
+.relrow .src{margin-left:auto;font-size:11px}
+.empty{color:var(--mut);font-size:13px;padding:10px;border:1px dashed var(--border);border-radius:var(--radius);text-align:center}
+</style>
+<script>(function(){var V=['pill-dark','pill-light'];try{var t=localStorage.getItem('pill-theme');if(V.indexOf(t)<0){t=window.matchMedia&&window.matchMedia('(prefers-color-scheme:light)').matches?'pill-light':'pill-dark';}document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','pill-dark');}})();</script>
+</head><body><header class="site"><div class="wrap"><a class="brand" href="index.html">Silicon<span class="b">Pills</span></a><nav><a href="index.html">전체</a><a href="category-commodity.html">부품시세</a><a href="category-chip.html">칩</a><a href="category-device.html">기기</a><a href="category-cert.html">미출시·인증</a><a href="category-fab.html">팹</a><a href="changes.html">변경</a></nav><select class="tsel" aria-label="Theme" onchange="setTheme(this.value)"><option value="pill-dark">Dark</option><option value="pill-light">Light</option></select></div></header><main class="wrap"><h1>변경 로그</h1><div class="feed"><div class="it"><div class="frow"><span class="tag">출시</span> <a href="org-sk-hynix.html">SK hynix</a> <span class="ttl">SK하이닉스, 나스닥 ADR 상장으로 265억 달러 조달 — 비미국 기업 미국 데뷔 사상 최대</span><span class="when">2026-07-10 <a href="https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/" rel="nofollow noopener" target="_blank">출처↗</a></span></div></div></div></main><footer class="site"><div class="wrap">1차 소스(제조사 공식·특허·인증·공시)를 정규화한 데이터. 모든 값에 출처. 확신도(루머/인증/확정)를 표기하며 단정하지 않는다.</div></footer><script>function setTheme(v){try{localStorage.setItem('pill-theme',v);}catch(e){}document.documentElement.setAttribute('data-theme',v);}(function(){var t=document.documentElement.getAttribute('data-theme');var s=document.querySelector('.tsel');if(s&&t)s.value=t;})();function tRow(el){el.classList.toggle('open');}</script></body></html>

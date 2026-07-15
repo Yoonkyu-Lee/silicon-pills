@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yoonkyu-lee.github.io/silicon-pills/sitemap.xml
