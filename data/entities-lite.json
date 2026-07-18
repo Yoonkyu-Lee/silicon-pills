@@ -1,0 +1,1208 @@
+[
+ {
+  "id": "paper:arxiv:2607.15225v1",
+  "type": "paper",
+  "name": "Campaign Diagrams: Visualizing the March Through the Phases of a Workload",
+  "href": "entity-paper-arxiv-2607.15225v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.15123v1",
+  "type": "paper",
+  "name": "NIFA: Nonlinear IMC enhanced FPGA for efficient ML inference",
+  "href": "entity-paper-arxiv-2607.15123v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.15068v1",
+  "type": "paper",
+  "name": "Pattern-Guided Design Space Exploration for FPGA Accelerator Design",
+  "href": "entity-paper-arxiv-2607.15068v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.15005v1",
+  "type": "paper",
+  "name": "Differentiable Routability-Driven Package Floorplanning with Pin Assignment",
+  "href": "entity-paper-arxiv-2607.15005v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.14908v1",
+  "type": "paper",
+  "name": "CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation",
+  "href": "entity-paper-arxiv-2607.14908v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.14789v1",
+  "type": "paper",
+  "name": "Valinor: Architectural Support for Fast, Energy-Efficient and Programmable Physical Memory Allocation",
+  "href": "entity-paper-arxiv-2607.14789v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.14747v1",
+  "type": "paper",
+  "name": "Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices",
+  "href": "entity-paper-arxiv-2607.14747v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.14622v1",
+  "type": "paper",
+  "name": "ExaGEMM: Exploration Framework for CPU-Driven ML Inference via Associative In-Register Computing for Low-Bit GEMM",
+  "href": "entity-paper-arxiv-2607.14622v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.14618v1",
+  "type": "paper",
+  "name": "PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference",
+  "href": "entity-paper-arxiv-2607.14618v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.14008v1",
+  "type": "paper",
+  "name": "Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points",
+  "href": "entity-paper-arxiv-2607.14008v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13898v1",
+  "type": "paper",
+  "name": "Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions",
+  "href": "entity-paper-arxiv-2607.13898v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13770v1",
+  "type": "paper",
+  "name": "Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations",
+  "href": "entity-paper-arxiv-2607.13770v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13649v1",
+  "type": "paper",
+  "name": "CIMERA: Compute-in-Interconnect and Memory with Reconfigurable Precision for LLM Inference",
+  "href": "entity-paper-arxiv-2607.13649v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13505v1",
+  "type": "paper",
+  "name": "CODA: How to Mitigate ColumnDisturb for (Almost) Free?",
+  "href": "entity-paper-arxiv-2607.13505v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.14165v1",
+  "type": "paper",
+  "name": "Towards Reliable AI-Assisted Analog Design: Template-Constrained LLM Agents for SAR ADC Generation",
+  "href": "entity-paper-arxiv-2607.14165v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13325v1",
+  "type": "paper",
+  "name": "A Reality Check on Quantum Optimisation: Evidence from an Industrial Case Study",
+  "href": "entity-paper-arxiv-2607.13325v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13184v1",
+  "type": "paper",
+  "name": "Microflow: Microarchitectural Causal Observability for Deep Cross-Layer Analysis and Optimization",
+  "href": "entity-paper-arxiv-2607.13184v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12901v1",
+  "type": "paper",
+  "name": "A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding",
+  "href": "entity-paper-arxiv-2607.12901v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12839v3",
+  "type": "paper",
+  "name": "HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference",
+  "href": "entity-paper-arxiv-2607.12839v3.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12788v1",
+  "type": "paper",
+  "name": "CLIP-3D: Closed-Loop Evaluation of Performance and Physical Constraints for 3D ICs",
+  "href": "entity-paper-arxiv-2607.12788v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13106v1",
+  "type": "paper",
+  "name": "No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA",
+  "href": "entity-paper-arxiv-2607.13106v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12505v2",
+  "type": "paper",
+  "name": "Realizable N:M Sparse Transformer Inference via Search-Kernel Co-Design",
+  "href": "entity-paper-arxiv-2607.12505v2.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12359v1",
+  "type": "paper",
+  "name": "ArchSim: Computer Architecture Simulation as a Service",
+  "href": "entity-paper-arxiv-2607.12359v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13095v1",
+  "type": "paper",
+  "name": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit",
+  "href": "entity-paper-arxiv-2607.13095v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12298v1",
+  "type": "paper",
+  "name": "Emulated Integrity Replica: Enabling Self-Healing on FPGA SoCs via Hierarchical Twins",
+  "href": "entity-paper-arxiv-2607.12298v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12244v1",
+  "type": "paper",
+  "name": "ORRAM: An OpenROAD-Integrated RAM Generator Using Standard Cells",
+  "href": "entity-paper-arxiv-2607.12244v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.12126v1",
+  "type": "paper",
+  "name": "FPGA-Based Mini X-Ray Detector Front-End",
+  "href": "entity-paper-arxiv-2607.12126v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.11859v1",
+  "type": "paper",
+  "name": "Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?",
+  "href": "entity-paper-arxiv-2607.11859v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13089v1",
+  "type": "paper",
+  "name": "The Reconstructions of Konrad Zuse's Z3 Computer",
+  "href": "entity-paper-arxiv-2607.13089v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.11746v1",
+  "type": "paper",
+  "name": "HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS",
+  "href": "entity-paper-arxiv-2607.11746v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.11490v1",
+  "type": "paper",
+  "name": "AtomFlow: An End-to-End FPGA-Based Control Architecture for Neutral Atom Quantum Computers",
+  "href": "entity-paper-arxiv-2607.11490v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.11294v2",
+  "type": "paper",
+  "name": "From Tool Invocation to Source-Mechanism Exploration: Protected White-Box DSE for Open-Source EDA",
+  "href": "entity-paper-arxiv-2607.11294v2.html"
+ },
+ {
+  "id": "paper:arxiv:2607.11153v1",
+  "type": "paper",
+  "name": "Reliable Associative Lookup in Content-Addressable Memory",
+  "href": "entity-paper-arxiv-2607.11153v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13079v1",
+  "type": "paper",
+  "name": "ChipVerilog: A Large-Scale OpenCores-Derived Benchmark for LLM-Based Verilog RTL Generation",
+  "href": "entity-paper-arxiv-2607.13079v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10944v1",
+  "type": "paper",
+  "name": "IRONSmith: A Visual Dataflow Design Environment for AMD Ryzen AI NPUs",
+  "href": "entity-paper-arxiv-2607.10944v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10942v1",
+  "type": "paper",
+  "name": "Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles",
+  "href": "entity-paper-arxiv-2607.10942v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10788v1",
+  "type": "paper",
+  "name": "Soft-Error Characterization and Hardening Trade-offs in Static PCHB Asynchronous Circuits",
+  "href": "entity-paper-arxiv-2607.10788v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10707v1",
+  "type": "paper",
+  "name": "MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery",
+  "href": "entity-paper-arxiv-2607.10707v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10499v1",
+  "type": "paper",
+  "name": "K-ESBMC: An Executable Formal Semantics of IEC 61131-3 Ladder Diagram for Validating Verifier Translations",
+  "href": "entity-paper-arxiv-2607.10499v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10392v2",
+  "type": "paper",
+  "name": "Dynamic Rowhammer Threshold Management:Temperature-Aware Threshold Degradation for In-DRAM Defenses",
+  "href": "entity-paper-arxiv-2607.10392v2.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10340v1",
+  "type": "paper",
+  "name": "When Fuzzing Meets Understanding: LLM-Driven Semantic Test Generation for RTL Verification",
+  "href": "entity-paper-arxiv-2607.10340v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10186v1",
+  "type": "paper",
+  "name": "FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference",
+  "href": "entity-paper-arxiv-2607.10186v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10109v1",
+  "type": "paper",
+  "name": "Adaptive Model Compression (AMC): Saliency-Driven Resource Allocation for Ultra-Low-Power Transformer Inference",
+  "href": "entity-paper-arxiv-2607.10109v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10046v1",
+  "type": "paper",
+  "name": "Kinetic Inductors Enable Reversible Logic",
+  "href": "entity-paper-arxiv-2607.10046v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13068v1",
+  "type": "paper",
+  "name": "The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference",
+  "href": "entity-paper-arxiv-2607.13068v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.10021v1",
+  "type": "paper",
+  "name": "A Symbolic Neural CPU for Quantization-Simulated Writeback and Interpretable Program Execution",
+  "href": "entity-paper-arxiv-2607.10021v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.09616v1",
+  "type": "paper",
+  "name": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+  "href": "entity-paper-arxiv-2607.09616v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.09400v1",
+  "type": "paper",
+  "name": "On-Device Adaptive Battery Power Prediction for Electric Vehicles",
+  "href": "entity-paper-arxiv-2607.09400v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.08993v1",
+  "type": "paper",
+  "name": "StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration",
+  "href": "entity-paper-arxiv-2607.08993v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.08550v1",
+  "type": "paper",
+  "name": "ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs",
+  "href": "entity-paper-arxiv-2607.08550v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.08427v1",
+  "type": "paper",
+  "name": "FPGN: Redefining Ultra-Fast Programmable Gate-based Neural Acceleration with Differentiable LUTs",
+  "href": "entity-paper-arxiv-2607.08427v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.08417v1",
+  "type": "paper",
+  "name": "Detecting Ladder Logic Bombs in IEC 61131-3 PLC Programs using ESBMC-PLC+: A Formal Verification Approach with Trigger Synthesis",
+  "href": "entity-paper-arxiv-2607.08417v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.08407v1",
+  "type": "paper",
+  "name": "Who Needs DRAM? We Have Fiber",
+  "href": "entity-paper-arxiv-2607.08407v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.08015v1",
+  "type": "paper",
+  "name": "CRIMP: Compact & Reliable DNN Inference on In-Memory Processing via Crossbar-Aligned Compression and Non-ideality Adaptation",
+  "href": "entity-paper-arxiv-2607.08015v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.08002v1",
+  "type": "paper",
+  "name": "A Theoretical Framework for Stochastic Activity Prediction in Tensor Accelerator Wallace-Tree Multipliers",
+  "href": "entity-paper-arxiv-2607.08002v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.07643v1",
+  "type": "paper",
+  "name": "ATLAS: Automated HLS for DL-Optimized FPGAs",
+  "href": "entity-paper-arxiv-2607.07643v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.07625v1",
+  "type": "paper",
+  "name": "Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain",
+  "href": "entity-paper-arxiv-2607.07625v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.07372v1",
+  "type": "paper",
+  "name": "Vectorizing Quantum Control: A RISC-V Vector Extension Architecture for Scalable Qubit Systems",
+  "href": "entity-paper-arxiv-2607.07372v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.07207v1",
+  "type": "paper",
+  "name": "Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency",
+  "href": "entity-paper-arxiv-2607.07207v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.07164v1",
+  "type": "paper",
+  "name": "Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking",
+  "href": "entity-paper-arxiv-2607.07164v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.07096v1",
+  "type": "paper",
+  "name": "ThermoDSE: A Thermal-Aware and Comprehensive Design Space Exploration for Chiplet-Based DNN Accelerators",
+  "href": "entity-paper-arxiv-2607.07096v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.06982v1",
+  "type": "paper",
+  "name": "EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI",
+  "href": "entity-paper-arxiv-2607.06982v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.06915v1",
+  "type": "paper",
+  "name": "Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware",
+  "href": "entity-paper-arxiv-2607.06915v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.09775v1",
+  "type": "paper",
+  "name": "WINT: A Novel Weighted Integer Representation with Improved Error Characteristics",
+  "href": "entity-paper-arxiv-2607.09775v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.13062v1",
+  "type": "paper",
+  "name": "The verifier side of speculative window decoding: a predictability bracket, a machine-checked blast-radius bound, and a decoder-agnostic recover loop",
+  "href": "entity-paper-arxiv-2607.13062v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.06619v1",
+  "type": "paper",
+  "name": "HiFuzz: Hierarchical Reinforcement Learning for Semantic-Aware and Adaptive CPU Fuzzing",
+  "href": "entity-paper-arxiv-2607.06619v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05993v1",
+  "type": "paper",
+  "name": "Bit2Watt: A Cyber-Physical Vulnerability Exploiting GPU Workloads Across Power and Computing Infrastructures",
+  "href": "entity-paper-arxiv-2607.05993v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05985v1",
+  "type": "paper",
+  "name": "Auto-DSM Under the Lens: A Black-Box Evaluation Framework for LLM-Based DSM Generation",
+  "href": "entity-paper-arxiv-2607.05985v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05818v1",
+  "type": "paper",
+  "name": "GPU-Accelerated Effective Resistance Analysis for 3D IC Power Delivery Network",
+  "href": "entity-paper-arxiv-2607.05818v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05756v1",
+  "type": "paper",
+  "name": "Boosting FPGA Performance with Direct BRAM-DSP Paths",
+  "href": "entity-paper-arxiv-2607.05756v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05657v1",
+  "type": "paper",
+  "name": "NEMESIS: NEtlist-Driven Modeling and Equation Synthesis with Inversion-Aware SPICE Anchoring",
+  "href": "entity-paper-arxiv-2607.05657v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05240v1",
+  "type": "paper",
+  "name": "Optimizing ML Workload Partitioning between CPUs and CIM Accelerators for Heterogeneous Computing",
+  "href": "entity-paper-arxiv-2607.05240v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05187v2",
+  "type": "paper",
+  "name": "SMART: A Machine Learning and Monte Carlo Framework for Rapid Analysis of Stochastic Transistor Aging and Process Variation in Digital Circuits",
+  "href": "entity-paper-arxiv-2607.05187v2.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05475v1",
+  "type": "paper",
+  "name": "Is Your NPU Ready for LLMs? Dissecting the Hidden Efficiency Bottlenecks in Mobile LLM Inference",
+  "href": "entity-paper-arxiv-2607.05475v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.04475v1",
+  "type": "paper",
+  "name": "A Reconfigurable and Representation-Adaptive ISA-Based Architecture for Efficient DNN Acceleration",
+  "href": "entity-paper-arxiv-2607.04475v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05453v1",
+  "type": "paper",
+  "name": "Neuromorphic Silicon Neuron Controller for Adaptive Deep Brain Stimulation in Parkinson's Disease",
+  "href": "entity-paper-arxiv-2607.05453v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.04302v1",
+  "type": "paper",
+  "name": "HiFA4: Training-Free 4-bit FlashAttention on Ascend HIF4 NPUs for LLM Inference",
+  "href": "entity-paper-arxiv-2607.04302v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.04031v1",
+  "type": "paper",
+  "name": "TileLens: Efficiently Using Large-Granularity Memory Systems with Transparent Two-Dimensional Memory Layout",
+  "href": "entity-paper-arxiv-2607.04031v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.03835v1",
+  "type": "paper",
+  "name": "Weave: Verified Netlist-to-Schematic Conversion via Layered Graph Layout",
+  "href": "entity-paper-arxiv-2607.03835v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.05445v1",
+  "type": "paper",
+  "name": "BitFair: A 12nm Bit-Serial CNN Accelerator with Learnable Early Termination and Adaptive Bit Ordering for Ultra-Low-Power XR Vision",
+  "href": "entity-paper-arxiv-2607.05445v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.03701v1",
+  "type": "paper",
+  "name": "SABLE: An NDA-Safe Closed-Loop LLM Framework for Analog Circuit Optimization in Industrial EDA Flows",
+  "href": "entity-paper-arxiv-2607.03701v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.03652v1",
+  "type": "paper",
+  "name": "ELiTeFormer: An Efficient Transformer for FPGAs",
+  "href": "entity-paper-arxiv-2607.03652v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.03601v1",
+  "type": "paper",
+  "name": "ArchEval: Measuring AI Agents as Computer Architects",
+  "href": "entity-paper-arxiv-2607.03601v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.03191v1",
+  "type": "paper",
+  "name": "AIGOR: A Modular, Event-Driven Neuromorphic Architecture for Configurable SNN Inference",
+  "href": "entity-paper-arxiv-2607.03191v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.03153v1",
+  "type": "paper",
+  "name": "RTL Fault Injection of a Deployed Graph Neural Network Trigger for Belle II",
+  "href": "entity-paper-arxiv-2607.03153v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.09742v1",
+  "type": "paper",
+  "name": "Chiplet3D: Pin- and Thermal-Aware 3D Chiplet Floorplanning via Convolution-Embedded MILP",
+  "href": "entity-paper-arxiv-2607.09742v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02842v1",
+  "type": "paper",
+  "name": "Continuous-time nonlinear closed-loop in-memory computing for high-accuracy massive MIMO detection",
+  "href": "entity-paper-arxiv-2607.02842v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02729v1",
+  "type": "paper",
+  "name": "HyNoC: A Hybrid Circuit-Switch/Wormhole Network-on-Chip for Distributed VLIW Computing on FPGA",
+  "href": "entity-paper-arxiv-2607.02729v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02465v1",
+  "type": "paper",
+  "name": "Probabilistic Memory for Trustworthy Edge Intelligence",
+  "href": "entity-paper-arxiv-2607.02465v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02429v1",
+  "type": "paper",
+  "name": "APEIRON: composing smart TDAQ systems for high energy physics experiments",
+  "href": "entity-paper-arxiv-2607.02429v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02112v1",
+  "type": "paper",
+  "name": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+  "href": "entity-paper-arxiv-2607.02112v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.01798v2",
+  "type": "paper",
+  "name": "Approximate Attention Weighting for Sustainable FPGA-Based Vision Transformer Inference",
+  "href": "entity-paper-arxiv-2607.01798v2.html"
+ },
+ {
+  "id": "paper:arxiv:2607.01617v1",
+  "type": "paper",
+  "name": "3DLS: A 3D Logic-Stacked Architecture for Disaggregated LLM Serving",
+  "href": "entity-paper-arxiv-2607.01617v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.01607v1",
+  "type": "paper",
+  "name": "MxGLUT: A Reconfigurable LUT-Centric Broadcast Dataflow Accelerator for Mixed-Precision GEMM",
+  "href": "entity-paper-arxiv-2607.01607v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.01526v1",
+  "type": "paper",
+  "name": "LIB-TRAP: Standard Cell Library Hardware Trojan Risk Assessment and Prevention",
+  "href": "entity-paper-arxiv-2607.01526v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.01430v1",
+  "type": "paper",
+  "name": "Physically-Aware Preemptive Virtual Channels for Deadlock-Free AXI Networks-on-Chip",
+  "href": "entity-paper-arxiv-2607.01430v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.01368v1",
+  "type": "paper",
+  "name": "Field-Deployable RF Capture System for Indoor, Outdoor, and Foliage Environments",
+  "href": "entity-paper-arxiv-2607.01368v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02612v1",
+  "type": "paper",
+  "name": "Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsformers",
+  "href": "entity-paper-arxiv-2607.02612v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02610v1",
+  "type": "paper",
+  "name": "FAPlace: Joint Optimization of Chiplet Placement and Interposer Footprint for 2.5D Systems",
+  "href": "entity-paper-arxiv-2607.02610v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02608v1",
+  "type": "paper",
+  "name": "Towards transferable lightweight neuromorphic computing through a model-free temporal-switch framework",
+  "href": "entity-paper-arxiv-2607.02608v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.00826v1",
+  "type": "paper",
+  "name": "Synthesizing Compound Pulse Gadgets for Hamiltonian Simulation on Trapped-Ion Platforms",
+  "href": "entity-paper-arxiv-2607.00826v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.00621v1",
+  "type": "paper",
+  "name": "High-Performance NTT Accelerators for PQC leveraging Unified Redundant Arithmetic and Fine-Tuned Microarchitecture",
+  "href": "entity-paper-arxiv-2607.00621v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.31938v1",
+  "type": "paper",
+  "name": "FlexViT: A Flexible FPGA-based Accelerator for Edge Vision Transformers",
+  "href": "entity-paper-arxiv-2606.31938v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.31833v1",
+  "type": "paper",
+  "name": "Lazy-Move Compilation for Neutral-Atom Quantum Computers via a Buffer-Relay Fabric",
+  "href": "entity-paper-arxiv-2606.31833v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.31681v1",
+  "type": "paper",
+  "name": "Exploring Side-Channel Protections in Hardware Implementations of PQC ML-KEM Verification",
+  "href": "entity-paper-arxiv-2606.31681v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.31554v1",
+  "type": "paper",
+  "name": "In-situ Indexing via Memristive Content-Addressable Memory",
+  "href": "entity-paper-arxiv-2606.31554v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.31535v1",
+  "type": "paper",
+  "name": "PEERS: A Parallel and Exact Effective Resistance Solver via Implicit Inversion and Augmented Symbolic Analysis",
+  "href": "entity-paper-arxiv-2606.31535v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.31514v1",
+  "type": "paper",
+  "name": "MINT: Dynamic-Precision CNN Inference with MSDF Digit-Serial Arithmetic on FPGA",
+  "href": "entity-paper-arxiv-2606.31514v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.31490v1",
+  "type": "paper",
+  "name": "Dynamic Ultrasound Beamforming Using Left-to-Right Arithmetic Adders on FPGA",
+  "href": "entity-paper-arxiv-2606.31490v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.00055v1",
+  "type": "paper",
+  "name": "HySpecPro: Scalable Hypergraph Partitioning via Spectral Projection Optimization",
+  "href": "entity-paper-arxiv-2607.00055v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.30949v1",
+  "type": "paper",
+  "name": "AgRefactor: Self-Evolving Agentic Workflow for HLS Compatibility and Performance",
+  "href": "entity-paper-arxiv-2606.30949v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.30926v1",
+  "type": "paper",
+  "name": "SpikON: A Dual-Parallel and Efficient Accelerator for Online Spiking Neural Networks Learning",
+  "href": "entity-paper-arxiv-2606.30926v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.30805v1",
+  "type": "paper",
+  "name": "CryoZip: An Efficient Cryogenic Compressor for Quantum Error Correction Syndromes",
+  "href": "entity-paper-arxiv-2606.30805v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.30553v2",
+  "type": "paper",
+  "name": "COSM: A Cooperative Scheduling Framework for Concurrent PIM and CPU Execution on Mobile Devices",
+  "href": "entity-paper-arxiv-2606.30553v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.30397v1",
+  "type": "paper",
+  "name": "Model Predictive Current Control with Harmonic Correction for Single-Phase AC-DC EV Charging",
+  "href": "entity-paper-arxiv-2606.30397v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.30382v1",
+  "type": "paper",
+  "name": "RQP: Resource-Oriented Quantiser Pruning for Neural Networks on FPGAs",
+  "href": "entity-paper-arxiv-2606.30382v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.30039v1",
+  "type": "paper",
+  "name": "Mega: A 22 nm Convolutional Spiking Neural Network Accelerator Achieving 0.375 pJ/SOP for Efficient Edge Vision",
+  "href": "entity-paper-arxiv-2606.30039v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.29986v1",
+  "type": "paper",
+  "name": "HBM Is Not All You Need: Efficient Disaggregated LLM Serving across Memory-heterogeneous Accelerators",
+  "href": "entity-paper-arxiv-2606.29986v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.29518v1",
+  "type": "paper",
+  "name": "Harvesting AI Computation at the Edge via Generic Approximation",
+  "href": "entity-paper-arxiv-2606.29518v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.29179v1",
+  "type": "paper",
+  "name": "Performance Analysis of Hardware-Accelerated 10-Bit 4:2:2 Encoding with Split-Frame Encoding for High-Fidelity V-PCC Streaming",
+  "href": "entity-paper-arxiv-2606.29179v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.28754v2",
+  "type": "paper",
+  "name": "SHIFT: Dynamic Compute Relocation Framework for Communication-Aware Chiplet-Based Systems",
+  "href": "entity-paper-arxiv-2606.28754v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.28565v2",
+  "type": "paper",
+  "name": "KernelSight-LM: A Kernel-Level LLM Inference Simulator",
+  "href": "entity-paper-arxiv-2606.28565v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.28279v1",
+  "type": "paper",
+  "name": "Agentic Hardware Design as Repository-Level Code Evolution",
+  "href": "entity-paper-arxiv-2606.28279v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.02552v1",
+  "type": "paper",
+  "name": "Enabling Fast, Efficient, and Low-Cost Genomic and Metagenomic Analyses via Storage-Centric System Designs",
+  "href": "entity-paper-arxiv-2607.02552v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.28126v1",
+  "type": "paper",
+  "name": "AI-Driven Synthesis for High-Tech System Design: Automating Innovation",
+  "href": "entity-paper-arxiv-2606.28126v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27934v1",
+  "type": "paper",
+  "name": "Self-Verifying Measurement Records: Hash-Linked Evidence Graphs for Hardware Benchmarking",
+  "href": "entity-paper-arxiv-2606.27934v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27906v1",
+  "type": "paper",
+  "name": "Phase Matters: Characterizing Heterogeneous Vision-Language Inference on a Mobile SoC",
+  "href": "entity-paper-arxiv-2606.27906v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27892v1",
+  "type": "paper",
+  "name": "Co-Optimization of Analog Kolmogorov-Arnold Networks for Low-Power Function Approximation in Flexible Electronics",
+  "href": "entity-paper-arxiv-2606.27892v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27884v1",
+  "type": "paper",
+  "name": "SEADA: An efficient methodology for optimizing mixed-precision DNNs on multi-precision spatial architectures",
+  "href": "entity-paper-arxiv-2606.27884v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27666v1",
+  "type": "paper",
+  "name": "MultModLM: A multi-modal benchmark for Large-Language Model based hardware schematic generation",
+  "href": "entity-paper-arxiv-2606.27666v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27350v2",
+  "type": "paper",
+  "name": "CHIA: An open-source framework for principled, agentic AI-driven hardware/software co-design research",
+  "href": "entity-paper-arxiv-2606.27350v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27319v1",
+  "type": "paper",
+  "name": "An Instruction Set Architecture for IMPLY-based Memristive Processing-in-Array",
+  "href": "entity-paper-arxiv-2606.27319v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27240v1",
+  "type": "paper",
+  "name": "Evaluating Architectural Trade-offs in CGRAs: The Impact of Scratchpad Memory and Heterogeneity on Compute-Intensive Kernels",
+  "href": "entity-paper-arxiv-2606.27240v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27098v1",
+  "type": "paper",
+  "name": "Residual GPU Cache State on Apple M4 Pro",
+  "href": "entity-paper-arxiv-2606.27098v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.27002v1",
+  "type": "paper",
+  "name": "Inverse Design of Compact and Wideband Inverted Doherty Power Amplifiers Using Deep Learning",
+  "href": "entity-paper-arxiv-2606.27002v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26701v1",
+  "type": "paper",
+  "name": "SegFold: Accelerating Sparse GEMM with a Fine-Grained Dynamic Dataflow",
+  "href": "entity-paper-arxiv-2606.26701v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.28409v1",
+  "type": "paper",
+  "name": "Evidence-Driven LLM Agent for C-to-Synthesizable-C Conversion and Verification",
+  "href": "entity-paper-arxiv-2606.28409v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.07711v1",
+  "type": "paper",
+  "name": "AI-Driven Thermal Mapping and Management in 3D Integrated Photonic Circuits",
+  "href": "entity-paper-arxiv-2607.07711v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26468v1",
+  "type": "paper",
+  "name": "GRAINS: Storage-Aware Algorithm-Architecture Co-Design Enabling High-Performance and Low-Cost Graph-Based Genome Analysis",
+  "href": "entity-paper-arxiv-2606.26468v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26426v1",
+  "type": "paper",
+  "name": "Nanoelectromechanical Systems (NEMS) for Hardware Security in Advanced Packaging",
+  "href": "entity-paper-arxiv-2606.26426v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26385v1",
+  "type": "paper",
+  "name": "Query Cost Model Calibration in Confidential Virtual Machines",
+  "href": "entity-paper-arxiv-2606.26385v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26383v1",
+  "type": "paper",
+  "name": "SOLAR: AI-Powered Speed-of-Light Performance Analysis",
+  "href": "entity-paper-arxiv-2606.26383v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26177v1",
+  "type": "paper",
+  "name": "CVA6-RT: an Open-Source Time-Predictable RV64 Processor for Mixed-Criticality Systems",
+  "href": "entity-paper-arxiv-2606.26177v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26176v2",
+  "type": "paper",
+  "name": "Toward Mitigating Process-Induced Performance Degradation in 3.5D Heterogeneous Packages via Pre-Silicon Firmware Co-Optimization",
+  "href": "entity-paper-arxiv-2606.26176v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.25673v1",
+  "type": "paper",
+  "name": "Croc: Training the Next Generation Chip Designers on Domain-Specific End-to-End Open Source Silicon",
+  "href": "entity-paper-arxiv-2606.25673v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.25562v1",
+  "type": "paper",
+  "name": "Energy-Efficient CNN Acceleration with MSDF Digit-Serial Arithmetic on FPGA",
+  "href": "entity-paper-arxiv-2606.25562v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.25532v1",
+  "type": "paper",
+  "name": "Agentic evolution of physically constrained foundation models",
+  "href": "entity-paper-arxiv-2606.25532v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.25353v1",
+  "type": "paper",
+  "name": "Cache-Resident LLM Inference in GB-Scale Last-Level Caches",
+  "href": "entity-paper-arxiv-2606.25353v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.25313v1",
+  "type": "paper",
+  "name": "Programmable Probabilistic Computer with 1,000,000 p-bits",
+  "href": "entity-paper-arxiv-2606.25313v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.25296v1",
+  "type": "paper",
+  "name": "SafeGen: LLM-Driven Assertion Generation and Fault Criticality Evaluation for Functional Safety",
+  "href": "entity-paper-arxiv-2606.25296v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.24377v1",
+  "type": "paper",
+  "name": "PDS Joint: A Parametric Double-Spiral Joint Tailored for Dexterous Hands",
+  "href": "entity-paper-arxiv-2606.24377v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26150v2",
+  "type": "paper",
+  "name": "Hot AI in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital AI Clusters",
+  "href": "entity-paper-arxiv-2606.26150v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.23546v1",
+  "type": "paper",
+  "name": "The Energy Consumption of Transformer Fine-Tuning: A Roofline-Inspired Scaling Model",
+  "href": "entity-paper-arxiv-2606.23546v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.23541v1",
+  "type": "paper",
+  "name": "HeteroViT: A Versatile Single-Layer Vision Transformer Concept, Co-Designed for Distributed Real-Time Data Reduction on Scientific Detectors",
+  "href": "entity-paper-arxiv-2606.23541v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.23532v1",
+  "type": "paper",
+  "name": "An Open-Source LFSR-Based Stochastic Leaky Integrate-and-Fire Neuron in SkyWater 130 nm: Design, Stochastic Characterisation, and Rate Coding",
+  "href": "entity-paper-arxiv-2606.23532v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.24934v1",
+  "type": "paper",
+  "name": "Unprivileged Topology Certificates for Cloud GPU Attestation",
+  "href": "entity-paper-arxiv-2606.24934v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.23759v1",
+  "type": "paper",
+  "name": "VeriPilot: An LLM-Powered Verilog Debugging Framework",
+  "href": "entity-paper-arxiv-2606.23759v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22968v1",
+  "type": "paper",
+  "name": "MOCAP: Wafer-Scale-Chip-Oriented Memory-Orchestrated Chunked Pipelining Framework for Prefill-Only LLM Inference",
+  "href": "entity-paper-arxiv-2606.22968v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22812v1",
+  "type": "paper",
+  "name": "Clutch: High Performance Vector-Scalar Comparison using DRAM via Chunked Temporal Coding",
+  "href": "entity-paper-arxiv-2606.22812v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22685v1",
+  "type": "paper",
+  "name": "Architecture for Health Initiative (Arch4Health): Computational Challenges in Health-Related Applications and the Role of Computer Architecture in Addressing Them",
+  "href": "entity-paper-arxiv-2606.22685v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22635v1",
+  "type": "paper",
+  "name": "Design and Development of a Neuromorphic Silicon Suite: PVT Sensing, Stochastic LIF Inference, On-Chip STDP Learning, and Crossbar Programming",
+  "href": "entity-paper-arxiv-2606.22635v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22632v2",
+  "type": "paper",
+  "name": "ColumnKeeper: Efficient Solutions to the ColumnDisturb Vulnerability in DRAM-based Systems",
+  "href": "entity-paper-arxiv-2606.22632v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22621v1",
+  "type": "paper",
+  "name": "Multi-Level Resistive Synapses for On-Chip Neural Networks: A Physics-Based Design of a Memristive Crossbar Fabric with Quasi-Continuous Conductance States",
+  "href": "entity-paper-arxiv-2606.22621v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22588v1",
+  "type": "paper",
+  "name": "Non-Uniform L2 Cache Latency Across the Streaming Multiprocessors of an NVIDIA L40",
+  "href": "entity-paper-arxiv-2606.22588v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.23742v1",
+  "type": "paper",
+  "name": "Low-power analogue neural networks with trainable nonlinear connections for continuous control",
+  "href": "entity-paper-arxiv-2606.23742v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22482v1",
+  "type": "paper",
+  "name": "NeutronSparse: Coordinating Heterogeneous Engines for Sparse Matrix Multiplication on NPUs",
+  "href": "entity-paper-arxiv-2606.22482v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22297v1",
+  "type": "paper",
+  "name": "DejaVu: Why You Should Write to Your DRAM Rows Twice, Carefully",
+  "href": "entity-paper-arxiv-2606.22297v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22283v1",
+  "type": "paper",
+  "name": "Apple Neural Engine: Architecture, Programming, and Performance",
+  "href": "entity-paper-arxiv-2606.22283v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.22198v1",
+  "type": "paper",
+  "name": "2.5D Root of Trust: Securing the Chiplet Ecosystem",
+  "href": "entity-paper-arxiv-2606.22198v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.21899v1",
+  "type": "paper",
+  "name": "Shuttling in Bidimensional Segmented Ion-Trap Quantum Processors with T-Junctions",
+  "href": "entity-paper-arxiv-2606.21899v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.21836v1",
+  "type": "paper",
+  "name": "AgentDSE: Reasoning-Augmented Architectural Design Space Exploration",
+  "href": "entity-paper-arxiv-2606.21836v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.21772v1",
+  "type": "paper",
+  "name": "Solid-state transcapacitor, a new gain element for logic, memory and interconnects",
+  "href": "entity-paper-arxiv-2606.21772v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.21767v1",
+  "type": "paper",
+  "name": "Row-Based Layout Synthesis for Analog Circuits Using Height-Quantized Primitives",
+  "href": "entity-paper-arxiv-2606.21767v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.24916v1",
+  "type": "paper",
+  "name": "SPORT: Spherical-PSNR-Optimized tRuncaTion for Power-Efficient 360-Degree Video Systems",
+  "href": "entity-paper-arxiv-2606.24916v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.21454v1",
+  "type": "paper",
+  "name": "COMPOSE: Static Timing-driven Composable Reconfigurable Architecture for Accelerating Recurrence-Bound Loops",
+  "href": "entity-paper-arxiv-2606.21454v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.21451v1",
+  "type": "paper",
+  "name": "Closing the Loop on LLM-Generated RTL Assertions with Quality-Aware Formal Verification",
+  "href": "entity-paper-arxiv-2606.21451v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26138v1",
+  "type": "paper",
+  "name": "The Kernel's Write: Application Read-Only Memory",
+  "href": "entity-paper-arxiv-2606.26138v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.26137v1",
+  "type": "paper",
+  "name": "Mitigating High-Frequency Geometric Noise in Non-Parametric 1-Bit Sparse",
+  "href": "entity-paper-arxiv-2606.26137v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.20869v2",
+  "type": "paper",
+  "name": "A3C3: AI Algorithm and Accelerator Co-design, Co-search, and Co-generation",
+  "href": "entity-paper-arxiv-2606.20869v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.20786v1",
+  "type": "paper",
+  "name": "Memory-Centric Computing: Security Benefits and Challenges of Processing-in-DRAM",
+  "href": "entity-paper-arxiv-2606.20786v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.20414v2",
+  "type": "paper",
+  "name": "ExSpike: A General Full-Event Neuromorphic Architecture for Exploiting Irregular Sparsity with Event Compression",
+  "href": "entity-paper-arxiv-2606.20414v2.html"
+ },
+ {
+  "id": "paper:arxiv:2606.19964v1",
+  "type": "paper",
+  "name": "Low-Energy Reduced RISC-V Instruction Subset Processor for Tsetlin Machine Inference at the Edge",
+  "href": "entity-paper-arxiv-2606.19964v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.19913v1",
+  "type": "paper",
+  "name": "Design and Evaluation of Energy-Efficient Whisper Dot-Product Kernel Offloading on a CGLA Architecture",
+  "href": "entity-paper-arxiv-2606.19913v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.19533v1",
+  "type": "paper",
+  "name": "A Tool for the Synthesis of Adaptive Probabilistic Processors Based on the Ising Model",
+  "href": "entity-paper-arxiv-2606.19533v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.19526v1",
+  "type": "paper",
+  "name": "SPINE: A Fault Injection Profiler for Quantized Neural Networks under Accumulated Faults",
+  "href": "entity-paper-arxiv-2606.19526v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.19119v1",
+  "type": "paper",
+  "name": "PuDGhost: Experimental Analysis of Computation Result Corruption in Processing-using-DRAM Operations on Real DRAM Chips and Implications for Future Systems",
+  "href": "entity-paper-arxiv-2606.19119v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.19055v1",
+  "type": "paper",
+  "name": "CHERI-D: Secure and efficient inline object ID for CHERI temporal memory safety",
+  "href": "entity-paper-arxiv-2606.19055v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.18978v1",
+  "type": "paper",
+  "name": "Nanoscale memristive devices: Threats and solutions",
+  "href": "entity-paper-arxiv-2606.18978v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.20727v1",
+  "type": "paper",
+  "name": "FPGA-Accelerated Neuromorphic Vision System for Real-Time Orbital Object Detection",
+  "href": "entity-paper-arxiv-2606.20727v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.18402v1",
+  "type": "paper",
+  "name": "Deep-Learning-Based Pixelated Microwave Filter Design and Characterization using Electro-Optical Electric-Field Measurements",
+  "href": "entity-paper-arxiv-2606.18402v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.18395v1",
+  "type": "paper",
+  "name": "Deep Learning-Driven Inverse Design of Doherty Power Amplifiers Using Pixelated Combiners and Dual-State Impedance Synthesis",
+  "href": "entity-paper-arxiv-2606.18395v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.18131v1",
+  "type": "paper",
+  "name": "ComPart: Community-Guided Post-Coarsening for High-Quality Hypergraph Partitioning",
+  "href": "entity-paper-arxiv-2606.18131v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.18122v1",
+  "type": "paper",
+  "name": "Embedded Machine Learning for Microcontroller-Class Edge Devices: Data, Feature, Evaluation, and Deployment Pipelines",
+  "href": "entity-paper-arxiv-2606.18122v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.18117v1",
+  "type": "paper",
+  "name": "IMPart: Integration of Memetic Operations into Multi-Level Framework for Large-k-Way Hypergraph Partitioning",
+  "href": "entity-paper-arxiv-2606.18117v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.17850v1",
+  "type": "paper",
+  "name": "CUTh-Solver: GPU-Accelerated Sparse Matrix Solver for High-Resolution Thermal Simulation of 3D ICs",
+  "href": "entity-paper-arxiv-2606.17850v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.17781v1",
+  "type": "paper",
+  "name": "MIVE: A Minimalist Integer Vector Engine for Softmax LayerNorm and RMSNorm Acceleration",
+  "href": "entity-paper-arxiv-2606.17781v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.17500v1",
+  "type": "paper",
+  "name": "Reconfigurable Computing Challenge: Transformer for Jet Tagging on Versal AI Engines",
+  "href": "entity-paper-arxiv-2606.17500v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.17461v1",
+  "type": "paper",
+  "name": "AUTOGATE: Automated Clock Gating via Toggling-Aware LLM-based RTL Rewriting",
+  "href": "entity-paper-arxiv-2606.17461v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.17327v1",
+  "type": "paper",
+  "name": "Energy-efficient codon optimization on thermodynamic hardware",
+  "href": "entity-paper-arxiv-2606.17327v1.html"
+ },
+ {
+  "id": "paper:arxiv:2606.17253v5",
+  "type": "paper",
+  "name": "PDAGENT-BENCH: Characterizing, Grounding, and Architecting LLM/VLM Agents for VLSI Physical Design",
+  "href": "entity-paper-arxiv-2606.17253v5.html"
+ },
+ {
+  "id": "part_price:danawa-18297002",
+  "type": "part_price",
+  "name": "삼성전자 990 PRO M.2 NVMe (1TB)",
+  "href": "entity-part_price-danawa-18297002.html"
+ }
+]

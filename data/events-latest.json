@@ -1,0 +1,1502 @@
+[
+ {
+  "id": "ev-arxiv:2607.15225v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: Campaign Diagrams: Visualizing the March Through the Phases of a Workload",
+  "primary": "paper:arxiv:2607.15225v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15225v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.15123v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: NIFA: Nonlinear IMC enhanced FPGA for efficient ML inference",
+  "primary": "paper:arxiv:2607.15123v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15123v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.15068v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: Pattern-Guided Design Space Exploration for FPGA Accelerator Design",
+  "primary": "paper:arxiv:2607.15068v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15068v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.15005v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: Differentiable Routability-Driven Package Floorplanning with Pin Assignment",
+  "primary": "paper:arxiv:2607.15005v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15005v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.14908v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation",
+  "primary": "paper:arxiv:2607.14908v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.14908v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.14789v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: Valinor: Architectural Support for Fast, Energy-Efficient and Programmable Physical Memory Allocation",
+  "primary": "paper:arxiv:2607.14789v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.14789v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.14747v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices",
+  "primary": "paper:arxiv:2607.14747v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.14747v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.14622v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: ExaGEMM: Exploration Framework for CPU-Driven ML Inference via Associative In-Register Computing for Low-Bit GEMM",
+  "primary": "paper:arxiv:2607.14622v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.14622v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.14618v1",
+  "date": "2026-07-16",
+  "type": "paper_published",
+  "title": "arXiv: PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference",
+  "primary": "paper:arxiv:2607.14618v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.14618v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.14008v1",
+  "date": "2026-07-15",
+  "type": "paper_published",
+  "title": "arXiv: Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points",
+  "primary": "paper:arxiv:2607.14008v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.14008v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13898v1",
+  "date": "2026-07-15",
+  "type": "paper_published",
+  "title": "arXiv: Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions",
+  "primary": "paper:arxiv:2607.13898v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13898v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13770v1",
+  "date": "2026-07-15",
+  "type": "paper_published",
+  "title": "arXiv: Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations",
+  "primary": "paper:arxiv:2607.13770v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13770v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13649v1",
+  "date": "2026-07-15",
+  "type": "paper_published",
+  "title": "arXiv: CIMERA: Compute-in-Interconnect and Memory with Reconfigurable Precision for LLM Inference",
+  "primary": "paper:arxiv:2607.13649v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13649v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13505v1",
+  "date": "2026-07-15",
+  "type": "paper_published",
+  "title": "arXiv: CODA: How to Mitigate ColumnDisturb for (Almost) Free?",
+  "primary": "paper:arxiv:2607.13505v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13505v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.14165v1",
+  "date": "2026-07-15",
+  "type": "paper_published",
+  "title": "arXiv: Towards Reliable AI-Assisted Analog Design: Template-Constrained LLM Agents for SAR ADC Generation",
+  "primary": "paper:arxiv:2607.14165v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.14165v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13325v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: A Reality Check on Quantum Optimisation: Evidence from an Industrial Case Study",
+  "primary": "paper:arxiv:2607.13325v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13325v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13184v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: Microflow: Microarchitectural Causal Observability for Deep Cross-Layer Analysis and Optimization",
+  "primary": "paper:arxiv:2607.13184v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13184v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12901v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding",
+  "primary": "paper:arxiv:2607.12901v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12901v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12839v3",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference",
+  "primary": "paper:arxiv:2607.12839v3",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12839v3",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12788v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: CLIP-3D: Closed-Loop Evaluation of Performance and Physical Constraints for 3D ICs",
+  "primary": "paper:arxiv:2607.12788v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12788v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13106v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA",
+  "primary": "paper:arxiv:2607.13106v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13106v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12505v2",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: Realizable N:M Sparse Transformer Inference via Search-Kernel Co-Design",
+  "primary": "paper:arxiv:2607.12505v2",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12505v2",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12359v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: ArchSim: Computer Architecture Simulation as a Service",
+  "primary": "paper:arxiv:2607.12359v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12359v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13095v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit",
+  "primary": "paper:arxiv:2607.13095v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13095v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12298v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: Emulated Integrity Replica: Enabling Self-Healing on FPGA SoCs via Hierarchical Twins",
+  "primary": "paper:arxiv:2607.12298v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12298v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12244v1",
+  "date": "2026-07-14",
+  "type": "paper_published",
+  "title": "arXiv: ORRAM: An OpenROAD-Integrated RAM Generator Using Standard Cells",
+  "primary": "paper:arxiv:2607.12244v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12244v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.12126v1",
+  "date": "2026-07-13",
+  "type": "paper_published",
+  "title": "arXiv: FPGA-Based Mini X-Ray Detector Front-End",
+  "primary": "paper:arxiv:2607.12126v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.12126v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.11859v1",
+  "date": "2026-07-13",
+  "type": "paper_published",
+  "title": "arXiv: Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?",
+  "primary": "paper:arxiv:2607.11859v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.11859v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13089v1",
+  "date": "2026-07-13",
+  "type": "paper_published",
+  "title": "arXiv: The Reconstructions of Konrad Zuse's Z3 Computer",
+  "primary": "paper:arxiv:2607.13089v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13089v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.11746v1",
+  "date": "2026-07-13",
+  "type": "paper_published",
+  "title": "arXiv: HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS",
+  "primary": "paper:arxiv:2607.11746v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.11746v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.11490v1",
+  "date": "2026-07-13",
+  "type": "paper_published",
+  "title": "arXiv: AtomFlow: An End-to-End FPGA-Based Control Architecture for Neutral Atom Quantum Computers",
+  "primary": "paper:arxiv:2607.11490v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.11490v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.11294v2",
+  "date": "2026-07-13",
+  "type": "paper_published",
+  "title": "arXiv: From Tool Invocation to Source-Mechanism Exploration: Protected White-Box DSE for Open-Source EDA",
+  "primary": "paper:arxiv:2607.11294v2",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.11294v2",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.11153v1",
+  "date": "2026-07-13",
+  "type": "paper_published",
+  "title": "arXiv: Reliable Associative Lookup in Content-Addressable Memory",
+  "primary": "paper:arxiv:2607.11153v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.11153v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13079v1",
+  "date": "2026-07-12",
+  "type": "paper_published",
+  "title": "arXiv: ChipVerilog: A Large-Scale OpenCores-Derived Benchmark for LLM-Based Verilog RTL Generation",
+  "primary": "paper:arxiv:2607.13079v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13079v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10944v1",
+  "date": "2026-07-12",
+  "type": "paper_published",
+  "title": "arXiv: IRONSmith: A Visual Dataflow Design Environment for AMD Ryzen AI NPUs",
+  "primary": "paper:arxiv:2607.10944v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10944v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10942v1",
+  "date": "2026-07-12",
+  "type": "paper_published",
+  "title": "arXiv: Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles",
+  "primary": "paper:arxiv:2607.10942v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10942v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10788v1",
+  "date": "2026-07-12",
+  "type": "paper_published",
+  "title": "arXiv: Soft-Error Characterization and Hardening Trade-offs in Static PCHB Asynchronous Circuits",
+  "primary": "paper:arxiv:2607.10788v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10788v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10707v1",
+  "date": "2026-07-12",
+  "type": "paper_published",
+  "title": "arXiv: MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery",
+  "primary": "paper:arxiv:2607.10707v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10707v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10499v1",
+  "date": "2026-07-11",
+  "type": "paper_published",
+  "title": "arXiv: K-ESBMC: An Executable Formal Semantics of IEC 61131-3 Ladder Diagram for Validating Verifier Translations",
+  "primary": "paper:arxiv:2607.10499v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10499v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10392v2",
+  "date": "2026-07-11",
+  "type": "paper_published",
+  "title": "arXiv: Dynamic Rowhammer Threshold Management:Temperature-Aware Threshold Degradation for In-DRAM Defenses",
+  "primary": "paper:arxiv:2607.10392v2",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10392v2",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10340v1",
+  "date": "2026-07-11",
+  "type": "paper_published",
+  "title": "arXiv: When Fuzzing Meets Understanding: LLM-Driven Semantic Test Generation for RTL Verification",
+  "primary": "paper:arxiv:2607.10340v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10340v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10186v1",
+  "date": "2026-07-11",
+  "type": "paper_published",
+  "title": "arXiv: FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference",
+  "primary": "paper:arxiv:2607.10186v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10186v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10109v1",
+  "date": "2026-07-11",
+  "type": "paper_published",
+  "title": "arXiv: Adaptive Model Compression (AMC): Saliency-Driven Resource Allocation for Ultra-Low-Power Transformer Inference",
+  "primary": "paper:arxiv:2607.10109v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10109v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10046v1",
+  "date": "2026-07-10",
+  "type": "paper_published",
+  "title": "arXiv: Kinetic Inductors Enable Reversible Logic",
+  "primary": "paper:arxiv:2607.10046v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10046v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13068v1",
+  "date": "2026-07-10",
+  "type": "paper_published",
+  "title": "arXiv: The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference",
+  "primary": "paper:arxiv:2607.13068v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13068v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.10021v1",
+  "date": "2026-07-10",
+  "type": "paper_published",
+  "title": "arXiv: A Symbolic Neural CPU for Quantization-Simulated Writeback and Interpretable Program Execution",
+  "primary": "paper:arxiv:2607.10021v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.10021v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.09616v1",
+  "date": "2026-07-10",
+  "type": "paper_published",
+  "title": "arXiv: LLM for EDA in Front-End Design: Challenges and Opportunities",
+  "primary": "paper:arxiv:2607.09616v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.09616v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.09400v1",
+  "date": "2026-07-10",
+  "type": "paper_published",
+  "title": "arXiv: On-Device Adaptive Battery Power Prediction for Electric Vehicles",
+  "primary": "paper:arxiv:2607.09400v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.09400v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.08993v1",
+  "date": "2026-07-09",
+  "type": "paper_published",
+  "title": "arXiv: StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration",
+  "primary": "paper:arxiv:2607.08993v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.08993v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.08550v1",
+  "date": "2026-07-09",
+  "type": "paper_published",
+  "title": "arXiv: ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs",
+  "primary": "paper:arxiv:2607.08550v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.08550v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.08427v1",
+  "date": "2026-07-09",
+  "type": "paper_published",
+  "title": "arXiv: FPGN: Redefining Ultra-Fast Programmable Gate-based Neural Acceleration with Differentiable LUTs",
+  "primary": "paper:arxiv:2607.08427v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.08427v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.08417v1",
+  "date": "2026-07-09",
+  "type": "paper_published",
+  "title": "arXiv: Detecting Ladder Logic Bombs in IEC 61131-3 PLC Programs using ESBMC-PLC+: A Formal Verification Approach with Trigger Synthesis",
+  "primary": "paper:arxiv:2607.08417v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.08417v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.08407v1",
+  "date": "2026-07-09",
+  "type": "paper_published",
+  "title": "arXiv: Who Needs DRAM? We Have Fiber",
+  "primary": "paper:arxiv:2607.08407v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.08407v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.08015v1",
+  "date": "2026-07-09",
+  "type": "paper_published",
+  "title": "arXiv: CRIMP: Compact & Reliable DNN Inference on In-Memory Processing via Crossbar-Aligned Compression and Non-ideality Adaptation",
+  "primary": "paper:arxiv:2607.08015v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.08015v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.08002v1",
+  "date": "2026-07-09",
+  "type": "paper_published",
+  "title": "arXiv: A Theoretical Framework for Stochastic Activity Prediction in Tensor Accelerator Wallace-Tree Multipliers",
+  "primary": "paper:arxiv:2607.08002v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.08002v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.07643v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: ATLAS: Automated HLS for DL-Optimized FPGAs",
+  "primary": "paper:arxiv:2607.07643v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.07643v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.07625v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain",
+  "primary": "paper:arxiv:2607.07625v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.07625v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.07372v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: Vectorizing Quantum Control: A RISC-V Vector Extension Architecture for Scalable Qubit Systems",
+  "primary": "paper:arxiv:2607.07372v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.07372v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.07207v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency",
+  "primary": "paper:arxiv:2607.07207v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.07207v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.07164v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking",
+  "primary": "paper:arxiv:2607.07164v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.07164v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.07096v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: ThermoDSE: A Thermal-Aware and Comprehensive Design Space Exploration for Chiplet-Based DNN Accelerators",
+  "primary": "paper:arxiv:2607.07096v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.07096v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.06982v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI",
+  "primary": "paper:arxiv:2607.06982v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.06982v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.06915v1",
+  "date": "2026-07-08",
+  "type": "paper_published",
+  "title": "arXiv: Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware",
+  "primary": "paper:arxiv:2607.06915v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.06915v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.09775v1",
+  "date": "2026-07-07",
+  "type": "paper_published",
+  "title": "arXiv: WINT: A Novel Weighted Integer Representation with Improved Error Characteristics",
+  "primary": "paper:arxiv:2607.09775v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.09775v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.13062v1",
+  "date": "2026-07-07",
+  "type": "paper_published",
+  "title": "arXiv: The verifier side of speculative window decoding: a predictability bracket, a machine-checked blast-radius bound, and a decoder-agnostic recover loop",
+  "primary": "paper:arxiv:2607.13062v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.13062v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.06619v1",
+  "date": "2026-07-07",
+  "type": "paper_published",
+  "title": "arXiv: HiFuzz: Hierarchical Reinforcement Learning for Semantic-Aware and Adaptive CPU Fuzzing",
+  "primary": "paper:arxiv:2607.06619v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.06619v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05993v1",
+  "date": "2026-07-07",
+  "type": "paper_published",
+  "title": "arXiv: Bit2Watt: A Cyber-Physical Vulnerability Exploiting GPU Workloads Across Power and Computing Infrastructures",
+  "primary": "paper:arxiv:2607.05993v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05993v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05985v1",
+  "date": "2026-07-07",
+  "type": "paper_published",
+  "title": "arXiv: Auto-DSM Under the Lens: A Black-Box Evaluation Framework for LLM-Based DSM Generation",
+  "primary": "paper:arxiv:2607.05985v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05985v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05818v1",
+  "date": "2026-07-07",
+  "type": "paper_published",
+  "title": "arXiv: GPU-Accelerated Effective Resistance Analysis for 3D IC Power Delivery Network",
+  "primary": "paper:arxiv:2607.05818v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05818v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05756v1",
+  "date": "2026-07-07",
+  "type": "paper_published",
+  "title": "arXiv: Boosting FPGA Performance with Direct BRAM-DSP Paths",
+  "primary": "paper:arxiv:2607.05756v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05756v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05657v1",
+  "date": "2026-07-06",
+  "type": "paper_published",
+  "title": "arXiv: NEMESIS: NEtlist-Driven Modeling and Equation Synthesis with Inversion-Aware SPICE Anchoring",
+  "primary": "paper:arxiv:2607.05657v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05657v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05240v1",
+  "date": "2026-07-06",
+  "type": "paper_published",
+  "title": "arXiv: Optimizing ML Workload Partitioning between CPUs and CIM Accelerators for Heterogeneous Computing",
+  "primary": "paper:arxiv:2607.05240v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05240v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05187v2",
+  "date": "2026-07-06",
+  "type": "paper_published",
+  "title": "arXiv: SMART: A Machine Learning and Monte Carlo Framework for Rapid Analysis of Stochastic Transistor Aging and Process Variation in Digital Circuits",
+  "primary": "paper:arxiv:2607.05187v2",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05187v2",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05475v1",
+  "date": "2026-07-06",
+  "type": "paper_published",
+  "title": "arXiv: Is Your NPU Ready for LLMs? Dissecting the Hidden Efficiency Bottlenecks in Mobile LLM Inference",
+  "primary": "paper:arxiv:2607.05475v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05475v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.04475v1",
+  "date": "2026-07-05",
+  "type": "paper_published",
+  "title": "arXiv: A Reconfigurable and Representation-Adaptive ISA-Based Architecture for Efficient DNN Acceleration",
+  "primary": "paper:arxiv:2607.04475v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.04475v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05453v1",
+  "date": "2026-07-05",
+  "type": "paper_published",
+  "title": "arXiv: Neuromorphic Silicon Neuron Controller for Adaptive Deep Brain Stimulation in Parkinson's Disease",
+  "primary": "paper:arxiv:2607.05453v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05453v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.04302v1",
+  "date": "2026-07-05",
+  "type": "paper_published",
+  "title": "arXiv: HiFA4: Training-Free 4-bit FlashAttention on Ascend HIF4 NPUs for LLM Inference",
+  "primary": "paper:arxiv:2607.04302v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.04302v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.04031v1",
+  "date": "2026-07-04",
+  "type": "paper_published",
+  "title": "arXiv: TileLens: Efficiently Using Large-Granularity Memory Systems with Transparent Two-Dimensional Memory Layout",
+  "primary": "paper:arxiv:2607.04031v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.04031v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.03835v1",
+  "date": "2026-07-04",
+  "type": "paper_published",
+  "title": "arXiv: Weave: Verified Netlist-to-Schematic Conversion via Layered Graph Layout",
+  "primary": "paper:arxiv:2607.03835v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.03835v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.05445v1",
+  "date": "2026-07-04",
+  "type": "paper_published",
+  "title": "arXiv: BitFair: A 12nm Bit-Serial CNN Accelerator with Learnable Early Termination and Adaptive Bit Ordering for Ultra-Low-Power XR Vision",
+  "primary": "paper:arxiv:2607.05445v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.05445v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.03701v1",
+  "date": "2026-07-04",
+  "type": "paper_published",
+  "title": "arXiv: SABLE: An NDA-Safe Closed-Loop LLM Framework for Analog Circuit Optimization in Industrial EDA Flows",
+  "primary": "paper:arxiv:2607.03701v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.03701v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.03652v1",
+  "date": "2026-07-04",
+  "type": "paper_published",
+  "title": "arXiv: ELiTeFormer: An Efficient Transformer for FPGAs",
+  "primary": "paper:arxiv:2607.03652v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.03652v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.03601v1",
+  "date": "2026-07-03",
+  "type": "paper_published",
+  "title": "arXiv: ArchEval: Measuring AI Agents as Computer Architects",
+  "primary": "paper:arxiv:2607.03601v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.03601v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.03191v1",
+  "date": "2026-07-03",
+  "type": "paper_published",
+  "title": "arXiv: AIGOR: A Modular, Event-Driven Neuromorphic Architecture for Configurable SNN Inference",
+  "primary": "paper:arxiv:2607.03191v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.03191v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.03153v1",
+  "date": "2026-07-03",
+  "type": "paper_published",
+  "title": "arXiv: RTL Fault Injection of a Deployed Graph Neural Network Trigger for Belle II",
+  "primary": "paper:arxiv:2607.03153v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.03153v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.09742v1",
+  "date": "2026-07-03",
+  "type": "paper_published",
+  "title": "arXiv: Chiplet3D: Pin- and Thermal-Aware 3D Chiplet Floorplanning via Convolution-Embedded MILP",
+  "primary": "paper:arxiv:2607.09742v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.09742v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02842v1",
+  "date": "2026-07-03",
+  "type": "paper_published",
+  "title": "arXiv: Continuous-time nonlinear closed-loop in-memory computing for high-accuracy massive MIMO detection",
+  "primary": "paper:arxiv:2607.02842v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02842v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02729v1",
+  "date": "2026-07-02",
+  "type": "paper_published",
+  "title": "arXiv: HyNoC: A Hybrid Circuit-Switch/Wormhole Network-on-Chip for Distributed VLIW Computing on FPGA",
+  "primary": "paper:arxiv:2607.02729v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02729v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02465v1",
+  "date": "2026-07-02",
+  "type": "paper_published",
+  "title": "arXiv: Probabilistic Memory for Trustworthy Edge Intelligence",
+  "primary": "paper:arxiv:2607.02465v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02465v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02429v1",
+  "date": "2026-07-02",
+  "type": "paper_published",
+  "title": "arXiv: APEIRON: composing smart TDAQ systems for high energy physics experiments",
+  "primary": "paper:arxiv:2607.02429v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02429v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02112v1",
+  "date": "2026-07-02",
+  "type": "paper_published",
+  "title": "arXiv: A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+  "primary": "paper:arxiv:2607.02112v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02112v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.01798v2",
+  "date": "2026-07-02",
+  "type": "paper_published",
+  "title": "arXiv: Approximate Attention Weighting for Sustainable FPGA-Based Vision Transformer Inference",
+  "primary": "paper:arxiv:2607.01798v2",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.01798v2",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.01617v1",
+  "date": "2026-07-02",
+  "type": "paper_published",
+  "title": "arXiv: 3DLS: A 3D Logic-Stacked Architecture for Disaggregated LLM Serving",
+  "primary": "paper:arxiv:2607.01617v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.01617v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.01607v1",
+  "date": "2026-07-02",
+  "type": "paper_published",
+  "title": "arXiv: MxGLUT: A Reconfigurable LUT-Centric Broadcast Dataflow Accelerator for Mixed-Precision GEMM",
+  "primary": "paper:arxiv:2607.01607v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.01607v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.01526v1",
+  "date": "2026-07-01",
+  "type": "paper_published",
+  "title": "arXiv: LIB-TRAP: Standard Cell Library Hardware Trojan Risk Assessment and Prevention",
+  "primary": "paper:arxiv:2607.01526v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.01526v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.01430v1",
+  "date": "2026-07-01",
+  "type": "paper_published",
+  "title": "arXiv: Physically-Aware Preemptive Virtual Channels for Deadlock-Free AXI Networks-on-Chip",
+  "primary": "paper:arxiv:2607.01430v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.01430v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.01368v1",
+  "date": "2026-07-01",
+  "type": "paper_published",
+  "title": "arXiv: Field-Deployable RF Capture System for Indoor, Outdoor, and Foliage Environments",
+  "primary": "paper:arxiv:2607.01368v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.01368v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02612v1",
+  "date": "2026-07-01",
+  "type": "paper_published",
+  "title": "arXiv: Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsformers",
+  "primary": "paper:arxiv:2607.02612v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02612v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02610v1",
+  "date": "2026-07-01",
+  "type": "paper_published",
+  "title": "arXiv: FAPlace: Joint Optimization of Chiplet Placement and Interposer Footprint for 2.5D Systems",
+  "primary": "paper:arxiv:2607.02610v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02610v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.02608v1",
+  "date": "2026-07-01",
+  "type": "paper_published",
+  "title": "arXiv: Towards transferable lightweight neuromorphic computing through a model-free temporal-switch framework",
+  "primary": "paper:arxiv:2607.02608v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.02608v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ }
+]
