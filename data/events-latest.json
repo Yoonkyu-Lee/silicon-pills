@@ -1050,6 +1050,21 @@
   "linked": []
  },
  {
+  "id": "ev-danawa-20600147-2026-07-07",
+  "date": "2026-07-07",
+  "type": "price_change",
+  "title": "삼성전자 990 PRO 히트싱크 M.2 NVMe (2TB) 최저가 +12.0% — 720,280원",
+  "primary": "part_price:danawa-20600147",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=20600147",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2607.05657v1",
   "date": "2026-07-06",
   "type": "paper_published",
@@ -1477,21 +1492,6 @@
   "primary": "paper:arxiv:2607.02610v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.02610v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02608v1",
-  "date": "2026-07-01",
-  "type": "paper_published",
-  "title": "arXiv: Towards transferable lightweight neuromorphic computing through a model-free temporal-switch framework",
-  "primary": "paper:arxiv:2607.02608v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02608v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

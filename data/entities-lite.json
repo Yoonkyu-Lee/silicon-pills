@@ -1204,5 +1204,23 @@
   "type": "part_price",
   "name": "삼성전자 990 PRO M.2 NVMe (1TB)",
   "href": "entity-part_price-danawa-18297002.html"
+ },
+ {
+  "id": "part_price:danawa-20600147",
+  "type": "part_price",
+  "name": "삼성전자 990 PRO 히트싱크 M.2 NVMe (2TB)",
+  "href": "entity-part_price-danawa-20600147.html"
+ },
+ {
+  "id": "part_price:danawa-94638185",
+  "type": "part_price",
+  "name": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB)",
+  "href": "entity-part_price-danawa-94638185.html"
+ },
+ {
+  "id": "part_price:danawa-75541700",
+  "type": "part_price",
+  "name": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB",
+  "href": "entity-part_price-danawa-75541700.html"
  }
 ]
