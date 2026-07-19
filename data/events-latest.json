@@ -390,6 +390,36 @@
   "linked": []
  },
  {
+  "id": "ev-danawa-20644043-2026-07-14",
+  "date": "2026-07-14",
+  "type": "price_change",
+  "title": "삼성전자 DDR5-5600 (32GB) 최저가 +9.2% — 710,000원",
+  "primary": "part_price:danawa-20644043",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=20644043",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-5764992-2026-07-14",
+  "date": "2026-07-14",
+  "type": "price_change",
+  "title": "Seagate BarraCuda 5400/256M (8TB, ST8000DM004) 최저가 -32.0% — 319,000원",
+  "primary": "part_price:danawa-5764992",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=5764992",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2607.12126v1",
   "date": "2026-07-13",
   "type": "paper_published",
@@ -566,6 +596,51 @@
   },
   "confidence": "공식확정",
   "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-accelerator-2026-W28",
+  "date": "2026-07-12",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 6편 (2026-W28)",
+  "primary": "process_tech:accelerator",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2607.05475v1",
+   "http://arxiv.org/abs/2607.05818v1",
+   "http://arxiv.org/abs/2607.07096v1",
+   "http://arxiv.org/abs/2607.08002v1",
+   "http://arxiv.org/abs/2607.08427v1",
+   "http://arxiv.org/abs/2607.08993v1"
+  ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-llm-hw-2026-W28",
+  "date": "2026-07-12",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 5편 (2026-W28)",
+  "primary": "process_tech:llm-hw",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2607.05475v1",
+   "http://arxiv.org/abs/2607.10186v1",
+   "http://arxiv.org/abs/2607.10340v1",
+   "http://arxiv.org/abs/2607.13068v1",
+   "http://arxiv.org/abs/2607.13079v1"
+  ],
   "lang": "ko",
   "linked": []
  },
@@ -1065,6 +1140,21 @@
   "linked": []
  },
  {
+  "id": "ev-danawa-13190573-2026-07-07",
+  "date": "2026-07-07",
+  "type": "price_change",
+  "title": "삼성전자 870 EVO (1TB) 최저가 -14.8% — 550,000원",
+  "primary": "part_price:danawa-13190573",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=13190573",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2607.05657v1",
   "date": "2026-07-06",
   "type": "paper_published",
@@ -1166,6 +1256,31 @@
   },
   "confidence": "공식확정",
   "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-accelerator-2026-W27",
+  "date": "2026-07-05",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 8편 (2026-W27)",
+  "primary": "process_tech:accelerator",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2606.29986v1",
+   "http://arxiv.org/abs/2606.30039v1",
+   "http://arxiv.org/abs/2606.30926v1",
+   "http://arxiv.org/abs/2606.31938v1",
+   "http://arxiv.org/abs/2607.00621v1",
+   "http://arxiv.org/abs/2607.01607v1",
+   "http://arxiv.org/abs/2607.04475v1",
+   "http://arxiv.org/abs/2607.05445v1"
+  ],
   "lang": "ko",
   "linked": []
  },
@@ -1402,96 +1517,6 @@
   "primary": "paper:arxiv:2607.01617v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.01617v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.01607v1",
-  "date": "2026-07-02",
-  "type": "paper_published",
-  "title": "arXiv: MxGLUT: A Reconfigurable LUT-Centric Broadcast Dataflow Accelerator for Mixed-Precision GEMM",
-  "primary": "paper:arxiv:2607.01607v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.01607v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.01526v1",
-  "date": "2026-07-01",
-  "type": "paper_published",
-  "title": "arXiv: LIB-TRAP: Standard Cell Library Hardware Trojan Risk Assessment and Prevention",
-  "primary": "paper:arxiv:2607.01526v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.01526v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.01430v1",
-  "date": "2026-07-01",
-  "type": "paper_published",
-  "title": "arXiv: Physically-Aware Preemptive Virtual Channels for Deadlock-Free AXI Networks-on-Chip",
-  "primary": "paper:arxiv:2607.01430v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.01430v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.01368v1",
-  "date": "2026-07-01",
-  "type": "paper_published",
-  "title": "arXiv: Field-Deployable RF Capture System for Indoor, Outdoor, and Foliage Environments",
-  "primary": "paper:arxiv:2607.01368v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.01368v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02612v1",
-  "date": "2026-07-01",
-  "type": "paper_published",
-  "title": "arXiv: Fusion: A Framework for Unified Sequential Token AdaptatIon in VisiOn TraNsformers",
-  "primary": "paper:arxiv:2607.02612v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02612v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02610v1",
-  "date": "2026-07-01",
-  "type": "paper_published",
-  "title": "arXiv: FAPlace: Joint Optimization of Chiplet Placement and Interposer Footprint for 2.5D Systems",
-  "primary": "paper:arxiv:2607.02610v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02610v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

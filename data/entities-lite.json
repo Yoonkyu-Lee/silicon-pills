@@ -1222,5 +1222,53 @@
   "type": "part_price",
   "name": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB",
   "href": "entity-part_price-danawa-75541700.html"
+ },
+ {
+  "id": "process_tech:accelerator",
+  "type": "process_tech",
+  "name": "하드웨어 가속기",
+  "href": "entity-process_tech-accelerator.html"
+ },
+ {
+  "id": "process_tech:llm-hw",
+  "type": "process_tech",
+  "name": "LLM 추론 하드웨어",
+  "href": "entity-process_tech-llm-hw.html"
+ },
+ {
+  "id": "part_price:danawa-20644043",
+  "type": "part_price",
+  "name": "삼성전자 DDR5-5600 (32GB)",
+  "href": "entity-part_price-danawa-20644043.html"
+ },
+ {
+  "id": "part_price:danawa-13161338",
+  "type": "part_price",
+  "name": "SK하이닉스 Gold P31 M.2 NVMe (1TB)",
+  "href": "entity-part_price-danawa-13161338.html"
+ },
+ {
+  "id": "part_price:danawa-21691031",
+  "type": "part_price",
+  "name": "Western Digital WD Blue SN580 M.2 NVMe (1TB)",
+  "href": "entity-part_price-danawa-21691031.html"
+ },
+ {
+  "id": "part_price:danawa-5764992",
+  "type": "part_price",
+  "name": "Seagate BarraCuda 5400/256M (8TB, ST8000DM004)",
+  "href": "entity-part_price-danawa-5764992.html"
+ },
+ {
+  "id": "part_price:danawa-77379380",
+  "type": "part_price",
+  "name": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB",
+  "href": "entity-part_price-danawa-77379380.html"
+ },
+ {
+  "id": "part_price:danawa-13190573",
+  "type": "part_price",
+  "name": "삼성전자 870 EVO (1TB)",
+  "href": "entity-part_price-danawa-13190573.html"
  }
 ]
