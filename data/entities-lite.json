@@ -1270,5 +1270,41 @@
   "type": "part_price",
   "name": "삼성전자 870 EVO (1TB)",
   "href": "entity-part_price-danawa-13190573.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16058v1",
+  "type": "paper",
+  "name": "From Patterns to Parsers: Automatic Generation of Efficient Hardware Parsers for FPGAs",
+  "href": "entity-paper-arxiv-2607.16058v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16042v1",
+  "type": "paper",
+  "name": "Reducing Power Consumption of Embedded Dynamic Memories with ECCs",
+  "href": "entity-paper-arxiv-2607.16042v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.15846v1",
+  "type": "paper",
+  "name": "DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction",
+  "href": "entity-paper-arxiv-2607.15846v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.15830v1",
+  "type": "paper",
+  "name": "RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm",
+  "href": "entity-paper-arxiv-2607.15830v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.15782v1",
+  "type": "paper",
+  "name": "Vogls: a Fast Interactive Full-timing Simulator for Pre-silicon Power Side-Channel Analysis",
+  "href": "entity-paper-arxiv-2607.15782v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.15753v1",
+  "type": "paper",
+  "name": "CoG-Guided Weight Correction for Fault-Tolerant Deep Neural Networks",
+  "href": "entity-paper-arxiv-2607.15753v1.html"
  }
 ]

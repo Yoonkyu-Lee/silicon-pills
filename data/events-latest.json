@@ -1,5 +1,95 @@
 [
  {
+  "id": "ev-arxiv:2607.16058v1",
+  "date": "2026-07-17",
+  "type": "paper_published",
+  "title": "arXiv: From Patterns to Parsers: Automatic Generation of Efficient Hardware Parsers for FPGAs",
+  "primary": "paper:arxiv:2607.16058v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.16058v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.16042v1",
+  "date": "2026-07-17",
+  "type": "paper_published",
+  "title": "arXiv: Reducing Power Consumption of Embedded Dynamic Memories with ECCs",
+  "primary": "paper:arxiv:2607.16042v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.16042v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.15846v1",
+  "date": "2026-07-17",
+  "type": "paper_published",
+  "title": "arXiv: DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction",
+  "primary": "paper:arxiv:2607.15846v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15846v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.15830v1",
+  "date": "2026-07-17",
+  "type": "paper_published",
+  "title": "arXiv: RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm",
+  "primary": "paper:arxiv:2607.15830v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15830v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.15782v1",
+  "date": "2026-07-17",
+  "type": "paper_published",
+  "title": "arXiv: Vogls: a Fast Interactive Full-timing Simulator for Pre-silicon Power Side-Channel Analysis",
+  "primary": "paper:arxiv:2607.15782v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15782v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.15753v1",
+  "date": "2026-07-17",
+  "type": "paper_published",
+  "title": "arXiv: CoG-Guided Weight Correction for Fault-Tolerant Deep Neural Networks",
+  "primary": "paper:arxiv:2607.15753v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.15753v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2607.15225v1",
   "date": "2026-07-16",
   "type": "paper_published",
@@ -1427,96 +1517,6 @@
   "primary": "paper:arxiv:2607.02842v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.02842v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02729v1",
-  "date": "2026-07-02",
-  "type": "paper_published",
-  "title": "arXiv: HyNoC: A Hybrid Circuit-Switch/Wormhole Network-on-Chip for Distributed VLIW Computing on FPGA",
-  "primary": "paper:arxiv:2607.02729v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02729v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02465v1",
-  "date": "2026-07-02",
-  "type": "paper_published",
-  "title": "arXiv: Probabilistic Memory for Trustworthy Edge Intelligence",
-  "primary": "paper:arxiv:2607.02465v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02465v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02429v1",
-  "date": "2026-07-02",
-  "type": "paper_published",
-  "title": "arXiv: APEIRON: composing smart TDAQ systems for high energy physics experiments",
-  "primary": "paper:arxiv:2607.02429v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02429v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02112v1",
-  "date": "2026-07-02",
-  "type": "paper_published",
-  "title": "arXiv: A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
-  "primary": "paper:arxiv:2607.02112v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02112v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.01798v2",
-  "date": "2026-07-02",
-  "type": "paper_published",
-  "title": "arXiv: Approximate Attention Weighting for Sustainable FPGA-Based Vision Transformer Inference",
-  "primary": "paper:arxiv:2607.01798v2",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.01798v2",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.01617v1",
-  "date": "2026-07-02",
-  "type": "paper_published",
-  "title": "arXiv: 3DLS: A 3D Logic-Stacked Architecture for Disaggregated LLM Serving",
-  "primary": "paper:arxiv:2607.01617v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.01617v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
