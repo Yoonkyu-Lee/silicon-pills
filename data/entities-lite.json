@@ -1306,5 +1306,11 @@
   "type": "paper",
   "name": "CoG-Guided Weight Correction for Fault-Tolerant Deep Neural Networks",
   "href": "entity-paper-arxiv-2607.15753v1.html"
+ },
+ {
+  "id": "organization:nvidia",
+  "type": "organization",
+  "name": "NVIDIA",
+  "href": "entity-organization-nvidia.html"
  }
 ]

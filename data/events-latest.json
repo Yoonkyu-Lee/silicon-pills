@@ -1,5 +1,20 @@
 [
  {
+  "id": "ev-news-nvidia-c1d126a13f15d841",
+  "date": "2026-07-20",
+  "type": "announcement",
+  "title": "NVIDIA 발표: Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
+  "primary": "organization:nvidia",
+  "source": {
+   "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2607.16058v1",
   "date": "2026-07-17",
   "type": "paper_published",
@@ -1502,21 +1517,6 @@
   "primary": "paper:arxiv:2607.09742v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.09742v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.02842v1",
-  "date": "2026-07-03",
-  "type": "paper_published",
-  "title": "arXiv: Continuous-time nonlinear closed-loop in-memory computing for high-accuracy massive MIMO detection",
-  "primary": "paper:arxiv:2607.02842v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.02842v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
