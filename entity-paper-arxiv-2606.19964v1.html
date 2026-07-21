@@ -11,11 +11,26 @@ nav.cats{display:flex;gap:6px;overflow-x:auto;padding:8px 16px;max-width:960px;m
 nav.cats a{flex:none;font-size:12px;padding:3px 9px;border-radius:3px;text-decoration:none;
 color:var(--mut);background:var(--chip);border-left:3px solid var(--a,transparent)}
 main{max-width:960px;margin:0 auto;padding:16px}
+.wrap{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:24px;max-width:1140px;margin:0 auto;padding:16px}
+.wrap main{max-width:none;margin:0;padding:0}
+@media(max-width:720px){.wrap{grid-template-columns:1fr}}
 .card{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--acc);
 border-radius:4px;padding:10px 14px;margin:0 0 10px}
 .card .k{font-size:11px;color:var(--acc);letter-spacing:.06em}
 .card .t{font-weight:600;margin:2px 0}
 .card .m{color:var(--mut);font-size:12.5px}
+.pulse{border:1px solid var(--line);border-radius:6px;padding:12px 14px;background:var(--panel)}
+.pulse h2{font-size:13px;margin:0 0 8px;color:var(--mut);letter-spacing:.04em;text-transform:uppercase}
+.pulse ul{list-style:none;margin:0;padding:0}
+.pulse li{font-size:12.5px;padding:6px 0;border-top:1px solid var(--line);line-height:1.4}
+.pulse li:first-child{border-top:0}
+.pulse .d{color:var(--mut);font-size:11px;margin-right:5px}
+.pulse a{color:var(--ink);text-decoration:none}.pulse a:hover{color:var(--acc)}
+.pulse .tg{color:var(--mut);font-size:10.5px;margin-left:4px}
+.acard{background:var(--panel);border:1px solid var(--line);border-radius:6px;padding:16px 18px;margin:0 0 14px}
+.acard h3{margin:0 0 6px;font-size:18px;line-height:1.3}.acard h3 a{color:var(--ink);text-decoration:none}.acard h3 a:hover{color:var(--acc)}
+.acard .ex{color:var(--mut);font-size:13.5px;margin:6px 0 0}
+.acard .m{color:var(--mut);font-size:12px}
 .badge{font-size:11px;padding:0 5px;border-radius:2px;border:1px solid var(--line);color:var(--mut)}
 .badge.b-루머{color:#868e96}.badge.b-인증{color:#4c8dff}.badge.b-공식확정{color:#2fa03c}
 .badge.b-article{color:#fff;background:var(--acc,#4c8dff);border-color:var(--acc,#4c8dff);font-weight:600}
