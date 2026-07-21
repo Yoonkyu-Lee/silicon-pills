@@ -1312,5 +1312,143 @@
   "type": "organization",
   "name": "NVIDIA",
   "href": "entity-organization-nvidia.html"
+ },
+ {
+  "id": "paper:arxiv:2607.18101v1",
+  "type": "paper",
+  "name": "Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator",
+  "href": "entity-paper-arxiv-2607.18101v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.18069v1",
+  "type": "paper",
+  "name": "Hardware Mechanisms to Dynamically Throttle AI Performance",
+  "href": "entity-paper-arxiv-2607.18069v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17960v1",
+  "type": "paper",
+  "name": "Fixed Point Exploration For CV-QKD IR QC-MET-LDPC Toward Hardware Implementation",
+  "href": "entity-paper-arxiv-2607.17960v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17899v1",
+  "type": "paper",
+  "name": "SEAM-V: A Hybrid-Decoupled RISC-V Vector Processor with Backend-Visible EP Context for Sustained Vector Throughput",
+  "href": "entity-paper-arxiv-2607.17899v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17835v1",
+  "type": "paper",
+  "name": "New Number Formats for FFT IP Cores in Optical OFDM Transceivers",
+  "href": "entity-paper-arxiv-2607.17835v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17569v1",
+  "type": "paper",
+  "name": "Cross-Domain Acceleration of Open Modification Search: From Commodity Platforms to Emerging Memory and Storage Devices",
+  "href": "entity-paper-arxiv-2607.17569v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17538v1",
+  "type": "paper",
+  "name": "D-NOVA: In-Storage Retrieval Accelerator via Dual-Bound 3D NAND-Optimized Similarity Search with Vector Adaptation",
+  "href": "entity-paper-arxiv-2607.17538v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17528v1",
+  "type": "paper",
+  "name": "Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows",
+  "href": "entity-paper-arxiv-2607.17528v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17518v1",
+  "type": "paper",
+  "name": "Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs",
+  "href": "entity-paper-arxiv-2607.17518v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17415v1",
+  "type": "paper",
+  "name": "Transition-Aware Backend Dispatch for Edge LLM Inference",
+  "href": "entity-paper-arxiv-2607.17415v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17371v1",
+  "type": "paper",
+  "name": "ADEPT: Architecture-Driven Energy-Efficient CNN Fine-Tuning on PIM Accelerators",
+  "href": "entity-paper-arxiv-2607.17371v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17274v1",
+  "type": "paper",
+  "name": "Inter-Set Correlation-Aware Replacement Policy for Energy Efficient RTM-based Caches",
+  "href": "entity-paper-arxiv-2607.17274v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17091v1",
+  "type": "paper",
+  "name": "ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures",
+  "href": "entity-paper-arxiv-2607.17091v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17074v1",
+  "type": "paper",
+  "name": "ThAME: 3D Memory-Enabled Heterogeneous Accelerator for LLM Mixture of Experts",
+  "href": "entity-paper-arxiv-2607.17074v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17053v1",
+  "type": "paper",
+  "name": "MechMem-RTL: Reusing Verified Mechanism Memories for LLM-Based RTL Repair",
+  "href": "entity-paper-arxiv-2607.17053v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.17005v1",
+  "type": "paper",
+  "name": "Provably Good Prim-Dijkstra Revisited: New Theory and a Practical Algorithm for a Classical VLSI Routing Problem with LLMs",
+  "href": "entity-paper-arxiv-2607.17005v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16855v1",
+  "type": "paper",
+  "name": "Rtl2lean: Automated RTL-to-Lean Translation with Hierarchical Theorem Generation and Lemma Reuse",
+  "href": "entity-paper-arxiv-2607.16855v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16771v1",
+  "type": "paper",
+  "name": "SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing",
+  "href": "entity-paper-arxiv-2607.16771v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16555v1",
+  "type": "paper",
+  "name": "Mitigating Compiler Fusion-Induced Power Bursts in Mobile NPU Inference as the Battery Depletes",
+  "href": "entity-paper-arxiv-2607.16555v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16488v1",
+  "type": "paper",
+  "name": "Auto-Scaling Heterogeneous Neural Processing Units for Energy and Cost-Efficient LLM Serving",
+  "href": "entity-paper-arxiv-2607.16488v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16473v1",
+  "type": "paper",
+  "name": "Enabling Spatially Fine-Grained DVFS in Neural Processing Units for Energy-Efficient LLM Serving",
+  "href": "entity-paper-arxiv-2607.16473v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.16408v1",
+  "type": "paper",
+  "name": "Rethinking Polling Efficiency in Service Core Network Stacks",
+  "href": "entity-paper-arxiv-2607.16408v1.html"
+ },
+ {
+  "id": "organization:arm",
+  "type": "organization",
+  "name": "Arm",
+  "href": "entity-organization-arm.html"
  }
 ]
