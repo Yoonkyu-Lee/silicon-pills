@@ -1,5 +1,125 @@
 [
  {
+  "id": "ev-news-amat-f99246fa9735d70e",
+  "date": "2026-07-23",
+  "type": "announcement",
+  "title": "Applied Materials 발표: Applied Materials to Report Fiscal Third Quarter 2026 Results on Aug. 13, 2026",
+  "primary": "organization:amat",
+  "source": {
+   "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-report-fiscal-third-quarter-2026-results-aug",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-2f042bdc75f80df2",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/research-inside-ep1/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-nvidia-562676d43cd3bbbc",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "NVIDIA 발표: NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
+  "primary": "organization:nvidia",
+  "source": {
+   "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-arm-5d518800d3c21de2",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "Arm 발표: How the Arm AGI CPU supports the most demanding agentic AI workloads at scale",
+  "primary": "organization:arm",
+  "source": {
+   "url": "https://newsroom.arm.com/blog/how-arm-agi-cpu-powers-ai-at-scale",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-20600147-2026-07-21",
+  "date": "2026-07-21",
+  "type": "price_change",
+  "title": "삼성전자 990 PRO 히트싱크 M.2 NVMe (2TB) 최저가 +8.7% — 783,190원",
+  "primary": "part_price:danawa-20600147",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=20600147",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-75541700-2026-07-21",
+  "date": "2026-07-21",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 최저가 -3.9% — 2,067,060원",
+  "primary": "part_price:danawa-75541700",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=75541700",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-5764992-2026-07-21",
+  "date": "2026-07-21",
+  "type": "price_change",
+  "title": "Seagate BarraCuda 5400/256M (8TB, ST8000DM004) 최저가 +50.3% — 479,500원",
+  "primary": "part_price:danawa-5764992",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=5764992",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-77379380-2026-07-21",
+  "date": "2026-07-21",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 최저가 -10.2% — 974,780원",
+  "primary": "part_price:danawa-77379380",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=77379380",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-nvidia-c1d126a13f15d841",
   "date": "2026-07-20",
   "type": "announcement",
@@ -1402,126 +1522,6 @@
   "primary": "paper:arxiv:2607.07643v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.07643v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.07625v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: Embedded Blockchain Infrastructure Management (eBIM): A RISC-V-Empowered Hardware--Software Co-Design Framework Towards Trustworthy Blockchain",
-  "primary": "paper:arxiv:2607.07625v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.07625v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.07372v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: Vectorizing Quantum Control: A RISC-V Vector Extension Architecture for Scalable Qubit Systems",
-  "primary": "paper:arxiv:2607.07372v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.07372v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.07207v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: Memory Scarcity, Open Models, and the Restructuring of the AI Industry, 2026-2030 -- A quantitative scenario analysis of inference economics, training-cost divergence, and infrastructure solvency",
-  "primary": "paper:arxiv:2607.07207v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.07207v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.07164v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: Miter-Aware LUT Mapping: Aligning Structure and Solvability for Efficient Logic Equivalence Checking",
-  "primary": "paper:arxiv:2607.07164v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.07164v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.07096v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: ThermoDSE: A Thermal-Aware and Comprehensive Design Space Exploration for Chiplet-Based DNN Accelerators",
-  "primary": "paper:arxiv:2607.07096v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.07096v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.06982v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: EdgeCompress: Coupling Multidimensional Model Compression and Dynamic Inference for EdgeAI",
-  "primary": "paper:arxiv:2607.06982v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.06982v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.06915v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: Smart Scissor: Coupling Spatial Redundancy Reduction and CNN Compression for Embedded Hardware",
-  "primary": "paper:arxiv:2607.06915v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.06915v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.09775v1",
-  "date": "2026-07-07",
-  "type": "paper_published",
-  "title": "arXiv: WINT: A Novel Weighted Integer Representation with Improved Error Characteristics",
-  "primary": "paper:arxiv:2607.09775v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.09775v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

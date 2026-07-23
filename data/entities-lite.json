@@ -1450,5 +1450,17 @@
   "type": "organization",
   "name": "Arm",
   "href": "entity-organization-arm.html"
+ },
+ {
+  "id": "organization:skhynix",
+  "type": "organization",
+  "name": "SK하이닉스",
+  "href": "entity-organization-skhynix.html"
+ },
+ {
+  "id": "organization:amat",
+  "type": "organization",
+  "name": "Applied Materials",
+  "href": "entity-organization-amat.html"
  }
 ]
