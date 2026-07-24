@@ -1,5 +1,20 @@
 [
  {
+  "id": "ev-edgar-0000050863-26-000157",
+  "date": "2026-07-24",
+  "type": "disclosure",
+  "title": "Intel SEC 10-Q 제출 — 분기 실적 공시",
+  "primary": "organization:edgar-50863",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-amat-f99246fa9735d70e",
   "date": "2026-07-23",
   "type": "announcement",
@@ -7,6 +22,51 @@
   "primary": "organization:amat",
   "source": {
    "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-report-fiscal-third-quarter-2026-results-aug",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.21408v1",
+  "date": "2026-07-23",
+  "type": "paper_published",
+  "title": "arXiv: Chip Floorplanning Combining Convex and Non-convex Optimization",
+  "primary": "paper:arxiv:2607.21408v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.21408v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.21130v1",
+  "date": "2026-07-23",
+  "type": "paper_published",
+  "title": "arXiv: Hardware-Software Co-Design for Float16 On-Device Training on RISC-V Single-Core",
+  "primary": "paper:arxiv:2607.21130v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.21130v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000050863-26-000155",
+  "date": "2026-07-23",
+  "type": "disclosure",
+  "title": "Intel SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-50863",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000155/intc-20260723.htm",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -52,6 +112,126 @@
   "primary": "organization:arm",
   "source": {
    "url": "https://newsroom.arm.com/blog/how-arm-agi-cpu-powers-ai-at-scale",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.20638v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: WaveformQA: Benchmarking LLM Temporal Reasoning on Digital Waveforms",
+  "primary": "paper:arxiv:2607.20638v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.20638v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.20358v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: PolySim: Deterministic Polynomial Surrogates for Cross-Modal Retrieval on CiM",
+  "primary": "paper:arxiv:2607.20358v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.20358v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.20141v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: Formal Foundations for Known Good Reliable Die Screening in Chiplet-Based AI Systems-on-Chip",
+  "primary": "paper:arxiv:2607.20141v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.20141v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19922v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: DGNA: Dissecting GPU NUMA Architecture through Microbenchmarking and Data Analysis",
+  "primary": "paper:arxiv:2607.19922v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19922v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19881v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: Revisiting Hardware Priority Queue Architectures",
+  "primary": "paper:arxiv:2607.19881v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19881v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19796v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: Mammal: Supporting Breastfeeding Monitoring Through Computational Garments with Inter-Body Sensing",
+  "primary": "paper:arxiv:2607.19796v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19796v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19768v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Routing",
+  "primary": "paper:arxiv:2607.19768v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19768v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19661v1",
+  "date": "2026-07-22",
+  "type": "paper_published",
+  "title": "arXiv: Leveraging ECRAM for Edge Continual Learning",
+  "primary": "paper:arxiv:2607.19661v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19661v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -116,6 +296,96 @@
   },
   "confidence": "공식확정",
   "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19623v1",
+  "date": "2026-07-21",
+  "type": "paper_published",
+  "title": "arXiv: From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory",
+  "primary": "paper:arxiv:2607.19623v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19623v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19310v1",
+  "date": "2026-07-21",
+  "type": "paper_published",
+  "title": "arXiv: Distributed Delay-Based BIST for Mixed-Signal Circuits in Flexible Electronics",
+  "primary": "paper:arxiv:2607.19310v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19310v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19248v1",
+  "date": "2026-07-21",
+  "type": "paper_published",
+  "title": "arXiv: A Flexible Sparsity-Aware FPGA Accelerator with Column-Wise Compression for Efficient CNN Inference",
+  "primary": "paper:arxiv:2607.19248v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19248v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.18765v1",
+  "date": "2026-07-21",
+  "type": "paper_published",
+  "title": "arXiv: High-Level Synthesis of Efficient Pipelines with Visibility Control",
+  "primary": "paper:arxiv:2607.18765v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.18765v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19438v1",
+  "date": "2026-07-21",
+  "type": "paper_published",
+  "title": "arXiv: BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
+  "primary": "paper:arxiv:2607.19438v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19438v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.18720v1",
+  "date": "2026-07-21",
+  "type": "paper_published",
+  "title": "arXiv: An Efficient Fault-Tolerance Scheme for CKKS Computation on CPUs",
+  "primary": "paper:arxiv:2607.18720v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.18720v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -262,6 +532,51 @@
   "primary": "paper:arxiv:2607.17518v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.17518v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.18533v1",
+  "date": "2026-07-20",
+  "type": "paper_published",
+  "title": "arXiv: PIP-NTT: Towards a Scalable Memory-Parallelized Accelerator for Iterative NTT in PQC",
+  "primary": "paper:arxiv:2607.18533v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.18533v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.18519v1",
+  "date": "2026-07-20",
+  "type": "paper_published",
+  "title": "arXiv: A Progressive Approach to Synthesizable RTL Design Generation Using LLMs",
+  "primary": "paper:arxiv:2607.18519v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.18519v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.19431v1",
+  "date": "2026-07-20",
+  "type": "paper_published",
+  "title": "arXiv: BRIM: Workload-Balanced Dual-Sided Bit-Serial Sparse Inference Accelerator",
+  "primary": "paper:arxiv:2607.19431v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.19431v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1192,336 +1507,6 @@
   "primary": "paper:arxiv:2607.10788v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.10788v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10707v1",
-  "date": "2026-07-12",
-  "type": "paper_published",
-  "title": "arXiv: MDQEC-QAS: Meta-Decoding for Quantum Error Correction with Hardware-Aware VQC Search and Confidence-Gated Recovery",
-  "primary": "paper:arxiv:2607.10707v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10707v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-accelerator-2026-W28",
-  "date": "2026-07-12",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 6편 (2026-W28)",
-  "primary": "process_tech:accelerator",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2607.05475v1",
-   "http://arxiv.org/abs/2607.05818v1",
-   "http://arxiv.org/abs/2607.07096v1",
-   "http://arxiv.org/abs/2607.08002v1",
-   "http://arxiv.org/abs/2607.08427v1",
-   "http://arxiv.org/abs/2607.08993v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-llm-hw-2026-W28",
-  "date": "2026-07-12",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 5편 (2026-W28)",
-  "primary": "process_tech:llm-hw",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2607.05475v1",
-   "http://arxiv.org/abs/2607.10186v1",
-   "http://arxiv.org/abs/2607.10340v1",
-   "http://arxiv.org/abs/2607.13068v1",
-   "http://arxiv.org/abs/2607.13079v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10499v1",
-  "date": "2026-07-11",
-  "type": "paper_published",
-  "title": "arXiv: K-ESBMC: An Executable Formal Semantics of IEC 61131-3 Ladder Diagram for Validating Verifier Translations",
-  "primary": "paper:arxiv:2607.10499v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10499v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10392v2",
-  "date": "2026-07-11",
-  "type": "paper_published",
-  "title": "arXiv: Dynamic Rowhammer Threshold Management:Temperature-Aware Threshold Degradation for In-DRAM Defenses",
-  "primary": "paper:arxiv:2607.10392v2",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10392v2",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10340v1",
-  "date": "2026-07-11",
-  "type": "paper_published",
-  "title": "arXiv: When Fuzzing Meets Understanding: LLM-Driven Semantic Test Generation for RTL Verification",
-  "primary": "paper:arxiv:2607.10340v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10340v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10186v1",
-  "date": "2026-07-11",
-  "type": "paper_published",
-  "title": "arXiv: FlashAccel: Leveraging High-Bandwidth Flash for High-Throughput LLM Inference",
-  "primary": "paper:arxiv:2607.10186v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10186v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10109v1",
-  "date": "2026-07-11",
-  "type": "paper_published",
-  "title": "arXiv: Adaptive Model Compression (AMC): Saliency-Driven Resource Allocation for Ultra-Low-Power Transformer Inference",
-  "primary": "paper:arxiv:2607.10109v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10109v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10046v1",
-  "date": "2026-07-10",
-  "type": "paper_published",
-  "title": "arXiv: Kinetic Inductors Enable Reversible Logic",
-  "primary": "paper:arxiv:2607.10046v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10046v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13068v1",
-  "date": "2026-07-10",
-  "type": "paper_published",
-  "title": "arXiv: The Economics of AI Decoding Chips: Rebalancing Compute, Capacity, and Bandwidth for Efficient LLM Inference",
-  "primary": "paper:arxiv:2607.13068v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13068v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10021v1",
-  "date": "2026-07-10",
-  "type": "paper_published",
-  "title": "arXiv: A Symbolic Neural CPU for Quantization-Simulated Writeback and Interpretable Program Execution",
-  "primary": "paper:arxiv:2607.10021v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10021v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.09616v1",
-  "date": "2026-07-10",
-  "type": "paper_published",
-  "title": "arXiv: LLM for EDA in Front-End Design: Challenges and Opportunities",
-  "primary": "paper:arxiv:2607.09616v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.09616v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.09400v1",
-  "date": "2026-07-10",
-  "type": "paper_published",
-  "title": "arXiv: On-Device Adaptive Battery Power Prediction for Electric Vehicles",
-  "primary": "paper:arxiv:2607.09400v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.09400v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.08993v1",
-  "date": "2026-07-09",
-  "type": "paper_published",
-  "title": "arXiv: StreamDQ: Near-Memory Weight DeQuantization in Custom HBM for Scalable AI Inference Acceleration",
-  "primary": "paper:arxiv:2607.08993v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.08993v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.08550v1",
-  "date": "2026-07-09",
-  "type": "paper_published",
-  "title": "arXiv: ESBMC-Arduino: Closing the Deployment Gap for Formal Verification of Open-Hardware PLCs",
-  "primary": "paper:arxiv:2607.08550v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.08550v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.08427v1",
-  "date": "2026-07-09",
-  "type": "paper_published",
-  "title": "arXiv: FPGN: Redefining Ultra-Fast Programmable Gate-based Neural Acceleration with Differentiable LUTs",
-  "primary": "paper:arxiv:2607.08427v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.08427v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.08417v1",
-  "date": "2026-07-09",
-  "type": "paper_published",
-  "title": "arXiv: Detecting Ladder Logic Bombs in IEC 61131-3 PLC Programs using ESBMC-PLC+: A Formal Verification Approach with Trigger Synthesis",
-  "primary": "paper:arxiv:2607.08417v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.08417v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.08407v1",
-  "date": "2026-07-09",
-  "type": "paper_published",
-  "title": "arXiv: Who Needs DRAM? We Have Fiber",
-  "primary": "paper:arxiv:2607.08407v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.08407v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.08015v1",
-  "date": "2026-07-09",
-  "type": "paper_published",
-  "title": "arXiv: CRIMP: Compact & Reliable DNN Inference on In-Memory Processing via Crossbar-Aligned Compression and Non-ideality Adaptation",
-  "primary": "paper:arxiv:2607.08015v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.08015v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.08002v1",
-  "date": "2026-07-09",
-  "type": "paper_published",
-  "title": "arXiv: A Theoretical Framework for Stochastic Activity Prediction in Tensor Accelerator Wallace-Tree Multipliers",
-  "primary": "paper:arxiv:2607.08002v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.08002v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.07643v1",
-  "date": "2026-07-08",
-  "type": "paper_published",
-  "title": "arXiv: ATLAS: Automated HLS for DL-Optimized FPGAs",
-  "primary": "paper:arxiv:2607.07643v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.07643v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

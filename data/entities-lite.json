@@ -1462,5 +1462,125 @@
   "type": "organization",
   "name": "Applied Materials",
   "href": "entity-organization-amat.html"
+ },
+ {
+  "id": "paper:arxiv:2607.21408v1",
+  "type": "paper",
+  "name": "Chip Floorplanning Combining Convex and Non-convex Optimization",
+  "href": "entity-paper-arxiv-2607.21408v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.21130v1",
+  "type": "paper",
+  "name": "Hardware-Software Co-Design for Float16 On-Device Training on RISC-V Single-Core",
+  "href": "entity-paper-arxiv-2607.21130v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.20638v1",
+  "type": "paper",
+  "name": "WaveformQA: Benchmarking LLM Temporal Reasoning on Digital Waveforms",
+  "href": "entity-paper-arxiv-2607.20638v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.20358v1",
+  "type": "paper",
+  "name": "PolySim: Deterministic Polynomial Surrogates for Cross-Modal Retrieval on CiM",
+  "href": "entity-paper-arxiv-2607.20358v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.20141v1",
+  "type": "paper",
+  "name": "Formal Foundations for Known Good Reliable Die Screening in Chiplet-Based AI Systems-on-Chip",
+  "href": "entity-paper-arxiv-2607.20141v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19922v1",
+  "type": "paper",
+  "name": "DGNA: Dissecting GPU NUMA Architecture through Microbenchmarking and Data Analysis",
+  "href": "entity-paper-arxiv-2607.19922v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19881v1",
+  "type": "paper",
+  "name": "Revisiting Hardware Priority Queue Architectures",
+  "href": "entity-paper-arxiv-2607.19881v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19796v1",
+  "type": "paper",
+  "name": "Mammal: Supporting Breastfeeding Monitoring Through Computational Garments with Inter-Body Sensing",
+  "href": "entity-paper-arxiv-2607.19796v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19768v1",
+  "type": "paper",
+  "name": "AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Routing",
+  "href": "entity-paper-arxiv-2607.19768v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19661v1",
+  "type": "paper",
+  "name": "Leveraging ECRAM for Edge Continual Learning",
+  "href": "entity-paper-arxiv-2607.19661v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19623v1",
+  "type": "paper",
+  "name": "From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory",
+  "href": "entity-paper-arxiv-2607.19623v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19310v1",
+  "type": "paper",
+  "name": "Distributed Delay-Based BIST for Mixed-Signal Circuits in Flexible Electronics",
+  "href": "entity-paper-arxiv-2607.19310v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19248v1",
+  "type": "paper",
+  "name": "A Flexible Sparsity-Aware FPGA Accelerator with Column-Wise Compression for Efficient CNN Inference",
+  "href": "entity-paper-arxiv-2607.19248v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.18765v1",
+  "type": "paper",
+  "name": "High-Level Synthesis of Efficient Pipelines with Visibility Control",
+  "href": "entity-paper-arxiv-2607.18765v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19438v1",
+  "type": "paper",
+  "name": "BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
+  "href": "entity-paper-arxiv-2607.19438v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.18720v1",
+  "type": "paper",
+  "name": "An Efficient Fault-Tolerance Scheme for CKKS Computation on CPUs",
+  "href": "entity-paper-arxiv-2607.18720v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.18533v1",
+  "type": "paper",
+  "name": "PIP-NTT: Towards a Scalable Memory-Parallelized Accelerator for Iterative NTT in PQC",
+  "href": "entity-paper-arxiv-2607.18533v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.18519v1",
+  "type": "paper",
+  "name": "A Progressive Approach to Synthesizable RTL Design Generation Using LLMs",
+  "href": "entity-paper-arxiv-2607.18519v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.19431v1",
+  "type": "paper",
+  "name": "BRIM: Workload-Balanced Dual-Sided Bit-Serial Sparse Inference Accelerator",
+  "href": "entity-paper-arxiv-2607.19431v1.html"
+ },
+ {
+  "id": "organization:edgar-50863",
+  "type": "organization",
+  "name": "Intel",
+  "href": "entity-organization-edgar-50863.html"
  }
 ]
