@@ -1582,5 +1582,17 @@
   "type": "organization",
   "name": "Intel",
   "href": "entity-organization-edgar-50863.html"
+ },
+ {
+  "id": "organization:samsung",
+  "type": "organization",
+  "name": "삼성전자",
+  "href": "entity-organization-samsung.html"
+ },
+ {
+  "id": "organization:intel",
+  "type": "organization",
+  "name": "Intel",
+  "href": "entity-organization-intel.html"
  }
 ]

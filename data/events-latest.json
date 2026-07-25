@@ -1,5 +1,50 @@
 [
  {
+  "id": "ev-news-skhynix-c03b28323e192813",
+  "date": "2026-07-25",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-nvidia-6b8e90e34c4b3951",
+  "date": "2026-07-25",
+  "type": "announcement",
+  "title": "NVIDIA 발표: SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+  "primary": "organization:nvidia",
+  "source": {
+   "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-samsung-45618ce84e92fa85",
+  "date": "2026-07-25",
+  "type": "announcement",
+  "title": "삼성전자 발표: Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
+  "primary": "organization:samsung",
+  "source": {
+   "url": "https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-edgar-0000050863-26-000157",
   "date": "2026-07-24",
   "type": "disclosure",
@@ -7,6 +52,21 @@
   "primary": "organization:edgar-50863",
   "source": {
    "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-intel-46db74a3dc25c393",
+  "date": "2026-07-24",
+  "type": "announcement",
+  "title": "Intel 발표: Intel and Lens Technology Collaborate to Enable Advanced Semiconductor Packaging for the AI Era",
+  "primary": "organization:intel",
+  "source": {
+   "url": "https://newsroom.intel.com/new-technologies/intel-and-lens-technology-collaborate-to-enable-advanced-semiconductor-packaging-for-the-ai-era",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1447,66 +1507,6 @@
   "primary": "paper:arxiv:2607.11153v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.11153v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13079v1",
-  "date": "2026-07-12",
-  "type": "paper_published",
-  "title": "arXiv: ChipVerilog: A Large-Scale OpenCores-Derived Benchmark for LLM-Based Verilog RTL Generation",
-  "primary": "paper:arxiv:2607.13079v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13079v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10944v1",
-  "date": "2026-07-12",
-  "type": "paper_published",
-  "title": "arXiv: IRONSmith: A Visual Dataflow Design Environment for AMD Ryzen AI NPUs",
-  "primary": "paper:arxiv:2607.10944v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10944v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10942v1",
-  "date": "2026-07-12",
-  "type": "paper_published",
-  "title": "arXiv: Edge Physical AI Deployment of Vision Transformers on Heterogeneous Edge GPU Targeting Autonomous Vehicles",
-  "primary": "paper:arxiv:2607.10942v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10942v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.10788v1",
-  "date": "2026-07-12",
-  "type": "paper_published",
-  "title": "arXiv: Soft-Error Characterization and Hardening Trade-offs in Static PCHB Asynchronous Circuits",
-  "primary": "paper:arxiv:2607.10788v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.10788v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
