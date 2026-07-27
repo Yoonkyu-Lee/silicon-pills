@@ -1,5 +1,46 @@
 [
  {
+  "id": "ev-news-nvidia-974f35f6c57c4bb3",
+  "date": "2026-07-27",
+  "type": "announcement",
+  "title": "NVIDIA 발표: NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
+  "primary": "organization:nvidia",
+  "source": {
+   "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-accelerator-2026-W30",
+  "date": "2026-07-26",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 9편 (2026-W30)",
+  "primary": "process_tech:accelerator",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2607.17538v1",
+   "http://arxiv.org/abs/2607.17569v1",
+   "http://arxiv.org/abs/2607.18533v1",
+   "http://arxiv.org/abs/2607.19248v1",
+   "http://arxiv.org/abs/2607.19431v1",
+   "http://arxiv.org/abs/2607.19438v1",
+   "http://arxiv.org/abs/2607.22022v1",
+   "http://arxiv.org/abs/2607.22038v1",
+   "http://arxiv.org/abs/2607.22389v1"
+  ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-skhynix-c03b28323e192813",
   "date": "2026-07-25",
   "type": "announcement",
@@ -75,6 +116,66 @@
   "linked": []
  },
  {
+  "id": "ev-arxiv:2607.22389v1",
+  "date": "2026-07-24",
+  "type": "paper_published",
+  "title": "arXiv: HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding",
+  "primary": "paper:arxiv:2607.22389v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.22389v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.22038v1",
+  "date": "2026-07-24",
+  "type": "paper_published",
+  "title": "arXiv: Sparse by Command: Task-Conditional Compute Skipping for Multi-Task Inference Accelerators",
+  "primary": "paper:arxiv:2607.22038v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.22038v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.22022v1",
+  "date": "2026-07-24",
+  "type": "paper_published",
+  "title": "arXiv: HEMERA: A Heterogeneous Memory-Centric Accelerator with Recursive Dataflow for Edge-Constrained State-Space-Duality Models Inference",
+  "primary": "paper:arxiv:2607.22022v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.22022v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.21985v1",
+  "date": "2026-07-24",
+  "type": "paper_published",
+  "title": "arXiv: Unified Static-Dynamic Pruning for Efficient LLM Inference",
+  "primary": "paper:arxiv:2607.21985v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.21985v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-amat-f99246fa9735d70e",
   "date": "2026-07-23",
   "type": "announcement",
@@ -127,6 +228,21 @@
   "primary": "organization:edgar-50863",
   "source": {
    "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000155/intc-20260723.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.21731v1",
+  "date": "2026-07-23",
+  "type": "paper_published",
+  "title": "arXiv: RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
+  "primary": "paper:arxiv:2607.21731v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.21731v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1406,111 +1522,6 @@
   },
   "confidence": "공식확정",
   "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12126v1",
-  "date": "2026-07-13",
-  "type": "paper_published",
-  "title": "arXiv: FPGA-Based Mini X-Ray Detector Front-End",
-  "primary": "paper:arxiv:2607.12126v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12126v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.11859v1",
-  "date": "2026-07-13",
-  "type": "paper_published",
-  "title": "arXiv: Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers?",
-  "primary": "paper:arxiv:2607.11859v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.11859v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13089v1",
-  "date": "2026-07-13",
-  "type": "paper_published",
-  "title": "arXiv: The Reconstructions of Konrad Zuse's Z3 Computer",
-  "primary": "paper:arxiv:2607.13089v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13089v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.11746v1",
-  "date": "2026-07-13",
-  "type": "paper_published",
-  "title": "arXiv: HiFi-LLP: High-Fidelity, Low-Cost Latency Predictors with Confidence for Robust HW-NAS",
-  "primary": "paper:arxiv:2607.11746v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.11746v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.11490v1",
-  "date": "2026-07-13",
-  "type": "paper_published",
-  "title": "arXiv: AtomFlow: An End-to-End FPGA-Based Control Architecture for Neutral Atom Quantum Computers",
-  "primary": "paper:arxiv:2607.11490v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.11490v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.11294v2",
-  "date": "2026-07-13",
-  "type": "paper_published",
-  "title": "arXiv: From Tool Invocation to Source-Mechanism Exploration: Protected White-Box DSE for Open-Source EDA",
-  "primary": "paper:arxiv:2607.11294v2",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.11294v2",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.11153v1",
-  "date": "2026-07-13",
-  "type": "paper_published",
-  "title": "arXiv: Reliable Associative Lookup in Content-Addressable Memory",
-  "primary": "paper:arxiv:2607.11153v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.11153v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
   "lang": "ko",
   "linked": []
  }

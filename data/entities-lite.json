@@ -1594,5 +1594,35 @@
   "type": "organization",
   "name": "Intel",
   "href": "entity-organization-intel.html"
+ },
+ {
+  "id": "paper:arxiv:2607.22389v1",
+  "type": "paper",
+  "name": "HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding",
+  "href": "entity-paper-arxiv-2607.22389v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.22038v1",
+  "type": "paper",
+  "name": "Sparse by Command: Task-Conditional Compute Skipping for Multi-Task Inference Accelerators",
+  "href": "entity-paper-arxiv-2607.22038v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.22022v1",
+  "type": "paper",
+  "name": "HEMERA: A Heterogeneous Memory-Centric Accelerator with Recursive Dataflow for Edge-Constrained State-Space-Duality Models Inference",
+  "href": "entity-paper-arxiv-2607.22022v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.21985v1",
+  "type": "paper",
+  "name": "Unified Static-Dynamic Pruning for Efficient LLM Inference",
+  "href": "entity-paper-arxiv-2607.21985v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.21731v1",
+  "type": "paper",
+  "name": "RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
+  "href": "entity-paper-arxiv-2607.21731v1.html"
  }
 ]
