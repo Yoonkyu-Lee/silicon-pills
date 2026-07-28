@@ -1624,5 +1624,83 @@
   "type": "paper",
   "name": "RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
   "href": "entity-paper-arxiv-2607.21731v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.24669v1",
+  "type": "paper",
+  "name": "A Heterogeneous Neural Network Accelerator for End-to-End Multitask RF Signal Recognition",
+  "href": "entity-paper-arxiv-2607.24669v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.24396v1",
+  "type": "paper",
+  "name": "The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing",
+  "href": "entity-paper-arxiv-2607.24396v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.24221v1",
+  "type": "paper",
+  "name": "DICE: Detailed Inter-Chiplet End-to-End PHY Modeling for Accurate Chiplet Simulation",
+  "href": "entity-paper-arxiv-2607.24221v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.24196v1",
+  "type": "paper",
+  "name": "PIMID: A Full-System Simulator with Intricacy and Diversity for Processing-in-Memory",
+  "href": "entity-paper-arxiv-2607.24196v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.23882v1",
+  "type": "paper",
+  "name": "ADVERSARIAL: And-Inverter Graph-Assisted Hardware Trojan Detection At Scale",
+  "href": "entity-paper-arxiv-2607.23882v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.23523v1",
+  "type": "paper",
+  "name": "CircuitWeave: Topology-Behavior Alignment for Executable Multimodal RTL Generation",
+  "href": "entity-paper-arxiv-2607.23523v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.23402v1",
+  "type": "paper",
+  "name": "Characterizing Warp Divergence from Pascal to Blackwell",
+  "href": "entity-paper-arxiv-2607.23402v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.23218v1",
+  "type": "paper",
+  "name": "SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow",
+  "href": "entity-paper-arxiv-2607.23218v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.23099v1",
+  "type": "paper",
+  "name": "Decoding the Skew: Distribution-Aware MoE Inference with Adaptive Kernel Dispatch",
+  "href": "entity-paper-arxiv-2607.23099v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.23000v1",
+  "type": "paper",
+  "name": "Magnetic Tunnel Junctions for Timekeeping in Intermittent Computing Systems",
+  "href": "entity-paper-arxiv-2607.23000v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.22869v1",
+  "type": "paper",
+  "name": "Multi-primitive in-memory computing for Monte Carlo tree search",
+  "href": "entity-paper-arxiv-2607.22869v1.html"
+ },
+ {
+  "id": "certification:A3LSMX840",
+  "type": "certification",
+  "name": "FCC A3LSMX840 (Samsung)",
+  "href": "entity-certification-A3LSMX840.html"
+ },
+ {
+  "id": "certification:A3LSMX848U",
+  "type": "certification",
+  "name": "FCC A3LSMX848U (Samsung)",
+  "href": "entity-certification-A3LSMX848U.html"
  }
 ]

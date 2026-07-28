@@ -1,5 +1,50 @@
 [
  {
+  "id": "ev-fccid-A3LSMX840",
+  "date": "2026-07-28",
+  "type": "cert_filed",
+  "title": "FCC 신규 인증 관측: A3LSMX840 — Samsung",
+  "primary": "certification:A3LSMX840",
+  "source": {
+   "url": "https://fccid.io/A3LSMX840",
+   "tier": "1차"
+  },
+  "confidence": "인증",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-fccid-A3LSMX848U",
+  "date": "2026-07-28",
+  "type": "cert_filed",
+  "title": "FCC 신규 인증 관측: A3LSMX848U — Samsung",
+  "primary": "certification:A3LSMX848U",
+  "source": {
+   "url": "https://fccid.io/A3LSMX848U",
+   "tier": "1차"
+  },
+  "confidence": "인증",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-6a556b4871cc9ac7",
+  "date": "2026-07-28",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: Q2 2026 Earnings Conference Call Invitation",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/q2-2026-earnings-conference-call-invitation/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-nvidia-974f35f6c57c4bb3",
   "date": "2026-07-27",
   "type": "announcement",
@@ -7,6 +52,66 @@
   "primary": "organization:nvidia",
   "source": {
    "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.24669v1",
+  "date": "2026-07-27",
+  "type": "paper_published",
+  "title": "arXiv: A Heterogeneous Neural Network Accelerator for End-to-End Multitask RF Signal Recognition",
+  "primary": "paper:arxiv:2607.24669v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.24669v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.24396v1",
+  "date": "2026-07-27",
+  "type": "paper_published",
+  "title": "arXiv: The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing",
+  "primary": "paper:arxiv:2607.24396v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.24396v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.24221v1",
+  "date": "2026-07-27",
+  "type": "paper_published",
+  "title": "arXiv: DICE: Detailed Inter-Chiplet End-to-End PHY Modeling for Accurate Chiplet Simulation",
+  "primary": "paper:arxiv:2607.24221v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.24221v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.24196v1",
+  "date": "2026-07-27",
+  "type": "paper_published",
+  "title": "arXiv: PIMID: A Full-System Simulator with Intricacy and Diversity for Processing-in-Memory",
+  "primary": "paper:arxiv:2607.24196v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.24196v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -37,6 +142,51 @@
    "http://arxiv.org/abs/2607.22038v1",
    "http://arxiv.org/abs/2607.22389v1"
   ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.23882v1",
+  "date": "2026-07-26",
+  "type": "paper_published",
+  "title": "arXiv: ADVERSARIAL: And-Inverter Graph-Assisted Hardware Trojan Detection At Scale",
+  "primary": "paper:arxiv:2607.23882v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.23882v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.23523v1",
+  "date": "2026-07-26",
+  "type": "paper_published",
+  "title": "arXiv: CircuitWeave: Topology-Behavior Alignment for Executable Multimodal RTL Generation",
+  "primary": "paper:arxiv:2607.23523v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.23523v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.23402v1",
+  "date": "2026-07-26",
+  "type": "paper_published",
+  "title": "arXiv: Characterizing Warp Divergence from Pascal to Blackwell",
+  "primary": "paper:arxiv:2607.23402v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.23402v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -78,6 +228,51 @@
   "primary": "organization:samsung",
   "source": {
    "url": "https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.23218v1",
+  "date": "2026-07-25",
+  "type": "paper_published",
+  "title": "arXiv: SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow",
+  "primary": "paper:arxiv:2607.23218v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.23218v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.23099v1",
+  "date": "2026-07-25",
+  "type": "paper_published",
+  "title": "arXiv: Decoding the Skew: Distribution-Aware MoE Inference with Adaptive Kernel Dispatch",
+  "primary": "paper:arxiv:2607.23099v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.23099v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.23000v1",
+  "date": "2026-07-25",
+  "type": "paper_published",
+  "title": "arXiv: Magnetic Tunnel Junctions for Timekeeping in Intermittent Computing Systems",
+  "primary": "paper:arxiv:2607.23000v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.23000v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -168,6 +363,21 @@
   "primary": "paper:arxiv:2607.21985v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.21985v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.22869v1",
+  "date": "2026-07-24",
+  "type": "paper_published",
+  "title": "arXiv: Multi-primitive in-memory computing for Monte Carlo tree search",
+  "primary": "paper:arxiv:2607.22869v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.22869v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1312,216 +1522,6 @@
   },
   "confidence": "공식확정",
   "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.14165v1",
-  "date": "2026-07-15",
-  "type": "paper_published",
-  "title": "arXiv: Towards Reliable AI-Assisted Analog Design: Template-Constrained LLM Agents for SAR ADC Generation",
-  "primary": "paper:arxiv:2607.14165v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.14165v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13325v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: A Reality Check on Quantum Optimisation: Evidence from an Industrial Case Study",
-  "primary": "paper:arxiv:2607.13325v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13325v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13184v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: Microflow: Microarchitectural Causal Observability for Deep Cross-Layer Analysis and Optimization",
-  "primary": "paper:arxiv:2607.13184v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13184v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12901v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: A 32-channel event-based bio-signal analog front-end with adaptive delta and pulse frequency encoding",
-  "primary": "paper:arxiv:2607.12901v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12901v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12839v3",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: HeteroMosaic: Exposing and Exploiting Heterogeneous Execution Opportunities for Energy-Efficient Edge LLM Inference",
-  "primary": "paper:arxiv:2607.12839v3",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12839v3",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12788v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: CLIP-3D: Closed-Loop Evaluation of Performance and Physical Constraints for 3D ICs",
-  "primary": "paper:arxiv:2607.12788v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12788v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13106v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: No Attention, No Problem: DPU-Aware Attention Approximation in Modern YOLO on FPGA",
-  "primary": "paper:arxiv:2607.13106v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13106v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12505v2",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: Realizable N:M Sparse Transformer Inference via Search-Kernel Co-Design",
-  "primary": "paper:arxiv:2607.12505v2",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12505v2",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12359v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: ArchSim: Computer Architecture Simulation as a Service",
-  "primary": "paper:arxiv:2607.12359v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12359v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13095v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit",
-  "primary": "paper:arxiv:2607.13095v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13095v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12298v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: Emulated Integrity Replica: Enabling Self-Healing on FPGA SoCs via Hierarchical Twins",
-  "primary": "paper:arxiv:2607.12298v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12298v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.12244v1",
-  "date": "2026-07-14",
-  "type": "paper_published",
-  "title": "arXiv: ORRAM: An OpenROAD-Integrated RAM Generator Using Standard Cells",
-  "primary": "paper:arxiv:2607.12244v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.12244v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-20644043-2026-07-14",
-  "date": "2026-07-14",
-  "type": "price_change",
-  "title": "삼성전자 DDR5-5600 (32GB) 최저가 +9.2% — 710,000원",
-  "primary": "part_price:danawa-20644043",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=20644043",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-5764992-2026-07-14",
-  "date": "2026-07-14",
-  "type": "price_change",
-  "title": "Seagate BarraCuda 5400/256M (8TB, ST8000DM004) 최저가 -32.0% — 319,000원",
-  "primary": "part_price:danawa-5764992",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=5764992",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
   "lang": "ko",
   "linked": []
  }
