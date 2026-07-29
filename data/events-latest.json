@@ -45,6 +45,126 @@
   "linked": []
  },
  {
+  "id": "ev-arxiv:2607.26016v1",
+  "date": "2026-07-28",
+  "type": "paper_published",
+  "title": "arXiv: MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+  "primary": "paper:arxiv:2607.26016v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.26016v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.25504v1",
+  "date": "2026-07-28",
+  "type": "paper_published",
+  "title": "arXiv: At-the-Roofline Sparse Tensor Contractions on Vector Processors for Transformer Inference",
+  "primary": "paper:arxiv:2607.25504v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.25504v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.25498v1",
+  "date": "2026-07-28",
+  "type": "paper_published",
+  "title": "arXiv: Beyond Prefill-Decode Disaggregation: Dissecting LLM Inference for Heterogeneous Platforms via Dynamic Operator Scheduling",
+  "primary": "paper:arxiv:2607.25498v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.25498v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.25283v1",
+  "date": "2026-07-28",
+  "type": "paper_published",
+  "title": "arXiv: ContractHIL-HLS: Contract-Aligned Multi-Agent Workflow with Hardware-in-the-Loop Feedback for HLS Design",
+  "primary": "paper:arxiv:2607.25283v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.25283v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-13190573-2026-07-28",
+  "date": "2026-07-28",
+  "type": "price_change",
+  "title": "삼성전자 870 EVO (1TB) 최저가 -3.5% — 529,990원",
+  "primary": "part_price:danawa-13190573",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=13190573",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-e6d3cc303d074d88",
+  "date": "2026-07-28",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Announces 2Q26 Financial Results",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/q2-2026-business-results-01/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-27b747a914209103",
+  "date": "2026-07-28",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Announces 2Q26 Financial Results",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/q2-2026-business-results/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000319201-26-000024",
+  "date": "2026-07-28",
+  "type": "disclosure",
+  "title": "KLA SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-319201",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000024/klac-20260728.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-nvidia-974f35f6c57c4bb3",
   "date": "2026-07-27",
   "type": "announcement",
@@ -112,6 +232,36 @@
   "primary": "paper:arxiv:2607.24196v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.24196v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.25058v1",
+  "date": "2026-07-27",
+  "type": "paper_published",
+  "title": "arXiv: Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing",
+  "primary": "paper:arxiv:2607.25058v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.25058v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.24998v1",
+  "date": "2026-07-27",
+  "type": "paper_published",
+  "title": "arXiv: VPR-Evolve: Multi-Agent-Driven Algorithm Evolution for FPGA Place and Route",
+  "primary": "paper:arxiv:2607.24998v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.24998v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -618,6 +768,96 @@
   "primary": "paper:arxiv:2607.19661v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.19661v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-8dce6e0ddb70e5cd",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/research-inside-ep1-01/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-d88daefe3b29379e",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/research-inside-ep1-02/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-ff169a869cee8852",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/research-inside-ep1-03/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-05e7993981213c7a",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/research-inside-ep1-04/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-3ead058e936f31bf",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/research-inside-ep1-06/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-4c87f1eaf8286579",
+  "date": "2026-07-22",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/research-inside-ep1-05/",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1278,246 +1518,6 @@
   "primary": "paper:arxiv:2607.16473v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.16473v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16408v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: Rethinking Polling Efficiency in Service Core Network Stacks",
-  "primary": "paper:arxiv:2607.16408v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16408v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15225v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: Campaign Diagrams: Visualizing the March Through the Phases of a Workload",
-  "primary": "paper:arxiv:2607.15225v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15225v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15123v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: NIFA: Nonlinear IMC enhanced FPGA for efficient ML inference",
-  "primary": "paper:arxiv:2607.15123v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15123v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15068v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: Pattern-Guided Design Space Exploration for FPGA Accelerator Design",
-  "primary": "paper:arxiv:2607.15068v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15068v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15005v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: Differentiable Routability-Driven Package Floorplanning with Pin Assignment",
-  "primary": "paper:arxiv:2607.15005v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15005v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.14908v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: CODA: Algorithm-Hardware Co-design for Edge Video Diffusion via NMP-Enabled Compute-Cache Operator Disaggregation",
-  "primary": "paper:arxiv:2607.14908v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.14908v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.14789v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: Valinor: Architectural Support for Fast, Energy-Efficient and Programmable Physical Memory Allocation",
-  "primary": "paper:arxiv:2607.14789v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.14789v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.14747v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: Toward Energy-Efficient and Low-Power Arrhythmia Detection for Wearable Devices",
-  "primary": "paper:arxiv:2607.14747v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.14747v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.14622v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: ExaGEMM: Exploration Framework for CPU-Driven ML Inference via Associative In-Register Computing for Low-Bit GEMM",
-  "primary": "paper:arxiv:2607.14622v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.14622v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.14618v1",
-  "date": "2026-07-16",
-  "type": "paper_published",
-  "title": "arXiv: PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference",
-  "primary": "paper:arxiv:2607.14618v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.14618v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-arm-b9ea2b8b7be81123",
-  "date": "2026-07-16",
-  "type": "announcement",
-  "title": "Arm 발표: Building the engine behind Arm’s silicon shift",
-  "primary": "organization:arm",
-  "source": {
-   "url": "https://newsroom.arm.com/blog/inside-arms-transition-from-ip-to-silicon",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.14008v1",
-  "date": "2026-07-15",
-  "type": "paper_published",
-  "title": "arXiv: Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points",
-  "primary": "paper:arxiv:2607.14008v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.14008v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13898v1",
-  "date": "2026-07-15",
-  "type": "paper_published",
-  "title": "arXiv: Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions",
-  "primary": "paper:arxiv:2607.13898v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13898v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13770v1",
-  "date": "2026-07-15",
-  "type": "paper_published",
-  "title": "arXiv: Kaleido: Algorithm-Hardware Co-Design for Video Diffusion Transformers by Exploiting Latent Space Correlations",
-  "primary": "paper:arxiv:2607.13770v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13770v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13649v1",
-  "date": "2026-07-15",
-  "type": "paper_published",
-  "title": "arXiv: CIMERA: Compute-in-Interconnect and Memory with Reconfigurable Precision for LLM Inference",
-  "primary": "paper:arxiv:2607.13649v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13649v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.13505v1",
-  "date": "2026-07-15",
-  "type": "paper_published",
-  "title": "arXiv: CODA: How to Mitigate ColumnDisturb for (Almost) Free?",
-  "primary": "paper:arxiv:2607.13505v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.13505v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

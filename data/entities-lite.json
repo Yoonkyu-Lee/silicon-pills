@@ -1702,5 +1702,47 @@
   "type": "certification",
   "name": "FCC A3LSMX848U (Samsung)",
   "href": "entity-certification-A3LSMX848U.html"
+ },
+ {
+  "id": "paper:arxiv:2607.26016v1",
+  "type": "paper",
+  "name": "MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar",
+  "href": "entity-paper-arxiv-2607.26016v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.25504v1",
+  "type": "paper",
+  "name": "At-the-Roofline Sparse Tensor Contractions on Vector Processors for Transformer Inference",
+  "href": "entity-paper-arxiv-2607.25504v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.25498v1",
+  "type": "paper",
+  "name": "Beyond Prefill-Decode Disaggregation: Dissecting LLM Inference for Heterogeneous Platforms via Dynamic Operator Scheduling",
+  "href": "entity-paper-arxiv-2607.25498v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.25283v1",
+  "type": "paper",
+  "name": "ContractHIL-HLS: Contract-Aligned Multi-Agent Workflow with Hardware-in-the-Loop Feedback for HLS Design",
+  "href": "entity-paper-arxiv-2607.25283v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.25058v1",
+  "type": "paper",
+  "name": "Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing",
+  "href": "entity-paper-arxiv-2607.25058v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.24998v1",
+  "type": "paper",
+  "name": "VPR-Evolve: Multi-Agent-Driven Algorithm Evolution for FPGA Place and Route",
+  "href": "entity-paper-arxiv-2607.24998v1.html"
+ },
+ {
+  "id": "organization:edgar-319201",
+  "type": "organization",
+  "name": "KLA",
+  "href": "entity-organization-edgar-319201.html"
  }
 ]
