@@ -1744,5 +1744,47 @@
   "type": "organization",
   "name": "KLA",
   "href": "entity-organization-edgar-319201.html"
+ },
+ {
+  "id": "paper:arxiv:2607.27140v1",
+  "type": "paper",
+  "name": "Investigating reservoir computing for branch predictionin pipelined processors using emerging CMOS memristor devices",
+  "href": "entity-paper-arxiv-2607.27140v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.26835v1",
+  "type": "paper",
+  "name": "A Low-Power Sparse Convolution Accelerator with Idle-First-Task-Assignment for Edge Vision",
+  "href": "entity-paper-arxiv-2607.26835v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.26633v1",
+  "type": "paper",
+  "name": "NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement",
+  "href": "entity-paper-arxiv-2607.26633v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.26491v1",
+  "type": "paper",
+  "name": "LLMET: Enabling Cross-Layer Evaluation of Emerging M3D Memories for Energy-Efficient LLM Serving",
+  "href": "entity-paper-arxiv-2607.26491v1.html"
+ },
+ {
+  "id": "certification:A3LSMS741U",
+  "type": "certification",
+  "name": "FCC A3LSMS741U (Samsung)",
+  "href": "entity-certification-A3LSMS741U.html"
+ },
+ {
+  "id": "organization:edgar-804328",
+  "type": "organization",
+  "name": "Qualcomm",
+  "href": "entity-organization-edgar-804328.html"
+ },
+ {
+  "id": "organization:edgar-707549",
+  "type": "organization",
+  "name": "Lam Research",
+  "href": "entity-organization-edgar-707549.html"
  }
 ]

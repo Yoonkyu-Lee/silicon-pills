@@ -1,5 +1,140 @@
 [
  {
+  "id": "ev-fccid-A3LSMS741U",
+  "date": "2026-07-30",
+  "type": "cert_filed",
+  "title": "FCC 신규 인증 관측: A3LSMS741U — Samsung",
+  "primary": "certification:A3LSMS741U",
+  "source": {
+   "url": "https://fccid.io/A3LSMS741U",
+   "tier": "1차"
+  },
+  "confidence": "인증",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.27140v1",
+  "date": "2026-07-29",
+  "type": "paper_published",
+  "title": "arXiv: Investigating reservoir computing for branch predictionin pipelined processors using emerging CMOS memristor devices",
+  "primary": "paper:arxiv:2607.27140v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.27140v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.26835v1",
+  "date": "2026-07-29",
+  "type": "paper_published",
+  "title": "arXiv: A Low-Power Sparse Convolution Accelerator with Idle-First-Task-Assignment for Edge Vision",
+  "primary": "paper:arxiv:2607.26835v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.26835v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.26633v1",
+  "date": "2026-07-29",
+  "type": "paper_published",
+  "title": "arXiv: NELSSA: A GPU-PNM Heterogeneous System for Mixed-Length LLM Serving via Length-based Request Placement",
+  "primary": "paper:arxiv:2607.26633v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.26633v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.26491v1",
+  "date": "2026-07-29",
+  "type": "paper_published",
+  "title": "arXiv: LLMET: Enabling Cross-Layer Evaluation of Emerging M3D Memories for Energy-Efficient LLM Serving",
+  "primary": "paper:arxiv:2607.26491v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.26491v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-intel-c95667d8aed14e0e",
+  "date": "2026-07-29",
+  "type": "announcement",
+  "title": "Intel 발표: Intel’s U.S. Advanced Packaging Enables Next-Generation AI Semiconductors",
+  "primary": "organization:intel",
+  "source": {
+   "url": "https://newsroom.intel.com/intel-foundry/intels-us-advanced-packaging-enables-next-generation-ai-semiconductors",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000804328-26-000086",
+  "date": "2026-07-29",
+  "type": "disclosure",
+  "title": "Qualcomm SEC 10-Q 제출 — 분기 실적 공시",
+  "primary": "organization:edgar-804328",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000086/qcom-20260628.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000804328-26-000085",
+  "date": "2026-07-29",
+  "type": "disclosure",
+  "title": "Qualcomm SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-804328",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000085/qcom-20260729.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000707549-26-000033",
+  "date": "2026-07-29",
+  "type": "disclosure",
+  "title": "Lam Research SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-707549",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000033/lrcx-20260729.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-A3LSMX840",
   "date": "2026-07-28",
   "type": "cert_filed",
@@ -1383,141 +1518,6 @@
   "primary": "paper:arxiv:2607.16771v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.16771v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16058v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: From Patterns to Parsers: Automatic Generation of Efficient Hardware Parsers for FPGAs",
-  "primary": "paper:arxiv:2607.16058v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16058v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16042v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: Reducing Power Consumption of Embedded Dynamic Memories with ECCs",
-  "primary": "paper:arxiv:2607.16042v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16042v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15846v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: DSTAR: Accelerating Diffusion Transformers via Spatial and Temporal Redundancy Reduction",
-  "primary": "paper:arxiv:2607.15846v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15846v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15830v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: RTL-Sequencer: Towards Scalable RTL Timing Prediction with the Sequence-based Paradigm",
-  "primary": "paper:arxiv:2607.15830v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15830v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15782v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: Vogls: a Fast Interactive Full-timing Simulator for Pre-silicon Power Side-Channel Analysis",
-  "primary": "paper:arxiv:2607.15782v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15782v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.15753v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: CoG-Guided Weight Correction for Fault-Tolerant Deep Neural Networks",
-  "primary": "paper:arxiv:2607.15753v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.15753v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16555v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: Mitigating Compiler Fusion-Induced Power Bursts in Mobile NPU Inference as the Battery Depletes",
-  "primary": "paper:arxiv:2607.16555v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16555v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16488v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: Auto-Scaling Heterogeneous Neural Processing Units for Energy and Cost-Efficient LLM Serving",
-  "primary": "paper:arxiv:2607.16488v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16488v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16473v1",
-  "date": "2026-07-17",
-  "type": "paper_published",
-  "title": "arXiv: Enabling Spatially Fine-Grained DVFS in Neural Processing Units for Energy-Efficient LLM Serving",
-  "primary": "paper:arxiv:2607.16473v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16473v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
