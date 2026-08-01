@@ -1,5 +1,35 @@
 [
  {
+  "id": "ev-fccid-A3LSMX940",
+  "date": "2026-08-01",
+  "type": "cert_filed",
+  "title": "FCC 신규 인증 관측: A3LSMX940 — Samsung",
+  "primary": "certification:A3LSMX940",
+  "source": {
+   "url": "https://fccid.io/A3LSMX940",
+   "tier": "1차"
+  },
+  "confidence": "인증",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0001104659-26-089234",
+  "date": "2026-07-31",
+  "type": "disclosure",
+  "title": "Qualcomm SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-804328",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926089234/tm2621612d2_8k.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-A3LSMS741U",
   "date": "2026-07-30",
   "type": "cert_filed",
@@ -11,6 +41,96 @@
   },
   "confidence": "인증",
   "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.28233v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: Demystifying DRAM Read Disturbance: Bridging the Gap Between Experimental Characterization and Device-Level Modeling of RowHammer and RowPress Phenomena",
+  "primary": "paper:arxiv:2607.28233v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.28233v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.27879v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents",
+  "primary": "paper:arxiv:2607.27879v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.27879v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.27844v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: Nanoparticle Networks for Neuromorphic Computing",
+  "primary": "paper:arxiv:2607.27844v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.27844v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.27704v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: LightRot: A Light-Weighted Rotation Scheme and Architecture for Accurate Low-Bit Large Language Model Inference",
+  "primary": "paper:arxiv:2607.27704v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.27704v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.27694v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference",
+  "primary": "paper:arxiv:2607.27694v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.27694v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.27609v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: Analog Courant Numbers and their Role in Analog Computing",
+  "primary": "paper:arxiv:2607.27609v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.27609v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -1383,141 +1503,6 @@
   "primary": "paper:arxiv:2607.17274v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.17274v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17091v1",
-  "date": "2026-07-19",
-  "type": "paper_published",
-  "title": "arXiv: ThRIve: Thermally Robust CNN Inference via Low-Rank Adaptation in Heterogeneous PIM Architectures",
-  "primary": "paper:arxiv:2607.17091v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17091v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17074v1",
-  "date": "2026-07-19",
-  "type": "paper_published",
-  "title": "arXiv: ThAME: 3D Memory-Enabled Heterogeneous Accelerator for LLM Mixture of Experts",
-  "primary": "paper:arxiv:2607.17074v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17074v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17053v1",
-  "date": "2026-07-19",
-  "type": "paper_published",
-  "title": "arXiv: MechMem-RTL: Reusing Verified Mechanism Memories for LLM-Based RTL Repair",
-  "primary": "paper:arxiv:2607.17053v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17053v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-accelerator-2026-W29",
-  "date": "2026-07-19",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 5편 (2026-W29)",
-  "primary": "process_tech:accelerator",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2607.15068v1",
-   "http://arxiv.org/abs/2607.15846v1",
-   "http://arxiv.org/abs/2607.16555v1",
-   "http://arxiv.org/abs/2607.17074v1",
-   "http://arxiv.org/abs/2607.17371v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-llm-hw-2026-W29",
-  "date": "2026-07-19",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 6편 (2026-W29)",
-  "primary": "process_tech:llm-hw",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2607.13649v1",
-   "http://arxiv.org/abs/2607.16473v1",
-   "http://arxiv.org/abs/2607.16488v1",
-   "http://arxiv.org/abs/2607.17005v1",
-   "http://arxiv.org/abs/2607.17074v1",
-   "http://arxiv.org/abs/2607.17415v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17005v1",
-  "date": "2026-07-18",
-  "type": "paper_published",
-  "title": "arXiv: Provably Good Prim-Dijkstra Revisited: New Theory and a Practical Algorithm for a Classical VLSI Routing Problem with LLMs",
-  "primary": "paper:arxiv:2607.17005v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17005v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16855v1",
-  "date": "2026-07-18",
-  "type": "paper_published",
-  "title": "arXiv: Rtl2lean: Automated RTL-to-Lean Translation with Hierarchical Theorem Generation and Lemma Reuse",
-  "primary": "paper:arxiv:2607.16855v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16855v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.16771v1",
-  "date": "2026-07-18",
-  "type": "paper_published",
-  "title": "arXiv: SABLE: Minimalist Instruction-Level Authenticated Encryption for Constrained Confidential Computing",
-  "primary": "paper:arxiv:2607.16771v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.16771v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

@@ -1786,5 +1786,47 @@
   "type": "organization",
   "name": "Lam Research",
   "href": "entity-organization-edgar-707549.html"
+ },
+ {
+  "id": "paper:arxiv:2607.28233v1",
+  "type": "paper",
+  "name": "Demystifying DRAM Read Disturbance: Bridging the Gap Between Experimental Characterization and Device-Level Modeling of RowHammer and RowPress Phenomena",
+  "href": "entity-paper-arxiv-2607.28233v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.27879v1",
+  "type": "paper",
+  "name": "ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents",
+  "href": "entity-paper-arxiv-2607.27879v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.27844v1",
+  "type": "paper",
+  "name": "Nanoparticle Networks for Neuromorphic Computing",
+  "href": "entity-paper-arxiv-2607.27844v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.27704v1",
+  "type": "paper",
+  "name": "LightRot: A Light-Weighted Rotation Scheme and Architecture for Accurate Low-Bit Large Language Model Inference",
+  "href": "entity-paper-arxiv-2607.27704v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.27694v1",
+  "type": "paper",
+  "name": "GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference",
+  "href": "entity-paper-arxiv-2607.27694v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.27609v1",
+  "type": "paper",
+  "name": "Analog Courant Numbers and their Role in Analog Computing",
+  "href": "entity-paper-arxiv-2607.27609v1.html"
+ },
+ {
+  "id": "certification:A3LSMX940",
+  "type": "certification",
+  "name": "FCC A3LSMX940 (Samsung)",
+  "href": "entity-certification-A3LSMX940.html"
  }
 ]
