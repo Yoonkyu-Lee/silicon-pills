@@ -1828,5 +1828,47 @@
   "type": "certification",
   "name": "FCC A3LSMX940 (Samsung)",
   "href": "entity-certification-A3LSMX940.html"
+ },
+ {
+  "id": "paper:arxiv:2607.29357v1",
+  "type": "paper",
+  "name": "Low-Power PLL-Based Clock Stabilization for Flexible IGZO AMS Systems",
+  "href": "entity-paper-arxiv-2607.29357v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.29283v1",
+  "type": "paper",
+  "name": "RTLCurator: Label-Efficient Data Curation for RTL Generation",
+  "href": "entity-paper-arxiv-2607.29283v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.29076v1",
+  "type": "paper",
+  "name": "Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems",
+  "href": "entity-paper-arxiv-2607.29076v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.28902v1",
+  "type": "paper",
+  "name": "Adaptivity via a Parallel Architecture for Stochastic Gradient Methods",
+  "href": "entity-paper-arxiv-2607.28902v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.28877v1",
+  "type": "paper",
+  "name": "Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair",
+  "href": "entity-paper-arxiv-2607.28877v1.html"
+ },
+ {
+  "id": "paper:arxiv:2607.28824v1",
+  "type": "paper",
+  "name": "Characterizing LLM Kernel Access and Memory Interaction in Multi-Partition NUMA GPUs",
+  "href": "entity-paper-arxiv-2607.28824v1.html"
+ },
+ {
+  "id": "certification:AK8CFIZCP2",
+  "type": "certification",
+  "name": "FCC AK8CFIZCP2 (Sony)",
+  "href": "entity-certification-AK8CFIZCP2.html"
  }
 ]

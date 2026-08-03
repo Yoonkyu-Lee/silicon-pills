@@ -1,5 +1,46 @@
 [
  {
+  "id": "ev-fccid-AK8CFIZCP2",
+  "date": "2026-08-03",
+  "type": "cert_filed",
+  "title": "FCC 신규 인증 관측: AK8CFIZCP2 — Sony",
+  "primary": "certification:AK8CFIZCP2",
+  "source": {
+   "url": "https://fccid.io/AK8CFIZCP2",
+   "tier": "1차"
+  },
+  "confidence": "인증",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-llm-hw-2026-W31",
+  "date": "2026-08-02",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 9편 (2026-W31)",
+  "primary": "process_tech:llm-hw",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2607.25498v1",
+   "http://arxiv.org/abs/2607.26491v1",
+   "http://arxiv.org/abs/2607.26633v1",
+   "http://arxiv.org/abs/2607.27694v1",
+   "http://arxiv.org/abs/2607.27704v1",
+   "http://arxiv.org/abs/2607.27879v1",
+   "http://arxiv.org/abs/2607.28824v1",
+   "http://arxiv.org/abs/2607.28877v1",
+   "http://arxiv.org/abs/2607.29076v1"
+  ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-A3LSMX940",
   "date": "2026-08-01",
   "type": "cert_filed",
@@ -22,6 +63,66 @@
   "primary": "organization:edgar-804328",
   "source": {
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926089234/tm2621612d2_8k.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.29357v1",
+  "date": "2026-07-31",
+  "type": "paper_published",
+  "title": "arXiv: Low-Power PLL-Based Clock Stabilization for Flexible IGZO AMS Systems",
+  "primary": "paper:arxiv:2607.29357v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.29357v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.29283v1",
+  "date": "2026-07-31",
+  "type": "paper_published",
+  "title": "arXiv: RTLCurator: Label-Efficient Data Curation for RTL Generation",
+  "primary": "paper:arxiv:2607.29283v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.29283v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.29076v1",
+  "date": "2026-07-31",
+  "type": "paper_published",
+  "title": "arXiv: Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems",
+  "primary": "paper:arxiv:2607.29076v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.29076v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.28902v1",
+  "date": "2026-07-31",
+  "type": "paper_published",
+  "title": "arXiv: Adaptivity via a Parallel Architecture for Stochastic Gradient Methods",
+  "primary": "paper:arxiv:2607.28902v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.28902v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -127,6 +228,36 @@
   "primary": "paper:arxiv:2607.27609v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.27609v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.28877v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair",
+  "primary": "paper:arxiv:2607.28877v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.28877v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2607.28824v1",
+  "date": "2026-07-30",
+  "type": "paper_published",
+  "title": "arXiv: Characterizing LLM Kernel Access and Memory Interaction in Multi-Partition NUMA GPUs",
+  "primary": "paper:arxiv:2607.28824v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2607.28824v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1383,126 +1514,6 @@
   "primary": "paper:arxiv:2607.17538v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.17538v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17528v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: Can AI Agents Really Complete RTL-to-GDS? Lessons from Benchmarking Tool-Interactive EDA Workflows",
-  "primary": "paper:arxiv:2607.17528v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17528v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17518v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: Isolation Failure From Shared Storage: Characterizing and Exploiting Page-Cache SCA Leakage Across Containers and VMs",
-  "primary": "paper:arxiv:2607.17518v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17518v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.18533v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: PIP-NTT: Towards a Scalable Memory-Parallelized Accelerator for Iterative NTT in PQC",
-  "primary": "paper:arxiv:2607.18533v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.18533v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.18519v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: A Progressive Approach to Synthesizable RTL Design Generation Using LLMs",
-  "primary": "paper:arxiv:2607.18519v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.18519v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19431v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: BRIM: Workload-Balanced Dual-Sided Bit-Serial Sparse Inference Accelerator",
-  "primary": "paper:arxiv:2607.19431v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19431v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17415v1",
-  "date": "2026-07-19",
-  "type": "paper_published",
-  "title": "arXiv: Transition-Aware Backend Dispatch for Edge LLM Inference",
-  "primary": "paper:arxiv:2607.17415v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17415v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17371v1",
-  "date": "2026-07-19",
-  "type": "paper_published",
-  "title": "arXiv: ADEPT: Architecture-Driven Energy-Efficient CNN Fine-Tuning on PIM Accelerators",
-  "primary": "paper:arxiv:2607.17371v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17371v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17274v1",
-  "date": "2026-07-19",
-  "type": "paper_published",
-  "title": "arXiv: Inter-Set Correlation-Aware Replacement Policy for Energy Efficient RTM-based Caches",
-  "primary": "paper:arxiv:2607.17274v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17274v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
