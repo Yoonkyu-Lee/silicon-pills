@@ -1,5 +1,230 @@
 [
  {
+  "id": "ev-news-samsung-233f9bf074b66501",
+  "date": "2026-08-05",
+  "type": "announcement",
+  "title": "삼성전자 발표: Samsung Unveils Next-Gen 3D-Memory Vision at FMS 2026, Charting the Future of AI Infrastructure",
+  "primary": "organization:samsung",
+  "source": {
+   "url": "https://news.samsung.com/global/samsung-unveils-next-gen-3d-memory-vision-at-fms-2026-charting-the-future-of-ai-infrastructure",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000002488-26-000123",
+  "date": "2026-08-05",
+  "type": "disclosure",
+  "title": "AMD SEC 10-Q 제출 — 분기 실적 공시",
+  "primary": "organization:edgar-2488",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03867v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: Heterogeneity-Aware Microscaling for Efficient Low-Bit LLM Inference",
+  "primary": "paper:arxiv:2608.03867v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03867v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03778v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: DiffPower: GPU-Accelerated Differentiable Switching Power Analysis and Optimization",
+  "primary": "paper:arxiv:2608.03778v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03778v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03555v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention",
+  "primary": "paper:arxiv:2608.03555v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03555v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03537v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: ComFuse: Fusing Complex Memory-Intensive Subgraphs with Compute-Intensive Kernels For Modern GPU Architectures",
+  "primary": "paper:arxiv:2608.03537v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03537v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03514v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: Beyond Peak TOPS/W: A System-Level Perspective on Hybrid Digital, Analogue and Neuromorphic Computing",
+  "primary": "paper:arxiv:2608.03514v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03514v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03285v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: Fovea: Physical-Implication-Aware Wafer-Scale DSE with Decision-Domain-Guided Cross-Fidelity Refinement",
+  "primary": "paper:arxiv:2608.03285v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03285v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03229v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: Unified Lookup-Table Inference with Signed-Digit K/V Caches for Ternary LLMs",
+  "primary": "paper:arxiv:2608.03229v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03229v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.03033v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: Interpolation of Non-Linear Functions for LLMs using Partial Reconfiguration in FPGAs",
+  "primary": "paper:arxiv:2608.03033v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.03033v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.02988v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: CAMTA: A Reconfigurable Multi-Region Activation Unit for Nonlinear Function Approximation",
+  "primary": "paper:arxiv:2608.02988v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.02988v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-75541700-2026-08-04",
+  "date": "2026-08-04",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 최저가 +6.5% — 2,140,000원",
+  "primary": "part_price:danawa-75541700",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=75541700",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-77379380-2026-08-04",
+  "date": "2026-08-04",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 최저가 +28.6% — 1,230,000원",
+  "primary": "part_price:danawa-77379380",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=77379380",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-nvidia-caaa8a69287edbc2",
+  "date": "2026-08-04",
+  "type": "announcement",
+  "title": "NVIDIA 발표: As AI Increases Demands on Memory, Storage Steps Up",
+  "primary": "organization:nvidia",
+  "source": {
+   "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000002488-26-000121",
+  "date": "2026-08-04",
+  "type": "disclosure",
+  "title": "AMD SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-2488",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/amd-20260804.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-AK8CFIZCP2",
   "date": "2026-08-03",
   "type": "cert_filed",
@@ -11,6 +236,126 @@
   },
   "confidence": "인증",
   "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.02954v1",
+  "date": "2026-08-03",
+  "type": "paper_published",
+  "title": "arXiv: LowRank-SSM: Hardware-Software Co-Design for Rank-Reduced Mamba Acceleration on FPGA",
+  "primary": "paper:arxiv:2608.02954v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.02954v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.02915v1",
+  "date": "2026-08-03",
+  "type": "paper_published",
+  "title": "arXiv: LACE: Large Language Model Aided Multi-Agent Framework for Agile RISC-V Instruction Extension",
+  "primary": "paper:arxiv:2608.02915v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.02915v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.02268v1",
+  "date": "2026-08-03",
+  "type": "paper_published",
+  "title": "arXiv: Oasis: Hiding the Cost of Querying Parquet Files in the Datapath",
+  "primary": "paper:arxiv:2608.02268v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.02268v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.02099v1",
+  "date": "2026-08-03",
+  "type": "paper_published",
+  "title": "arXiv: DeGS: A Scalable 3DGS Architecture via Decoupled Workload Parsing and Reorganization",
+  "primary": "paper:arxiv:2608.02099v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.02099v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.01946v1",
+  "date": "2026-08-03",
+  "type": "paper_published",
+  "title": "arXiv: LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power",
+  "primary": "paper:arxiv:2608.01946v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.01946v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-26a72bfb178ada5e",
+  "date": "2026-08-03",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/hbf-at-fms-2026-01/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-30043244592b20df",
+  "date": "2026-08-03",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/hbf-at-fms-2026-02/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-a9d613fec9083037",
+  "date": "2026-08-03",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/hbf-at-fms-2026/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -41,6 +386,133 @@
   "linked": []
  },
  {
+  "id": "ev-arxiv:2608.01536v1",
+  "date": "2026-08-02",
+  "type": "paper_published",
+  "title": "arXiv: Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference",
+  "primary": "paper:arxiv:2608.01536v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.01536v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.01343v1",
+  "date": "2026-08-02",
+  "type": "paper_published",
+  "title": "arXiv: DeVIT: Low-Power Vision Transformer Acceleration Using Delta Computation",
+  "primary": "paper:arxiv:2608.01343v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.01343v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.01316v1",
+  "date": "2026-08-02",
+  "type": "paper_published",
+  "title": "arXiv: Compiler Framework for 3D Neutral-Atom Quantum Computers",
+  "primary": "paper:arxiv:2608.01316v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.01316v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.01045v1",
+  "date": "2026-08-02",
+  "type": "paper_published",
+  "title": "arXiv: Forbench: Symbolic Simulation Helps Make Your Testbench More Formal",
+  "primary": "paper:arxiv:2608.01045v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.01045v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.01041v1",
+  "date": "2026-08-02",
+  "type": "paper_published",
+  "title": "arXiv: On the Limits of Machine-Learned Ranking for Modern Microarchitectural Policies",
+  "primary": "paper:arxiv:2608.01041v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.01041v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.01038v1",
+  "date": "2026-08-02",
+  "type": "paper_published",
+  "title": "arXiv: Beyond Static Policies: Dynamic Selection Among Modern Microarchitectural Policies",
+  "primary": "paper:arxiv:2608.01038v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.01038v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00909v1",
+  "date": "2026-08-02",
+  "type": "paper_published",
+  "title": "arXiv: FinHardBench: Can LLMs Generate Latency-Aware Hardware for Financial Computing?",
+  "primary": "paper:arxiv:2608.00909v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00909v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-accelerator-2026-W31",
+  "date": "2026-08-02",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 5편 (2026-W31)",
+  "primary": "process_tech:accelerator",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2607.24669v1",
+   "http://arxiv.org/abs/2607.26016v1",
+   "http://arxiv.org/abs/2607.26835v1",
+   "http://arxiv.org/abs/2608.00595v1",
+   "http://arxiv.org/abs/2608.00894v1"
+  ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-A3LSMX940",
   "date": "2026-08-01",
   "type": "cert_filed",
@@ -52,6 +524,96 @@
   },
   "confidence": "인증",
   "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00894v1",
+  "date": "2026-08-01",
+  "type": "paper_published",
+  "title": "arXiv: Rethinking Agentic Kernel Generation for Emerging Accelerators",
+  "primary": "paper:arxiv:2608.00894v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00894v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00867v1",
+  "date": "2026-08-01",
+  "type": "paper_published",
+  "title": "arXiv: NUNA: Characterizing and Mitigating Non-Uniform Network Access in Multi-Die GPU Scale-Up Systems",
+  "primary": "paper:arxiv:2608.00867v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00867v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00720v1",
+  "date": "2026-08-01",
+  "type": "paper_published",
+  "title": "arXiv: CascadeLUT: Information-Ordered Streaming Inference for Bandwidth-Constrained FPGAs",
+  "primary": "paper:arxiv:2608.00720v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00720v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00595v1",
+  "date": "2026-08-01",
+  "type": "paper_published",
+  "title": "arXiv: A Time-Multiplexed Spiking Neural Network Accelerator with Pipelined Readout for FPGA Inference",
+  "primary": "paper:arxiv:2608.00595v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00595v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00552v1",
+  "date": "2026-08-01",
+  "type": "paper_published",
+  "title": "arXiv: A Journey in Shared Memory Land",
+  "primary": "paper:arxiv:2608.00552v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00552v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00412v1",
+  "date": "2026-08-01",
+  "type": "paper_published",
+  "title": "arXiv: C2P-Cache: Scalable GPU L1 Cache Sharing via Concurrent Candidate Pruning",
+  "primary": "paper:arxiv:2608.00412v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00412v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -123,6 +685,36 @@
   "primary": "paper:arxiv:2607.28902v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.28902v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00353v1",
+  "date": "2026-07-31",
+  "type": "paper_published",
+  "title": "arXiv: Analyzing RV32/RV64 Trade-offs for FreeRTOS Latency on 8-Stage RISC-V Soft Processors",
+  "primary": "paper:arxiv:2608.00353v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00353v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.00259v1",
+  "date": "2026-07-31",
+  "type": "paper_published",
+  "title": "arXiv: Themis: Software-Defined Hardware Prefetching",
+  "primary": "paper:arxiv:2608.00259v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.00259v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -929,591 +1521,6 @@
   "primary": "organization:amat",
   "source": {
    "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-report-fiscal-third-quarter-2026-results-aug",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.21408v1",
-  "date": "2026-07-23",
-  "type": "paper_published",
-  "title": "arXiv: Chip Floorplanning Combining Convex and Non-convex Optimization",
-  "primary": "paper:arxiv:2607.21408v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.21408v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.21130v1",
-  "date": "2026-07-23",
-  "type": "paper_published",
-  "title": "arXiv: Hardware-Software Co-Design for Float16 On-Device Training on RISC-V Single-Core",
-  "primary": "paper:arxiv:2607.21130v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.21130v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0000050863-26-000155",
-  "date": "2026-07-23",
-  "type": "disclosure",
-  "title": "Intel SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-50863",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000155/intc-20260723.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.21731v1",
-  "date": "2026-07-23",
-  "type": "paper_published",
-  "title": "arXiv: RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory",
-  "primary": "paper:arxiv:2607.21731v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.21731v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-2f042bdc75f80df2",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/research-inside-ep1/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-nvidia-562676d43cd3bbbc",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "NVIDIA 발표: NVIDIA Open Sources First GPU-Accelerated Medical Physics Simulation Framework",
-  "primary": "organization:nvidia",
-  "source": {
-   "url": "https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-arm-5d518800d3c21de2",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "Arm 발표: How the Arm AGI CPU supports the most demanding agentic AI workloads at scale",
-  "primary": "organization:arm",
-  "source": {
-   "url": "https://newsroom.arm.com/blog/how-arm-agi-cpu-powers-ai-at-scale",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.20638v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: WaveformQA: Benchmarking LLM Temporal Reasoning on Digital Waveforms",
-  "primary": "paper:arxiv:2607.20638v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.20638v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.20358v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: PolySim: Deterministic Polynomial Surrogates for Cross-Modal Retrieval on CiM",
-  "primary": "paper:arxiv:2607.20358v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.20358v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.20141v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: Formal Foundations for Known Good Reliable Die Screening in Chiplet-Based AI Systems-on-Chip",
-  "primary": "paper:arxiv:2607.20141v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.20141v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19922v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: DGNA: Dissecting GPU NUMA Architecture through Microbenchmarking and Data Analysis",
-  "primary": "paper:arxiv:2607.19922v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19922v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19881v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: Revisiting Hardware Priority Queue Architectures",
-  "primary": "paper:arxiv:2607.19881v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19881v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19796v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: Mammal: Supporting Breastfeeding Monitoring Through Computational Garments with Inter-Body Sensing",
-  "primary": "paper:arxiv:2607.19796v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19796v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19768v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: AlphaRoute: Large Language Models as Semantic Optimizers for Multi-Objective Routing",
-  "primary": "paper:arxiv:2607.19768v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19768v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19661v1",
-  "date": "2026-07-22",
-  "type": "paper_published",
-  "title": "arXiv: Leveraging ECRAM for Edge Continual Learning",
-  "primary": "paper:arxiv:2607.19661v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19661v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-8dce6e0ddb70e5cd",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/research-inside-ep1-01/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-d88daefe3b29379e",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/research-inside-ep1-02/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-ff169a869cee8852",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/research-inside-ep1-03/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-05e7993981213c7a",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/research-inside-ep1-04/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-3ead058e936f31bf",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/research-inside-ep1-06/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-4c87f1eaf8286579",
-  "date": "2026-07-22",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [Inside the Research] SK hynix’s CTI innovation advances 176-layer 3D NAND toward mass production",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/research-inside-ep1-05/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-20600147-2026-07-21",
-  "date": "2026-07-21",
-  "type": "price_change",
-  "title": "삼성전자 990 PRO 히트싱크 M.2 NVMe (2TB) 최저가 +8.7% — 783,190원",
-  "primary": "part_price:danawa-20600147",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=20600147",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-75541700-2026-07-21",
-  "date": "2026-07-21",
-  "type": "price_change",
-  "title": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 최저가 -3.9% — 2,067,060원",
-  "primary": "part_price:danawa-75541700",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=75541700",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-5764992-2026-07-21",
-  "date": "2026-07-21",
-  "type": "price_change",
-  "title": "Seagate BarraCuda 5400/256M (8TB, ST8000DM004) 최저가 +50.3% — 479,500원",
-  "primary": "part_price:danawa-5764992",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=5764992",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-77379380-2026-07-21",
-  "date": "2026-07-21",
-  "type": "price_change",
-  "title": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 최저가 -10.2% — 974,780원",
-  "primary": "part_price:danawa-77379380",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=77379380",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19623v1",
-  "date": "2026-07-21",
-  "type": "paper_published",
-  "title": "arXiv: From Bit-Position Sensitivity to Unequal Error Protection for DNN Inference Memory",
-  "primary": "paper:arxiv:2607.19623v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19623v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19310v1",
-  "date": "2026-07-21",
-  "type": "paper_published",
-  "title": "arXiv: Distributed Delay-Based BIST for Mixed-Signal Circuits in Flexible Electronics",
-  "primary": "paper:arxiv:2607.19310v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19310v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19248v1",
-  "date": "2026-07-21",
-  "type": "paper_published",
-  "title": "arXiv: A Flexible Sparsity-Aware FPGA Accelerator with Column-Wise Compression for Efficient CNN Inference",
-  "primary": "paper:arxiv:2607.19248v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19248v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.18765v1",
-  "date": "2026-07-21",
-  "type": "paper_published",
-  "title": "arXiv: High-Level Synthesis of Efficient Pipelines with Visibility Control",
-  "primary": "paper:arxiv:2607.18765v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.18765v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.19438v1",
-  "date": "2026-07-21",
-  "type": "paper_published",
-  "title": "arXiv: BaseRT: Advancing Best-in-Class LLM Inference with Apple M5 Neural Accelerators",
-  "primary": "paper:arxiv:2607.19438v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.19438v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.18720v1",
-  "date": "2026-07-21",
-  "type": "paper_published",
-  "title": "arXiv: An Efficient Fault-Tolerance Scheme for CKKS Computation on CPUs",
-  "primary": "paper:arxiv:2607.18720v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.18720v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-nvidia-c1d126a13f15d841",
-  "date": "2026-07-20",
-  "type": "announcement",
-  "title": "NVIDIA 발표: Bristol Myers Squibb Building Life Science Industry’s Most Advanced AI Factory on NVIDIA Vera Rubin",
-  "primary": "organization:nvidia",
-  "source": {
-   "url": "https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.18101v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator",
-  "primary": "paper:arxiv:2607.18101v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.18101v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.18069v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: Hardware Mechanisms to Dynamically Throttle AI Performance",
-  "primary": "paper:arxiv:2607.18069v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.18069v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17960v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: Fixed Point Exploration For CV-QKD IR QC-MET-LDPC Toward Hardware Implementation",
-  "primary": "paper:arxiv:2607.17960v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17960v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17899v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: SEAM-V: A Hybrid-Decoupled RISC-V Vector Processor with Backend-Visible EP Context for Sustained Vector Throughput",
-  "primary": "paper:arxiv:2607.17899v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17899v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17835v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: New Number Formats for FFT IP Cores in Optical OFDM Transceivers",
-  "primary": "paper:arxiv:2607.17835v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17835v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17569v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: Cross-Domain Acceleration of Open Modification Search: From Commodity Platforms to Emerging Memory and Storage Devices",
-  "primary": "paper:arxiv:2607.17569v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17569v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.17538v1",
-  "date": "2026-07-20",
-  "type": "paper_published",
-  "title": "arXiv: D-NOVA: In-Storage Retrieval Accelerator via Dual-Bound 3D NAND-Optimized Similarity Search with Vector Adaptation",
-  "primary": "paper:arxiv:2607.17538v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.17538v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

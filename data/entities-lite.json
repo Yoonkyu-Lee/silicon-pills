@@ -1870,5 +1870,185 @@
   "type": "certification",
   "name": "FCC AK8CFIZCP2 (Sony)",
   "href": "entity-certification-AK8CFIZCP2.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03867v1",
+  "type": "paper",
+  "name": "Heterogeneity-Aware Microscaling for Efficient Low-Bit LLM Inference",
+  "href": "entity-paper-arxiv-2608.03867v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03778v1",
+  "type": "paper",
+  "name": "DiffPower: GPU-Accelerated Differentiable Switching Power Analysis and Optimization",
+  "href": "entity-paper-arxiv-2608.03778v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03555v1",
+  "type": "paper",
+  "name": "Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention",
+  "href": "entity-paper-arxiv-2608.03555v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03537v1",
+  "type": "paper",
+  "name": "ComFuse: Fusing Complex Memory-Intensive Subgraphs with Compute-Intensive Kernels For Modern GPU Architectures",
+  "href": "entity-paper-arxiv-2608.03537v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03514v1",
+  "type": "paper",
+  "name": "Beyond Peak TOPS/W: A System-Level Perspective on Hybrid Digital, Analogue and Neuromorphic Computing",
+  "href": "entity-paper-arxiv-2608.03514v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03285v1",
+  "type": "paper",
+  "name": "Fovea: Physical-Implication-Aware Wafer-Scale DSE with Decision-Domain-Guided Cross-Fidelity Refinement",
+  "href": "entity-paper-arxiv-2608.03285v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03229v1",
+  "type": "paper",
+  "name": "Unified Lookup-Table Inference with Signed-Digit K/V Caches for Ternary LLMs",
+  "href": "entity-paper-arxiv-2608.03229v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.03033v1",
+  "type": "paper",
+  "name": "Interpolation of Non-Linear Functions for LLMs using Partial Reconfiguration in FPGAs",
+  "href": "entity-paper-arxiv-2608.03033v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.02988v1",
+  "type": "paper",
+  "name": "CAMTA: A Reconfigurable Multi-Region Activation Unit for Nonlinear Function Approximation",
+  "href": "entity-paper-arxiv-2608.02988v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.02954v1",
+  "type": "paper",
+  "name": "LowRank-SSM: Hardware-Software Co-Design for Rank-Reduced Mamba Acceleration on FPGA",
+  "href": "entity-paper-arxiv-2608.02954v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.02915v1",
+  "type": "paper",
+  "name": "LACE: Large Language Model Aided Multi-Agent Framework for Agile RISC-V Instruction Extension",
+  "href": "entity-paper-arxiv-2608.02915v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.02268v1",
+  "type": "paper",
+  "name": "Oasis: Hiding the Cost of Querying Parquet Files in the Datapath",
+  "href": "entity-paper-arxiv-2608.02268v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.02099v1",
+  "type": "paper",
+  "name": "DeGS: A Scalable 3DGS Architecture via Decoupled Workload Parsing and Reorganization",
+  "href": "entity-paper-arxiv-2608.02099v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.01946v1",
+  "type": "paper",
+  "name": "LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power",
+  "href": "entity-paper-arxiv-2608.01946v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.01536v1",
+  "type": "paper",
+  "name": "Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference",
+  "href": "entity-paper-arxiv-2608.01536v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.01343v1",
+  "type": "paper",
+  "name": "DeVIT: Low-Power Vision Transformer Acceleration Using Delta Computation",
+  "href": "entity-paper-arxiv-2608.01343v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.01316v1",
+  "type": "paper",
+  "name": "Compiler Framework for 3D Neutral-Atom Quantum Computers",
+  "href": "entity-paper-arxiv-2608.01316v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.01045v1",
+  "type": "paper",
+  "name": "Forbench: Symbolic Simulation Helps Make Your Testbench More Formal",
+  "href": "entity-paper-arxiv-2608.01045v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.01041v1",
+  "type": "paper",
+  "name": "On the Limits of Machine-Learned Ranking for Modern Microarchitectural Policies",
+  "href": "entity-paper-arxiv-2608.01041v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.01038v1",
+  "type": "paper",
+  "name": "Beyond Static Policies: Dynamic Selection Among Modern Microarchitectural Policies",
+  "href": "entity-paper-arxiv-2608.01038v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00909v1",
+  "type": "paper",
+  "name": "FinHardBench: Can LLMs Generate Latency-Aware Hardware for Financial Computing?",
+  "href": "entity-paper-arxiv-2608.00909v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00894v1",
+  "type": "paper",
+  "name": "Rethinking Agentic Kernel Generation for Emerging Accelerators",
+  "href": "entity-paper-arxiv-2608.00894v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00867v1",
+  "type": "paper",
+  "name": "NUNA: Characterizing and Mitigating Non-Uniform Network Access in Multi-Die GPU Scale-Up Systems",
+  "href": "entity-paper-arxiv-2608.00867v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00720v1",
+  "type": "paper",
+  "name": "CascadeLUT: Information-Ordered Streaming Inference for Bandwidth-Constrained FPGAs",
+  "href": "entity-paper-arxiv-2608.00720v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00595v1",
+  "type": "paper",
+  "name": "A Time-Multiplexed Spiking Neural Network Accelerator with Pipelined Readout for FPGA Inference",
+  "href": "entity-paper-arxiv-2608.00595v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00552v1",
+  "type": "paper",
+  "name": "A Journey in Shared Memory Land",
+  "href": "entity-paper-arxiv-2608.00552v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00412v1",
+  "type": "paper",
+  "name": "C2P-Cache: Scalable GPU L1 Cache Sharing via Concurrent Candidate Pruning",
+  "href": "entity-paper-arxiv-2608.00412v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00353v1",
+  "type": "paper",
+  "name": "Analyzing RV32/RV64 Trade-offs for FreeRTOS Latency on 8-Stage RISC-V Soft Processors",
+  "href": "entity-paper-arxiv-2608.00353v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.00259v1",
+  "type": "paper",
+  "name": "Themis: Software-Defined Hardware Prefetching",
+  "href": "entity-paper-arxiv-2608.00259v1.html"
+ },
+ {
+  "id": "organization:edgar-2488",
+  "type": "organization",
+  "name": "AMD",
+  "href": "entity-organization-edgar-2488.html"
  }
 ]
