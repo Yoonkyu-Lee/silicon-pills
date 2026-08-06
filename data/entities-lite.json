@@ -2050,5 +2050,65 @@
   "type": "organization",
   "name": "AMD",
   "href": "entity-organization-edgar-2488.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05063v1",
+  "type": "paper",
+  "name": "Hardware Design and Security in the Era of Chiplets and LLMs",
+  "href": "entity-paper-arxiv-2608.05063v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05055v1",
+  "type": "paper",
+  "name": "Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing",
+  "href": "entity-paper-arxiv-2608.05055v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.04907v1",
+  "type": "paper",
+  "name": "LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs",
+  "href": "entity-paper-arxiv-2608.04907v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.04734v1",
+  "type": "paper",
+  "name": "A Systolic Array Architecture for Nonlinear Activation Functions and Softmax Computation using Chebyshev Polynomials",
+  "href": "entity-paper-arxiv-2608.04734v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.04458v1",
+  "type": "paper",
+  "name": "Architectural Implications of Agentic AI Workflows",
+  "href": "entity-paper-arxiv-2608.04458v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.04443v1",
+  "type": "paper",
+  "name": "MCHA: A Memory-Centric Hierarchical Architecture for Parallel-Sequential Computing",
+  "href": "entity-paper-arxiv-2608.04443v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.04428v1",
+  "type": "paper",
+  "name": "Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference",
+  "href": "entity-paper-arxiv-2608.04428v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.04247v1",
+  "type": "paper",
+  "name": "A Centralized Performance Monitoring Architecture for Heterogeneous Multicore SoCs",
+  "href": "entity-paper-arxiv-2608.04247v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.04169v1",
+  "type": "paper",
+  "name": "On Design Principles for Efficient Heterogeneous DRAM-PIM-GPU Systems",
+  "href": "entity-paper-arxiv-2608.04169v1.html"
+ },
+ {
+  "id": "certification:A3LSMS741B",
+  "type": "certification",
+  "name": "FCC A3LSMS741B (Samsung)",
+  "href": "entity-certification-A3LSMS741B.html"
  }
 ]

@@ -1,5 +1,20 @@
 [
  {
+  "id": "ev-fccid-A3LSMS741B",
+  "date": "2026-08-06",
+  "type": "cert_filed",
+  "title": "FCC 신규 인증 관측: A3LSMS741B — Samsung",
+  "primary": "certification:A3LSMS741B",
+  "source": {
+   "url": "https://fccid.io/A3LSMS741B",
+   "tier": "1차"
+  },
+  "confidence": "인증",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-samsung-233f9bf074b66501",
   "date": "2026-08-05",
   "type": "announcement",
@@ -22,6 +37,111 @@
   "primary": "organization:edgar-2488",
   "source": {
    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000123/amd-20260627.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05063v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: Hardware Design and Security in the Era of Chiplets and LLMs",
+  "primary": "paper:arxiv:2608.05063v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05063v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05055v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: Kerckhoffs-Compliant Watermarking for Physical Design IP Protection: From Placement to Routing",
+  "primary": "paper:arxiv:2608.05055v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05055v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.04907v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs",
+  "primary": "paper:arxiv:2608.04907v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.04907v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.04734v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: A Systolic Array Architecture for Nonlinear Activation Functions and Softmax Computation using Chebyshev Polynomials",
+  "primary": "paper:arxiv:2608.04734v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.04734v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.04458v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: Architectural Implications of Agentic AI Workflows",
+  "primary": "paper:arxiv:2608.04458v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.04458v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.04443v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: MCHA: A Memory-Centric Hierarchical Architecture for Parallel-Sequential Computing",
+  "primary": "paper:arxiv:2608.04443v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.04443v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.04428v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference",
+  "primary": "paper:arxiv:2608.04428v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.04428v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -217,6 +337,36 @@
   "primary": "organization:edgar-2488",
   "source": {
    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/amd-20260804.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.04247v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: A Centralized Performance Monitoring Architecture for Heterogeneous Multicore SoCs",
+  "primary": "paper:arxiv:2608.04247v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.04247v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.04169v1",
+  "date": "2026-08-04",
+  "type": "paper_published",
+  "title": "arXiv: On Design Principles for Efficient Heterogeneous DRAM-PIM-GPU Systems",
+  "primary": "paper:arxiv:2608.04169v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.04169v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1371,156 +1521,6 @@
   "primary": "paper:arxiv:2607.23218v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.23218v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.23099v1",
-  "date": "2026-07-25",
-  "type": "paper_published",
-  "title": "arXiv: Decoding the Skew: Distribution-Aware MoE Inference with Adaptive Kernel Dispatch",
-  "primary": "paper:arxiv:2607.23099v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.23099v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.23000v1",
-  "date": "2026-07-25",
-  "type": "paper_published",
-  "title": "arXiv: Magnetic Tunnel Junctions for Timekeeping in Intermittent Computing Systems",
-  "primary": "paper:arxiv:2607.23000v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.23000v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0000050863-26-000157",
-  "date": "2026-07-24",
-  "type": "disclosure",
-  "title": "Intel SEC 10-Q 제출 — 분기 실적 공시",
-  "primary": "organization:edgar-50863",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000157/intc-20260627.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-intel-46db74a3dc25c393",
-  "date": "2026-07-24",
-  "type": "announcement",
-  "title": "Intel 발표: Intel and Lens Technology Collaborate to Enable Advanced Semiconductor Packaging for the AI Era",
-  "primary": "organization:intel",
-  "source": {
-   "url": "https://newsroom.intel.com/new-technologies/intel-and-lens-technology-collaborate-to-enable-advanced-semiconductor-packaging-for-the-ai-era",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.22389v1",
-  "date": "2026-07-24",
-  "type": "paper_published",
-  "title": "arXiv: HiKV: Hierarchical Importance-Aware KV Cache with Hardware Acceleration for LLM Decoding",
-  "primary": "paper:arxiv:2607.22389v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.22389v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.22038v1",
-  "date": "2026-07-24",
-  "type": "paper_published",
-  "title": "arXiv: Sparse by Command: Task-Conditional Compute Skipping for Multi-Task Inference Accelerators",
-  "primary": "paper:arxiv:2607.22038v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.22038v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.22022v1",
-  "date": "2026-07-24",
-  "type": "paper_published",
-  "title": "arXiv: HEMERA: A Heterogeneous Memory-Centric Accelerator with Recursive Dataflow for Edge-Constrained State-Space-Duality Models Inference",
-  "primary": "paper:arxiv:2607.22022v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.22022v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.21985v1",
-  "date": "2026-07-24",
-  "type": "paper_published",
-  "title": "arXiv: Unified Static-Dynamic Pruning for Efficient LLM Inference",
-  "primary": "paper:arxiv:2607.21985v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.21985v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.22869v1",
-  "date": "2026-07-24",
-  "type": "paper_published",
-  "title": "arXiv: Multi-primitive in-memory computing for Monte Carlo tree search",
-  "primary": "paper:arxiv:2607.22869v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.22869v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-amat-f99246fa9735d70e",
-  "date": "2026-07-23",
-  "type": "announcement",
-  "title": "Applied Materials 발표: Applied Materials to Report Fiscal Third Quarter 2026 Results on Aug. 13, 2026",
-  "primary": "organization:amat",
-  "source": {
-   "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-report-fiscal-third-quarter-2026-results-aug",
    "tier": "1차"
   },
   "confidence": "공식확정",
