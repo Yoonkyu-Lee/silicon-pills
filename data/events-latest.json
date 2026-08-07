@@ -1,5 +1,155 @@
 [
  {
+  "id": "ev-news-skhynix-81120c86e65c78be",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fab-facility-investment-2026-2/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-74f2112f921e0260",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fab-facility-investment-2026-1/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-eecc3d875602529f",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Invests 54 Trillion Won in Yongin Y2 and Cheongju M17 to Secure Mid-to-Long-Term Production Base for AI Memory Demand",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fab-facility-investment-2026/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-588ddcfa770247d8",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fms-2026-4/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-f79ac7738b4282f6",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fms-2026-3/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-4901b62c4ba7e09a",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fms-2026-2/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-f825679a66366146",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fms-2026-1/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-a8c860ab052ab80c",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fms-2026-9/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-01810211ba39dd7c",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fms-2026-8/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-d918bfc50446be84",
+  "date": "2026-08-07",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: The Next-Generation Memory Architecture in the AI Era? SK hynix Charts the Direction at ‘FMS 2026’",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/fms-2026-6/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-A3LSMS741B",
   "date": "2026-08-06",
   "type": "cert_filed",
@@ -11,6 +161,126 @@
   },
   "confidence": "인증",
   "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.06318v1",
+  "date": "2026-08-06",
+  "type": "paper_published",
+  "title": "arXiv: Breaking Memory Bottlenecks in Quantum Control Systems for More Precise Experiments and Higher Throughput Computing",
+  "primary": "paper:arxiv:2608.06318v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.06318v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05965v1",
+  "date": "2026-08-06",
+  "type": "paper_published",
+  "title": "arXiv: Automated Synthesis of Heterogeneous, Hierarchical, Scoped Coherence Protocols",
+  "primary": "paper:arxiv:2608.05965v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05965v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05888v1",
+  "date": "2026-08-06",
+  "type": "paper_published",
+  "title": "arXiv: An Open-Source Power Measurement Platform for System-Level Semiconductor Testing",
+  "primary": "paper:arxiv:2608.05888v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05888v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05638v1",
+  "date": "2026-08-06",
+  "type": "paper_published",
+  "title": "arXiv: Zero-Instruction Sensor Reads: Register-Mapped Peripherals and Hardware PWM on a Five-Stage Soft Processor",
+  "primary": "paper:arxiv:2608.05638v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05638v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05483v1",
+  "date": "2026-08-06",
+  "type": "paper_published",
+  "title": "arXiv: PLoRA: An NDP-Enhanced Pooled-Memory System for Cost-Efficient Multi-LoRA Serving",
+  "primary": "paper:arxiv:2608.05483v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05483v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-intel-1996de3b72b6a503",
+  "date": "2026-08-06",
+  "type": "announcement",
+  "title": "Intel 발표: Creating Pathways to Semiconductor Careers: Intel Launches SEPP",
+  "primary": "organization:intel",
+  "source": {
+   "url": "https://newsroom.intel.com/corporate/creating-pathways-to-semiconductor-careers-intel-launches-sepp",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0000319201-26-000027",
+  "date": "2026-08-06",
+  "type": "disclosure",
+  "title": "KLA SEC 10-K 제출 — 연간 실적 공시",
+  "primary": "organization:edgar-319201",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000027/klac-20260630.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0001193125-26-338242",
+  "date": "2026-08-06",
+  "type": "disclosure",
+  "title": "KLA SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-319201",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/319201/000119312526338242/d165938d8k.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -142,6 +412,36 @@
   "primary": "paper:arxiv:2608.04428v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.04428v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05339v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: PowerScope: ML-based Intra-Cycle Power Estimation",
+  "primary": "paper:arxiv:2608.05339v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05339v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.05303v1",
+  "date": "2026-08-05",
+  "type": "paper_published",
+  "title": "arXiv: EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding",
+  "primary": "paper:arxiv:2608.05303v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.05303v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1210,317 +1510,6 @@
   "primary": "paper:arxiv:2607.25498v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.25498v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.25283v1",
-  "date": "2026-07-28",
-  "type": "paper_published",
-  "title": "arXiv: ContractHIL-HLS: Contract-Aligned Multi-Agent Workflow with Hardware-in-the-Loop Feedback for HLS Design",
-  "primary": "paper:arxiv:2607.25283v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.25283v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-13190573-2026-07-28",
-  "date": "2026-07-28",
-  "type": "price_change",
-  "title": "삼성전자 870 EVO (1TB) 최저가 -3.5% — 529,990원",
-  "primary": "part_price:danawa-13190573",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=13190573",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-e6d3cc303d074d88",
-  "date": "2026-07-28",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Announces 2Q26 Financial Results",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/q2-2026-business-results-01/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-27b747a914209103",
-  "date": "2026-07-28",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Announces 2Q26 Financial Results",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/q2-2026-business-results/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0000319201-26-000024",
-  "date": "2026-07-28",
-  "type": "disclosure",
-  "title": "KLA SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-319201",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/319201/000031920126000024/klac-20260728.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-nvidia-974f35f6c57c4bb3",
-  "date": "2026-07-27",
-  "type": "announcement",
-  "title": "NVIDIA 발표: NVIDIA Harnesses Vera CPU to Speed Up Design of Next-Generation CPUs and GPUs",
-  "primary": "organization:nvidia",
-  "source": {
-   "url": "https://blogs.nvidia.com/blog/vera-cpu-eda/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.24669v1",
-  "date": "2026-07-27",
-  "type": "paper_published",
-  "title": "arXiv: A Heterogeneous Neural Network Accelerator for End-to-End Multitask RF Signal Recognition",
-  "primary": "paper:arxiv:2607.24669v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.24669v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.24396v1",
-  "date": "2026-07-27",
-  "type": "paper_published",
-  "title": "arXiv: The SpiNNaker2 chip: a many-core platform for flexible and scalable brain-inspired computing",
-  "primary": "paper:arxiv:2607.24396v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.24396v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.24221v1",
-  "date": "2026-07-27",
-  "type": "paper_published",
-  "title": "arXiv: DICE: Detailed Inter-Chiplet End-to-End PHY Modeling for Accurate Chiplet Simulation",
-  "primary": "paper:arxiv:2607.24221v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.24221v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.24196v1",
-  "date": "2026-07-27",
-  "type": "paper_published",
-  "title": "arXiv: PIMID: A Full-System Simulator with Intricacy and Diversity for Processing-in-Memory",
-  "primary": "paper:arxiv:2607.24196v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.24196v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.25058v1",
-  "date": "2026-07-27",
-  "type": "paper_published",
-  "title": "arXiv: Mitigating the Impact of Retention Loss on Inference Accuracy in 65 nm Single-Poly Floating-Gate Analog In-Memory Computing",
-  "primary": "paper:arxiv:2607.25058v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.25058v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.24998v1",
-  "date": "2026-07-27",
-  "type": "paper_published",
-  "title": "arXiv: VPR-Evolve: Multi-Agent-Driven Algorithm Evolution for FPGA Place and Route",
-  "primary": "paper:arxiv:2607.24998v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.24998v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-accelerator-2026-W30",
-  "date": "2026-07-26",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 9편 (2026-W30)",
-  "primary": "process_tech:accelerator",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2607.17538v1",
-   "http://arxiv.org/abs/2607.17569v1",
-   "http://arxiv.org/abs/2607.18533v1",
-   "http://arxiv.org/abs/2607.19248v1",
-   "http://arxiv.org/abs/2607.19431v1",
-   "http://arxiv.org/abs/2607.19438v1",
-   "http://arxiv.org/abs/2607.22022v1",
-   "http://arxiv.org/abs/2607.22038v1",
-   "http://arxiv.org/abs/2607.22389v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.23882v1",
-  "date": "2026-07-26",
-  "type": "paper_published",
-  "title": "arXiv: ADVERSARIAL: And-Inverter Graph-Assisted Hardware Trojan Detection At Scale",
-  "primary": "paper:arxiv:2607.23882v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.23882v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.23523v1",
-  "date": "2026-07-26",
-  "type": "paper_published",
-  "title": "arXiv: CircuitWeave: Topology-Behavior Alignment for Executable Multimodal RTL Generation",
-  "primary": "paper:arxiv:2607.23523v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.23523v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.23402v1",
-  "date": "2026-07-26",
-  "type": "paper_published",
-  "title": "arXiv: Characterizing Warp Divergence from Pascal to Blackwell",
-  "primary": "paper:arxiv:2607.23402v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.23402v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-c03b28323e192813",
-  "date": "2026-07-25",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/skhynix-nvidia-partnership-2026/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-nvidia-6b8e90e34c4b3951",
-  "date": "2026-07-25",
-  "type": "announcement",
-  "title": "NVIDIA 발표: SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
-  "primary": "organization:nvidia",
-  "source": {
-   "url": "https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-samsung-45618ce84e92fa85",
-  "date": "2026-07-25",
-  "type": "announcement",
-  "title": "삼성전자 발표: Samsung Electronics and Broadcom Expand Strategic Collaboration Across Memory and Foundry Technologies",
-  "primary": "organization:samsung",
-  "source": {
-   "url": "https://news.samsung.com/global/samsung-electronics-and-broadcom-expand-strategic-collaboration-across-memory-and-foundry-technologies",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.23218v1",
-  "date": "2026-07-25",
-  "type": "paper_published",
-  "title": "arXiv: SPARC: Automated Root-Cause Analysis of Pre-Silicon Power Side-Channel Leakage in the Processor Design Flow",
-  "primary": "paper:arxiv:2607.23218v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.23218v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

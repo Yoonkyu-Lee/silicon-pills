@@ -2110,5 +2110,47 @@
   "type": "certification",
   "name": "FCC A3LSMS741B (Samsung)",
   "href": "entity-certification-A3LSMS741B.html"
+ },
+ {
+  "id": "paper:arxiv:2608.06318v1",
+  "type": "paper",
+  "name": "Breaking Memory Bottlenecks in Quantum Control Systems for More Precise Experiments and Higher Throughput Computing",
+  "href": "entity-paper-arxiv-2608.06318v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05965v1",
+  "type": "paper",
+  "name": "Automated Synthesis of Heterogeneous, Hierarchical, Scoped Coherence Protocols",
+  "href": "entity-paper-arxiv-2608.05965v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05888v1",
+  "type": "paper",
+  "name": "An Open-Source Power Measurement Platform for System-Level Semiconductor Testing",
+  "href": "entity-paper-arxiv-2608.05888v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05638v1",
+  "type": "paper",
+  "name": "Zero-Instruction Sensor Reads: Register-Mapped Peripherals and Hardware PWM on a Five-Stage Soft Processor",
+  "href": "entity-paper-arxiv-2608.05638v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05483v1",
+  "type": "paper",
+  "name": "PLoRA: An NDP-Enhanced Pooled-Memory System for Cost-Efficient Multi-LoRA Serving",
+  "href": "entity-paper-arxiv-2608.05483v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05339v1",
+  "type": "paper",
+  "name": "PowerScope: ML-based Intra-Cycle Power Estimation",
+  "href": "entity-paper-arxiv-2608.05339v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.05303v1",
+  "type": "paper",
+  "name": "EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding",
+  "href": "entity-paper-arxiv-2608.05303v1.html"
  }
 ]
