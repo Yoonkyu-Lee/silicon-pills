@@ -150,6 +150,21 @@
   "linked": []
  },
  {
+  "id": "ev-edgar-0000707549-26-000037",
+  "date": "2026-08-07",
+  "type": "disclosure",
+  "title": "Lam Research SEC 10-K 제출 — 연간 실적 공시",
+  "primary": "organization:edgar-707549",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-A3LSMS741B",
   "date": "2026-08-06",
   "type": "cert_filed",
@@ -1495,21 +1510,6 @@
   "primary": "paper:arxiv:2607.25504v1",
   "source": {
    "url": "http://arxiv.org/abs/2607.25504v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.25498v1",
-  "date": "2026-07-28",
-  "type": "paper_published",
-  "title": "arXiv: Beyond Prefill-Decode Disaggregation: Dissecting LLM Inference for Heterogeneous Platforms via Dynamic Operator Scheduling",
-  "primary": "paper:arxiv:2607.25498v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.25498v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
