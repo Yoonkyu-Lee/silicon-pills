@@ -2152,5 +2152,47 @@
   "type": "paper",
   "name": "EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding",
   "href": "entity-paper-arxiv-2608.05303v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.07226v1",
+  "type": "paper",
+  "name": "Dual-Node NVIDIA DGX Spark over Tailscale: A Remote-Access Testbed for Distributed LLM Training and Cyber-Threat-Intelligence Fine-Tuning",
+  "href": "entity-paper-arxiv-2608.07226v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.06989v1",
+  "type": "paper",
+  "name": "Rethinking Unified Memory for NPU-PIM Systems: Dual-View Memory for Dynamic Inference of LLM",
+  "href": "entity-paper-arxiv-2608.06989v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.06875v1",
+  "type": "paper",
+  "name": "QCORE: A Quantum-Control-Oriented Real-Time Execution Architecture with Extensible Closed-Loop Services and Shared AI Acceleration",
+  "href": "entity-paper-arxiv-2608.06875v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.06870v1",
+  "type": "paper",
+  "name": "G-Power: Architecture-level GPU Power Modeling with Aggregated Knowledge Foundations from Known GPUs",
+  "href": "entity-paper-arxiv-2608.06870v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.06791v1",
+  "type": "paper",
+  "name": "HLSmith: An Expert-Guided Agentic Framework for C/C++-to-HLS Translation",
+  "href": "entity-paper-arxiv-2608.06791v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.06725v1",
+  "type": "paper",
+  "name": "Retention-Aware RISC-V ISA Extension and Memory Controller on FPGA for MLC NVM",
+  "href": "entity-paper-arxiv-2608.06725v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.06536v1",
+  "type": "paper",
+  "name": "Density-Functional Excited-State Gradients and Nonadiabatic Couplings on a Consumer GPU from a Contraction-DAG",
+  "href": "entity-paper-arxiv-2608.06536v1.html"
  }
 ]
