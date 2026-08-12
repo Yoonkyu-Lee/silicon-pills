@@ -2194,5 +2194,113 @@
   "type": "paper",
   "name": "Density-Functional Excited-State Gradients and Nonadiabatic Couplings on a Consumer GPU from a Contraction-DAG",
   "href": "entity-paper-arxiv-2608.06536v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.09874v1",
+  "type": "paper",
+  "name": "ArchAgent v2: A Case Study with the Data Prefetching Championship",
+  "href": "entity-paper-arxiv-2608.09874v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.09252v1",
+  "type": "paper",
+  "name": "FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications",
+  "href": "entity-paper-arxiv-2608.09252v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.09075v1",
+  "type": "paper",
+  "name": "SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon",
+  "href": "entity-paper-arxiv-2608.09075v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.08801v1",
+  "type": "paper",
+  "name": "IDRAAK: From Multi-Agent NLP to Few-Shot Prompting for Semantic Drift Detection in Technical Requirements",
+  "href": "entity-paper-arxiv-2608.08801v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.08761v1",
+  "type": "paper",
+  "name": "Eco-SoC: A Sustainable VLSI Architecture for Energy-Proportional Artificial Intelligence",
+  "href": "entity-paper-arxiv-2608.08761v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.08611v1",
+  "type": "paper",
+  "name": "C2C-Explorer: An Exploration Framework for Chip-to-Chip Interconnect Architectures in LLM Cloud Computing Systems",
+  "href": "entity-paper-arxiv-2608.08611v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.08496v1",
+  "type": "paper",
+  "name": "ReVolt: Power Delivery Network-Aware Voltage Droop Control for 2.5D PIM Chiplet Architectures",
+  "href": "entity-paper-arxiv-2608.08496v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.08462v1",
+  "type": "paper",
+  "name": "ARMOR: Accelerating RTL Simulation by Mitigating the Front-End Bottleneck Using Node Compression",
+  "href": "entity-paper-arxiv-2608.08462v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.08285v1",
+  "type": "paper",
+  "name": "Ego-OSCAR: Egocentric Open source Stereo CAptuRe System",
+  "href": "entity-paper-arxiv-2608.08285v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.07896v1",
+  "type": "paper",
+  "name": "Hybrid ASIC-FPAA Fabric for Performance Security Trade-off",
+  "href": "entity-paper-arxiv-2608.07896v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.07733v1",
+  "type": "paper",
+  "name": "LGNNIC: Acceleration of Large-Scale GNN Training using SmartNICs",
+  "href": "entity-paper-arxiv-2608.07733v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11155v1",
+  "type": "paper",
+  "name": "On the Sensitivity to Errors in Homomorphic Computing: Single Transient Bit-flip Client-side Error Characterization",
+  "href": "entity-paper-arxiv-2608.11155v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11147v1",
+  "type": "paper",
+  "name": "When and Where Faults Matter: A Study of Transient Errors in CKKS Multiplication",
+  "href": "entity-paper-arxiv-2608.11147v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11116v1",
+  "type": "paper",
+  "name": "You Only Charge Once 2.0 : A End-to-End Analog Computing-in-Memory Architecture with Reconfigurable Switched Capacitors",
+  "href": "entity-paper-arxiv-2608.11116v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.10803v1",
+  "type": "paper",
+  "name": "Adaptive Matrix Multiplication for Dynamic Shapes on Ascend NPUs",
+  "href": "entity-paper-arxiv-2608.10803v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.10521v1",
+  "type": "paper",
+  "name": "Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees",
+  "href": "entity-paper-arxiv-2608.10521v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.10506v1",
+  "type": "paper",
+  "name": "CARB: A Characterization-Guided Framework for CNN Inference Cost Prediction and Deployment Screening",
+  "href": "entity-paper-arxiv-2608.10506v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.10116v1",
+  "type": "paper",
+  "name": "Monophonic Audio Synthesizer Using FPGAs",
+  "href": "entity-paper-arxiv-2608.10116v1.html"
  }
 ]

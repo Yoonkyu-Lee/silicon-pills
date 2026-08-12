@@ -1,5 +1,230 @@
 [
  {
+  "id": "ev-news-amat-1e03b4943ffd3e91",
+  "date": "2026-08-11",
+  "type": "announcement",
+  "title": "Applied Materials 발표: UC Berkeley to Join Applied Materials’ EPIC Center to Speed Chip Innovation",
+  "primary": "organization:amat",
+  "source": {
+   "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/uc-berkeley-join-applied-materials-epic-center-speed-chip",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11155v1",
+  "date": "2026-08-11",
+  "type": "paper_published",
+  "title": "arXiv: On the Sensitivity to Errors in Homomorphic Computing: Single Transient Bit-flip Client-side Error Characterization",
+  "primary": "paper:arxiv:2608.11155v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11155v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11147v1",
+  "date": "2026-08-11",
+  "type": "paper_published",
+  "title": "arXiv: When and Where Faults Matter: A Study of Transient Errors in CKKS Multiplication",
+  "primary": "paper:arxiv:2608.11147v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11147v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11116v1",
+  "date": "2026-08-11",
+  "type": "paper_published",
+  "title": "arXiv: You Only Charge Once 2.0 : A End-to-End Analog Computing-in-Memory Architecture with Reconfigurable Switched Capacitors",
+  "primary": "paper:arxiv:2608.11116v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11116v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.10803v1",
+  "date": "2026-08-11",
+  "type": "paper_published",
+  "title": "arXiv: Adaptive Matrix Multiplication for Dynamic Shapes on Ascend NPUs",
+  "primary": "paper:arxiv:2608.10803v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.10803v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.10521v1",
+  "date": "2026-08-11",
+  "type": "paper_published",
+  "title": "arXiv: Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees",
+  "primary": "paper:arxiv:2608.10521v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.10521v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.10506v1",
+  "date": "2026-08-11",
+  "type": "paper_published",
+  "title": "arXiv: CARB: A Characterization-Guided Framework for CNN Inference Cost Prediction and Deployment Screening",
+  "primary": "paper:arxiv:2608.10506v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.10506v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-75541700-2026-08-11",
+  "date": "2026-08-11",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 최저가 -17.6% — 1,764,000원",
+  "primary": "part_price:danawa-75541700",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=75541700",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-13161338-2026-08-11",
+  "date": "2026-08-11",
+  "type": "price_change",
+  "title": "SK하이닉스 Gold P31 M.2 NVMe (1TB) 최저가 -11.9% — 319,000원",
+  "primary": "part_price:danawa-13161338",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=13161338",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-77379380-2026-08-11",
+  "date": "2026-08-11",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 최저가 -23.9% — 936,000원",
+  "primary": "part_price:danawa-77379380",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=77379380",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-13190573-2026-08-11",
+  "date": "2026-08-11",
+  "type": "price_change",
+  "title": "삼성전자 870 EVO (1TB) 최저가 -6.4% — 494,900원",
+  "primary": "part_price:danawa-13190573",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=13190573",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.09874v1",
+  "date": "2026-08-10",
+  "type": "paper_published",
+  "title": "arXiv: ArchAgent v2: A Case Study with the Data Prefetching Championship",
+  "primary": "paper:arxiv:2608.09874v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.09874v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.09252v1",
+  "date": "2026-08-10",
+  "type": "paper_published",
+  "title": "arXiv: FSGen: Agile Fused and Sparse Accelerator Generator with Accurate Power Model for LLM Applications",
+  "primary": "paper:arxiv:2608.09252v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.09252v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.09075v1",
+  "date": "2026-08-10",
+  "type": "paper_published",
+  "title": "arXiv: SLAC: Access-Driven CPU-to-GPU Side-channel Attacks via System-Level Cache on Apple Silicon",
+  "primary": "paper:arxiv:2608.09075v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.09075v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.10116v1",
+  "date": "2026-08-10",
+  "type": "paper_published",
+  "title": "arXiv: Monophonic Audio Synthesizer Using FPGAs",
+  "primary": "paper:arxiv:2608.10116v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.10116v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-skhynix-5f40b67d6bae7986",
   "date": "2026-08-09",
   "type": "announcement",
@@ -81,6 +306,111 @@
    "http://arxiv.org/abs/2608.06989v1",
    "http://arxiv.org/abs/2608.07226v1"
   ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.08801v1",
+  "date": "2026-08-09",
+  "type": "paper_published",
+  "title": "arXiv: IDRAAK: From Multi-Agent NLP to Few-Shot Prompting for Semantic Drift Detection in Technical Requirements",
+  "primary": "paper:arxiv:2608.08801v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.08801v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.08761v1",
+  "date": "2026-08-09",
+  "type": "paper_published",
+  "title": "arXiv: Eco-SoC: A Sustainable VLSI Architecture for Energy-Proportional Artificial Intelligence",
+  "primary": "paper:arxiv:2608.08761v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.08761v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.08611v1",
+  "date": "2026-08-09",
+  "type": "paper_published",
+  "title": "arXiv: C2C-Explorer: An Exploration Framework for Chip-to-Chip Interconnect Architectures in LLM Cloud Computing Systems",
+  "primary": "paper:arxiv:2608.08611v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.08611v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.08496v1",
+  "date": "2026-08-09",
+  "type": "paper_published",
+  "title": "arXiv: ReVolt: Power Delivery Network-Aware Voltage Droop Control for 2.5D PIM Chiplet Architectures",
+  "primary": "paper:arxiv:2608.08496v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.08496v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.08462v1",
+  "date": "2026-08-09",
+  "type": "paper_published",
+  "title": "arXiv: ARMOR: Accelerating RTL Simulation by Mitigating the Front-End Bottleneck Using Node Compression",
+  "primary": "paper:arxiv:2608.08462v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.08462v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.08285v1",
+  "date": "2026-08-08",
+  "type": "paper_published",
+  "title": "arXiv: Ego-OSCAR: Egocentric Open source Stereo CAptuRe System",
+  "primary": "paper:arxiv:2608.08285v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.08285v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.07896v1",
+  "date": "2026-08-08",
+  "type": "paper_published",
+  "title": "arXiv: Hybrid ASIC-FPAA Fabric for Performance Security Trade-off",
+  "primary": "paper:arxiv:2608.07896v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.07896v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -362,6 +692,21 @@
   "primary": "paper:arxiv:2608.06725v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.06725v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.07733v1",
+  "date": "2026-08-07",
+  "type": "paper_published",
+  "title": "arXiv: LGNNIC: Acceleration of Large-Scale GNN Training using SmartNICs",
+  "primary": "paper:arxiv:2608.07733v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.07733v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1168,358 +1513,6 @@
   "primary": "paper:arxiv:2608.00909v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.00909v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-accelerator-2026-W31",
-  "date": "2026-08-02",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 5편 (2026-W31)",
-  "primary": "process_tech:accelerator",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2607.24669v1",
-   "http://arxiv.org/abs/2607.26016v1",
-   "http://arxiv.org/abs/2607.26835v1",
-   "http://arxiv.org/abs/2608.00595v1",
-   "http://arxiv.org/abs/2608.00894v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-A3LSMX940",
-  "date": "2026-08-01",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: A3LSMX940 — Samsung",
-  "primary": "certification:A3LSMX940",
-  "source": {
-   "url": "https://fccid.io/A3LSMX940",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00894v1",
-  "date": "2026-08-01",
-  "type": "paper_published",
-  "title": "arXiv: Rethinking Agentic Kernel Generation for Emerging Accelerators",
-  "primary": "paper:arxiv:2608.00894v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00894v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00867v1",
-  "date": "2026-08-01",
-  "type": "paper_published",
-  "title": "arXiv: NUNA: Characterizing and Mitigating Non-Uniform Network Access in Multi-Die GPU Scale-Up Systems",
-  "primary": "paper:arxiv:2608.00867v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00867v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00720v1",
-  "date": "2026-08-01",
-  "type": "paper_published",
-  "title": "arXiv: CascadeLUT: Information-Ordered Streaming Inference for Bandwidth-Constrained FPGAs",
-  "primary": "paper:arxiv:2608.00720v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00720v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00595v1",
-  "date": "2026-08-01",
-  "type": "paper_published",
-  "title": "arXiv: A Time-Multiplexed Spiking Neural Network Accelerator with Pipelined Readout for FPGA Inference",
-  "primary": "paper:arxiv:2608.00595v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00595v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00552v1",
-  "date": "2026-08-01",
-  "type": "paper_published",
-  "title": "arXiv: A Journey in Shared Memory Land",
-  "primary": "paper:arxiv:2608.00552v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00552v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00412v1",
-  "date": "2026-08-01",
-  "type": "paper_published",
-  "title": "arXiv: C2P-Cache: Scalable GPU L1 Cache Sharing via Concurrent Candidate Pruning",
-  "primary": "paper:arxiv:2608.00412v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00412v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0001104659-26-089234",
-  "date": "2026-07-31",
-  "type": "disclosure",
-  "title": "Qualcomm SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-804328",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926089234/tm2621612d2_8k.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.29357v1",
-  "date": "2026-07-31",
-  "type": "paper_published",
-  "title": "arXiv: Low-Power PLL-Based Clock Stabilization for Flexible IGZO AMS Systems",
-  "primary": "paper:arxiv:2607.29357v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.29357v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.29283v1",
-  "date": "2026-07-31",
-  "type": "paper_published",
-  "title": "arXiv: RTLCurator: Label-Efficient Data Curation for RTL Generation",
-  "primary": "paper:arxiv:2607.29283v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.29283v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.29076v1",
-  "date": "2026-07-31",
-  "type": "paper_published",
-  "title": "arXiv: Selective KV Cache Protection for Noise-Resilient LLM Inference on Analog Compute-In-Memory Systems",
-  "primary": "paper:arxiv:2607.29076v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.29076v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.28902v1",
-  "date": "2026-07-31",
-  "type": "paper_published",
-  "title": "arXiv: Adaptivity via a Parallel Architecture for Stochastic Gradient Methods",
-  "primary": "paper:arxiv:2607.28902v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.28902v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00353v1",
-  "date": "2026-07-31",
-  "type": "paper_published",
-  "title": "arXiv: Analyzing RV32/RV64 Trade-offs for FreeRTOS Latency on 8-Stage RISC-V Soft Processors",
-  "primary": "paper:arxiv:2608.00353v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00353v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00259v1",
-  "date": "2026-07-31",
-  "type": "paper_published",
-  "title": "arXiv: Themis: Software-Defined Hardware Prefetching",
-  "primary": "paper:arxiv:2608.00259v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00259v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-A3LSMS741U",
-  "date": "2026-07-30",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: A3LSMS741U — Samsung",
-  "primary": "certification:A3LSMS741U",
-  "source": {
-   "url": "https://fccid.io/A3LSMS741U",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.28233v1",
-  "date": "2026-07-30",
-  "type": "paper_published",
-  "title": "arXiv: Demystifying DRAM Read Disturbance: Bridging the Gap Between Experimental Characterization and Device-Level Modeling of RowHammer and RowPress Phenomena",
-  "primary": "paper:arxiv:2607.28233v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.28233v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.27879v1",
-  "date": "2026-07-30",
-  "type": "paper_published",
-  "title": "arXiv: ARES: Adaptive Reasoning-Effort Steering for PPA- and Cost-Aware RTL Optimization with LLM Agents",
-  "primary": "paper:arxiv:2607.27879v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.27879v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.27844v1",
-  "date": "2026-07-30",
-  "type": "paper_published",
-  "title": "arXiv: Nanoparticle Networks for Neuromorphic Computing",
-  "primary": "paper:arxiv:2607.27844v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.27844v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.27704v1",
-  "date": "2026-07-30",
-  "type": "paper_published",
-  "title": "arXiv: LightRot: A Light-Weighted Rotation Scheme and Architecture for Accurate Low-Bit Large Language Model Inference",
-  "primary": "paper:arxiv:2607.27704v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.27704v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.27694v1",
-  "date": "2026-07-30",
-  "type": "paper_published",
-  "title": "arXiv: GyRot: Leveraging Hidden Synergy between Rotation and Fine-grained Group Quantization for Low-bit LLM Inference",
-  "primary": "paper:arxiv:2607.27694v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.27694v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.27609v1",
-  "date": "2026-07-30",
-  "type": "paper_published",
-  "title": "arXiv: Analog Courant Numbers and their Role in Analog Computing",
-  "primary": "paper:arxiv:2607.27609v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.27609v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2607.28877v1",
-  "date": "2026-07-30",
-  "type": "paper_published",
-  "title": "arXiv: Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair",
-  "primary": "paper:arxiv:2607.28877v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2607.28877v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
