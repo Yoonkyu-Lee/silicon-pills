@@ -1,5 +1,125 @@
 [
  {
+  "id": "ev-arxiv:2608.12140v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: FQTree: Fine-grained Quantization and Hardware Generation of Boosted Decision Trees",
+  "primary": "paper:arxiv:2608.12140v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.12140v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11920v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: NITRO: High-Performance 3D NAND Flash-Based In-Storage Computing with Enhanced Activation Dataflow",
+  "primary": "paper:arxiv:2608.11920v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11920v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11719v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC",
+  "primary": "paper:arxiv:2608.11719v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11719v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11693v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: Spec Sheets Are Not Kernels: An ISA- and Source-Level Audit of INT8 Availability on NVIDIA Blackwell Ultra",
+  "primary": "paper:arxiv:2608.11693v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11693v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11688v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: APEX: Adaptive Expert Prefetching for Memory-Efficient Edge MoE Inference",
+  "primary": "paper:arxiv:2608.11688v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11688v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11668v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving",
+  "primary": "paper:arxiv:2608.11668v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11668v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11577v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: Uni-SFU: Algorithm-HW Co-Design for Universal SFUs via Mixed-Degree Piecewise Approximation",
+  "primary": "paper:arxiv:2608.11577v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11577v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0001193125-26-346806",
+  "date": "2026-08-12",
+  "type": "disclosure",
+  "title": "Intel SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-50863",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312526346806/d117670d8k.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-amat-1e03b4943ffd3e91",
   "date": "2026-08-11",
   "type": "announcement",
@@ -161,6 +281,21 @@
   },
   "confidence": "공식확정",
   "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.11380v1",
+  "date": "2026-08-11",
+  "type": "paper_published",
+  "title": "arXiv: The Fallacy of Independent Ceilings: Characterizing Coupled Load-Branch Stall Interaction",
+  "primary": "paper:arxiv:2608.11380v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.11380v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
   "lang": "ko",
   "linked": []
  },
@@ -1367,152 +1502,6 @@
   "primary": "organization:skhynix",
   "source": {
    "url": "https://news.skhynix.com/en/hbf-at-fms-2026-02/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-a9d613fec9083037",
-  "date": "2026-08-03",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/hbf-at-fms-2026/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-llm-hw-2026-W31",
-  "date": "2026-08-02",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 9편 (2026-W31)",
-  "primary": "process_tech:llm-hw",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2607.25498v1",
-   "http://arxiv.org/abs/2607.26491v1",
-   "http://arxiv.org/abs/2607.26633v1",
-   "http://arxiv.org/abs/2607.27694v1",
-   "http://arxiv.org/abs/2607.27704v1",
-   "http://arxiv.org/abs/2607.27879v1",
-   "http://arxiv.org/abs/2607.28824v1",
-   "http://arxiv.org/abs/2607.28877v1",
-   "http://arxiv.org/abs/2607.29076v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.01536v1",
-  "date": "2026-08-02",
-  "type": "paper_published",
-  "title": "arXiv: Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference",
-  "primary": "paper:arxiv:2608.01536v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.01536v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.01343v1",
-  "date": "2026-08-02",
-  "type": "paper_published",
-  "title": "arXiv: DeVIT: Low-Power Vision Transformer Acceleration Using Delta Computation",
-  "primary": "paper:arxiv:2608.01343v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.01343v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.01316v1",
-  "date": "2026-08-02",
-  "type": "paper_published",
-  "title": "arXiv: Compiler Framework for 3D Neutral-Atom Quantum Computers",
-  "primary": "paper:arxiv:2608.01316v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.01316v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.01045v1",
-  "date": "2026-08-02",
-  "type": "paper_published",
-  "title": "arXiv: Forbench: Symbolic Simulation Helps Make Your Testbench More Formal",
-  "primary": "paper:arxiv:2608.01045v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.01045v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.01041v1",
-  "date": "2026-08-02",
-  "type": "paper_published",
-  "title": "arXiv: On the Limits of Machine-Learned Ranking for Modern Microarchitectural Policies",
-  "primary": "paper:arxiv:2608.01041v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.01041v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.01038v1",
-  "date": "2026-08-02",
-  "type": "paper_published",
-  "title": "arXiv: Beyond Static Policies: Dynamic Selection Among Modern Microarchitectural Policies",
-  "primary": "paper:arxiv:2608.01038v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.01038v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.00909v1",
-  "date": "2026-08-02",
-  "type": "paper_published",
-  "title": "arXiv: FinHardBench: Can LLMs Generate Latency-Aware Hardware for Financial Computing?",
-  "primary": "paper:arxiv:2608.00909v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.00909v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

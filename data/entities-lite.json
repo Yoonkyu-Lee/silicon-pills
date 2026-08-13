@@ -2302,5 +2302,53 @@
   "type": "paper",
   "name": "Monophonic Audio Synthesizer Using FPGAs",
   "href": "entity-paper-arxiv-2608.10116v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.12140v1",
+  "type": "paper",
+  "name": "FQTree: Fine-grained Quantization and Hardware Generation of Boosted Decision Trees",
+  "href": "entity-paper-arxiv-2608.12140v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11920v1",
+  "type": "paper",
+  "name": "NITRO: High-Performance 3D NAND Flash-Based In-Storage Computing with Enhanced Activation Dataflow",
+  "href": "entity-paper-arxiv-2608.11920v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11719v1",
+  "type": "paper",
+  "name": "Do Not Let CNOTs Overwhelm the Decoder: Scheduling Transversal Gates for Fast FTQC",
+  "href": "entity-paper-arxiv-2608.11719v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11693v1",
+  "type": "paper",
+  "name": "Spec Sheets Are Not Kernels: An ISA- and Source-Level Audit of INT8 Availability on NVIDIA Blackwell Ultra",
+  "href": "entity-paper-arxiv-2608.11693v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11688v1",
+  "type": "paper",
+  "name": "APEX: Adaptive Expert Prefetching for Memory-Efficient Edge MoE Inference",
+  "href": "entity-paper-arxiv-2608.11688v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11668v1",
+  "type": "paper",
+  "name": "A Full-Stack Characterization of High-Bandwidth Flash for KV-Centric LLM Serving",
+  "href": "entity-paper-arxiv-2608.11668v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11577v1",
+  "type": "paper",
+  "name": "Uni-SFU: Algorithm-HW Co-Design for Universal SFUs via Mixed-Degree Piecewise Approximation",
+  "href": "entity-paper-arxiv-2608.11577v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.11380v1",
+  "type": "paper",
+  "name": "The Fallacy of Independent Ceilings: Characterizing Coupled Load-Branch Stall Interaction",
+  "href": "entity-paper-arxiv-2608.11380v1.html"
  }
 ]
