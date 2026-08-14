@@ -1,5 +1,65 @@
 [
  {
+  "id": "ev-news-amat-e578d5ca41dab3ca",
+  "date": "2026-08-14",
+  "type": "announcement",
+  "title": "Applied Materials 발표: Applied Materials to Participate in Upcoming Investor Conferences",
+  "primary": "organization:amat",
+  "source": {
+   "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-participate-upcoming-investor-conferences-15",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-bc4a23dbfab5c9b2",
+  "date": "2026-08-13",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: [Analyst Interview | Ryu Hyung-keun, Daishin Securities] Exploring SK hynix’s Next Opportunity Amid the Structural Growth of AI Memory",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/2026-analyst-interview-03/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-amat-d8e27ae464e7bfeb",
+  "date": "2026-08-13",
+  "type": "announcement",
+  "title": "Applied Materials 발표: Applied Materials Announces Third Quarter 2026 Results",
+  "primary": "organization:amat",
+  "source": {
+   "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-third-quarter-2026-results",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0001628280-26-056699",
+  "date": "2026-08-13",
+  "type": "disclosure",
+  "title": "Applied Materials SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-6951",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026056699/amat-20260813.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2608.12140v1",
   "date": "2026-08-12",
   "type": "paper_published",
@@ -1442,66 +1502,6 @@
   "primary": "paper:arxiv:2608.02268v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.02268v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.02099v1",
-  "date": "2026-08-03",
-  "type": "paper_published",
-  "title": "arXiv: DeGS: A Scalable 3DGS Architecture via Decoupled Workload Parsing and Reorganization",
-  "primary": "paper:arxiv:2608.02099v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.02099v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.01946v1",
-  "date": "2026-08-03",
-  "type": "paper_published",
-  "title": "arXiv: LEAP: A Self-Supervised Per-Cycle Toggle Propagation Model Supports Fast, Transferable, and Early Analysis of Layout Power",
-  "primary": "paper:arxiv:2608.01946v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.01946v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-26a72bfb178ada5e",
-  "date": "2026-08-03",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/hbf-at-fms-2026-01/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-30043244592b20df",
-  "date": "2026-08-03",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Unveils First HBF Standard Specifications with Sandisk, Presenting AI Memory Solutions at ‘FMS 2026’",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/hbf-at-fms-2026-02/",
    "tier": "1차"
   },
   "confidence": "공식확정",

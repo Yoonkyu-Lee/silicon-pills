@@ -2350,5 +2350,11 @@
   "type": "paper",
   "name": "The Fallacy of Independent Ceilings: Characterizing Coupled Load-Branch Stall Interaction",
   "href": "entity-paper-arxiv-2608.11380v1.html"
+ },
+ {
+  "id": "organization:edgar-6951",
+  "type": "organization",
+  "name": "Applied Materials",
+  "href": "entity-organization-edgar-6951.html"
  }
 ]
