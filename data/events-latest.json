@@ -60,6 +60,126 @@
   "linked": []
  },
  {
+  "id": "ev-arxiv:2608.13496v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: YAVIN: A Unified Architecture for Secure Edge Processing in Memory",
+  "primary": "paper:arxiv:2608.13496v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13496v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.13287v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: ROLoad-PMP: Securing Sensitive Operations for Kernels and Bare-Metal Firmware",
+  "primary": "paper:arxiv:2608.13287v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13287v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.13127v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: Potential Applications of HBF in LLM Serving Systems",
+  "primary": "paper:arxiv:2608.13127v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13127v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.13027v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: Why Do Prefetchers Fail? Let Agents Answer",
+  "primary": "paper:arxiv:2608.13027v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13027v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.12934v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: Dryas: A Reprogrammable Engine for High-Speed Interconnect Tracing and Analysis",
+  "primary": "paper:arxiv:2608.12934v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.12934v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.12751v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: SynAct: A Reasoning-Acting Large Language Model Agent for Adaptive Synthesis Optimization",
+  "primary": "paper:arxiv:2608.12751v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.12751v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.12700v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: A Contract-Grade Verifier for LLM-Generated GPU Kernels, and a Native Blackwell Backward for the Gated-Linear-Recurrence Family",
+  "primary": "paper:arxiv:2608.12700v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.12700v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.12684v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: Spec-Driven Hardware Evolution via Executable Contract Refinement and Proof-Guided RTL Update",
+  "primary": "paper:arxiv:2608.12684v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.12684v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2608.12140v1",
   "date": "2026-08-12",
   "type": "paper_published",
@@ -172,6 +292,36 @@
   "primary": "organization:edgar-50863",
   "source": {
    "url": "https://www.sec.gov/Archives/edgar/data/50863/000119312526346806/d117670d8k.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.12635v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: GateTruth: Auditing the Rigor of RTL Design Benchmarks via Mutation Testing",
+  "primary": "paper:arxiv:2608.12635v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.12635v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.12500v1",
+  "date": "2026-08-12",
+  "type": "paper_published",
+  "title": "arXiv: Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision",
+  "primary": "paper:arxiv:2608.12500v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.12500v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1352,156 +1502,6 @@
   "primary": "paper:arxiv:2608.02988v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.02988v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-75541700-2026-08-04",
-  "date": "2026-08-04",
-  "type": "price_change",
-  "title": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 최저가 +6.5% — 2,140,000원",
-  "primary": "part_price:danawa-75541700",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=75541700",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-danawa-77379380-2026-08-04",
-  "date": "2026-08-04",
-  "type": "price_change",
-  "title": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 최저가 +28.6% — 1,230,000원",
-  "primary": "part_price:danawa-77379380",
-  "source": {
-   "url": "https://prod.danawa.com/info/?pcode=77379380",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-nvidia-caaa8a69287edbc2",
-  "date": "2026-08-04",
-  "type": "announcement",
-  "title": "NVIDIA 발표: As AI Increases Demands on Memory, Storage Steps Up",
-  "primary": "organization:nvidia",
-  "source": {
-   "url": "https://blogs.nvidia.com/blog/ai-storage-fms/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0000002488-26-000121",
-  "date": "2026-08-04",
-  "type": "disclosure",
-  "title": "AMD SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-2488",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000121/amd-20260804.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.04247v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: A Centralized Performance Monitoring Architecture for Heterogeneous Multicore SoCs",
-  "primary": "paper:arxiv:2608.04247v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.04247v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.04169v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: On Design Principles for Efficient Heterogeneous DRAM-PIM-GPU Systems",
-  "primary": "paper:arxiv:2608.04169v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.04169v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-AK8CFIZCP2",
-  "date": "2026-08-03",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: AK8CFIZCP2 — Sony",
-  "primary": "certification:AK8CFIZCP2",
-  "source": {
-   "url": "https://fccid.io/AK8CFIZCP2",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.02954v1",
-  "date": "2026-08-03",
-  "type": "paper_published",
-  "title": "arXiv: LowRank-SSM: Hardware-Software Co-Design for Rank-Reduced Mamba Acceleration on FPGA",
-  "primary": "paper:arxiv:2608.02954v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.02954v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.02915v1",
-  "date": "2026-08-03",
-  "type": "paper_published",
-  "title": "arXiv: LACE: Large Language Model Aided Multi-Agent Framework for Agile RISC-V Instruction Extension",
-  "primary": "paper:arxiv:2608.02915v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.02915v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.02268v1",
-  "date": "2026-08-03",
-  "type": "paper_published",
-  "title": "arXiv: Oasis: Hiding the Cost of Querying Parquet Files in the Datapath",
-  "primary": "paper:arxiv:2608.02268v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.02268v1",
    "tier": "1차"
   },
   "confidence": "공식확정",

@@ -2356,5 +2356,65 @@
   "type": "organization",
   "name": "Applied Materials",
   "href": "entity-organization-edgar-6951.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13496v1",
+  "type": "paper",
+  "name": "YAVIN: A Unified Architecture for Secure Edge Processing in Memory",
+  "href": "entity-paper-arxiv-2608.13496v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13287v1",
+  "type": "paper",
+  "name": "ROLoad-PMP: Securing Sensitive Operations for Kernels and Bare-Metal Firmware",
+  "href": "entity-paper-arxiv-2608.13287v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13127v1",
+  "type": "paper",
+  "name": "Potential Applications of HBF in LLM Serving Systems",
+  "href": "entity-paper-arxiv-2608.13127v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13027v1",
+  "type": "paper",
+  "name": "Why Do Prefetchers Fail? Let Agents Answer",
+  "href": "entity-paper-arxiv-2608.13027v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.12934v1",
+  "type": "paper",
+  "name": "Dryas: A Reprogrammable Engine for High-Speed Interconnect Tracing and Analysis",
+  "href": "entity-paper-arxiv-2608.12934v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.12751v1",
+  "type": "paper",
+  "name": "SynAct: A Reasoning-Acting Large Language Model Agent for Adaptive Synthesis Optimization",
+  "href": "entity-paper-arxiv-2608.12751v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.12700v1",
+  "type": "paper",
+  "name": "A Contract-Grade Verifier for LLM-Generated GPU Kernels, and a Native Blackwell Backward for the Gated-Linear-Recurrence Family",
+  "href": "entity-paper-arxiv-2608.12700v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.12684v1",
+  "type": "paper",
+  "name": "Spec-Driven Hardware Evolution via Executable Contract Refinement and Proof-Guided RTL Update",
+  "href": "entity-paper-arxiv-2608.12684v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.12635v1",
+  "type": "paper",
+  "name": "GateTruth: Auditing the Rigor of RTL Design Benchmarks via Mutation Testing",
+  "href": "entity-paper-arxiv-2608.12635v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.12500v1",
+  "type": "paper",
+  "name": "Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision",
+  "href": "entity-paper-arxiv-2608.12500v1.html"
  }
 ]
