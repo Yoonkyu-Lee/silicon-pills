@@ -2416,5 +2416,59 @@
   "type": "paper",
   "name": "Lonic: Algorithm-Hardware Co-Design for Energy-Efficient Fully Local Online SNN Training with INT4 Precision",
   "href": "entity-paper-arxiv-2608.12500v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.14333v1",
+  "type": "paper",
+  "name": "Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths",
+  "href": "entity-paper-arxiv-2608.14333v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.14285v1",
+  "type": "paper",
+  "name": "Qu-Trefoil: Large-Scale Quantum Circuit Simulator Working on FPGA With SATA Storages",
+  "href": "entity-paper-arxiv-2608.14285v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.14217v1",
+  "type": "paper",
+  "name": "The Quartic Hessian Conjecture in Dimension Four",
+  "href": "entity-paper-arxiv-2608.14217v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.14073v1",
+  "type": "paper",
+  "name": "Experimental Study on System-Level Performance Impact of Read Disturbance in Modern SSDs",
+  "href": "entity-paper-arxiv-2608.14073v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13962v1",
+  "type": "paper",
+  "name": "MoE Expert Execution in Disaggregated LLM Serving with a High-Bandwidth ReRAM Near-Memory Architecture",
+  "href": "entity-paper-arxiv-2608.13962v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13920v1",
+  "type": "paper",
+  "name": "Characterizing the Variance Envelope: A Multi-Dimensional Analysis of Spectre Telemetry Across Architectures and Workloads",
+  "href": "entity-paper-arxiv-2608.13920v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13868v1",
+  "type": "paper",
+  "name": "Exploring High-Bandwidth Flash for Modern LLM Inference: Opportunities and Challenges",
+  "href": "entity-paper-arxiv-2608.13868v1.html"
+ },
+ {
+  "id": "paper:arxiv:2608.13790v1",
+  "type": "paper",
+  "name": "PPAPlace: Differentiable Cross-Stage Objectives for Chip Placement Optimization",
+  "href": "entity-paper-arxiv-2608.13790v1.html"
+ },
+ {
+  "id": "organization:edgar-1045810",
+  "type": "organization",
+  "name": "NVIDIA",
+  "href": "entity-organization-edgar-1045810.html"
  }
 ]

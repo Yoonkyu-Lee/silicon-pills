@@ -1,5 +1,44 @@
 [
  {
+  "id": "ev-edgar-0001045810-26-000069",
+  "date": "2026-08-17",
+  "type": "disclosure",
+  "title": "NVIDIA SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-1045810",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000069/nvda-20260817.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-llm-hw-2026-W33",
+  "date": "2026-08-16",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 7편 (2026-W33)",
+  "primary": "process_tech:llm-hw",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2608.09252v1",
+   "http://arxiv.org/abs/2608.11668v1",
+   "http://arxiv.org/abs/2608.12751v1",
+   "http://arxiv.org/abs/2608.13127v1",
+   "http://arxiv.org/abs/2608.13868v1",
+   "http://arxiv.org/abs/2608.13962v1",
+   "http://arxiv.org/abs/2608.14333v1"
+  ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-news-amat-e578d5ca41dab3ca",
   "date": "2026-08-14",
   "type": "announcement",
@@ -7,6 +46,111 @@
   "primary": "organization:amat",
   "source": {
    "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-participate-upcoming-investor-conferences-15",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.14333v1",
+  "date": "2026-08-14",
+  "type": "paper_published",
+  "title": "arXiv: Beyond Capacity: Scalable MoE LLM Inference via High-Bandwidth Flash with Direct GPU and HBM Paths",
+  "primary": "paper:arxiv:2608.14333v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.14333v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.14285v1",
+  "date": "2026-08-14",
+  "type": "paper_published",
+  "title": "arXiv: Qu-Trefoil: Large-Scale Quantum Circuit Simulator Working on FPGA With SATA Storages",
+  "primary": "paper:arxiv:2608.14285v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.14285v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.14217v1",
+  "date": "2026-08-14",
+  "type": "paper_published",
+  "title": "arXiv: The Quartic Hessian Conjecture in Dimension Four",
+  "primary": "paper:arxiv:2608.14217v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.14217v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.14073v1",
+  "date": "2026-08-14",
+  "type": "paper_published",
+  "title": "arXiv: Experimental Study on System-Level Performance Impact of Read Disturbance in Modern SSDs",
+  "primary": "paper:arxiv:2608.14073v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.14073v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.13962v1",
+  "date": "2026-08-14",
+  "type": "paper_published",
+  "title": "arXiv: MoE Expert Execution in Disaggregated LLM Serving with a High-Bandwidth ReRAM Near-Memory Architecture",
+  "primary": "paper:arxiv:2608.13962v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13962v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.13920v1",
+  "date": "2026-08-14",
+  "type": "paper_published",
+  "title": "arXiv: Characterizing the Variance Envelope: A Multi-Dimensional Analysis of Spectre Telemetry Across Architectures and Workloads",
+  "primary": "paper:arxiv:2608.13920v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13920v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.13868v1",
+  "date": "2026-08-14",
+  "type": "paper_published",
+  "title": "arXiv: Exploring High-Bandwidth Flash for Modern LLM Inference: Opportunities and Challenges",
+  "primary": "paper:arxiv:2608.13868v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13868v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -172,6 +316,21 @@
   "primary": "paper:arxiv:2608.12684v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.12684v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2608.13790v1",
+  "date": "2026-08-13",
+  "type": "paper_published",
+  "title": "arXiv: PPAPlace: Differentiable Cross-Stage Objectives for Chip Placement Optimization",
+  "primary": "paper:arxiv:2608.13790v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2608.13790v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
@@ -1352,156 +1511,6 @@
   "primary": "paper:arxiv:2608.05339v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.05339v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.05303v1",
-  "date": "2026-08-05",
-  "type": "paper_published",
-  "title": "arXiv: EdgeXpert: An Edge Device for Memory-Efficient LLM Inference with Mixture-of-Experts and Speculative Decoding",
-  "primary": "paper:arxiv:2608.05303v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.05303v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03867v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: Heterogeneity-Aware Microscaling for Efficient Low-Bit LLM Inference",
-  "primary": "paper:arxiv:2608.03867v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03867v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03778v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: DiffPower: GPU-Accelerated Differentiable Switching Power Analysis and Optimization",
-  "primary": "paper:arxiv:2608.03778v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03778v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03555v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: Heterogeneous LLM Serving with General-Purpose Processing-Near-Memory for Retrieval-Based Sparse Attention",
-  "primary": "paper:arxiv:2608.03555v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03555v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03537v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: ComFuse: Fusing Complex Memory-Intensive Subgraphs with Compute-Intensive Kernels For Modern GPU Architectures",
-  "primary": "paper:arxiv:2608.03537v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03537v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03514v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: Beyond Peak TOPS/W: A System-Level Perspective on Hybrid Digital, Analogue and Neuromorphic Computing",
-  "primary": "paper:arxiv:2608.03514v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03514v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03285v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: Fovea: Physical-Implication-Aware Wafer-Scale DSE with Decision-Domain-Guided Cross-Fidelity Refinement",
-  "primary": "paper:arxiv:2608.03285v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03285v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03229v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: Unified Lookup-Table Inference with Signed-Digit K/V Caches for Ternary LLMs",
-  "primary": "paper:arxiv:2608.03229v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03229v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.03033v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: Interpolation of Non-Linear Functions for LLMs using Partial Reconfiguration in FPGAs",
-  "primary": "paper:arxiv:2608.03033v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.03033v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.02988v1",
-  "date": "2026-08-04",
-  "type": "paper_published",
-  "title": "arXiv: CAMTA: A Reconfigurable Multi-Region Activation Unit for Nonlinear Function Approximation",
-  "primary": "paper:arxiv:2608.02988v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.02988v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
