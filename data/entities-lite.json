@@ -2470,5 +2470,59 @@
   "type": "organization",
   "name": "NVIDIA",
   "href": "entity-organization-edgar-1045810.html"
+ },
+ {
+  "id": "certification:BCGA3534",
+  "type": "certification",
+  "name": "FCC BCGA3534 (Apple)",
+  "href": "entity-certification-BCGA3534.html"
+ },
+ {
+  "id": "certification:BCGA3535",
+  "type": "certification",
+  "name": "FCC BCGA3535 (Apple)",
+  "href": "entity-certification-BCGA3535.html"
+ },
+ {
+  "id": "certification:BCGA3545",
+  "type": "certification",
+  "name": "FCC BCGA3545 (Apple)",
+  "href": "entity-certification-BCGA3545.html"
+ },
+ {
+  "id": "certification:BCGA3546",
+  "type": "certification",
+  "name": "FCC BCGA3546 (Apple)",
+  "href": "entity-certification-BCGA3546.html"
+ },
+ {
+  "id": "certification:AK8WW38427",
+  "type": "certification",
+  "name": "FCC AK8WW38427 (Sony)",
+  "href": "entity-certification-AK8WW38427.html"
+ },
+ {
+  "id": "certification:AK8WW81782",
+  "type": "certification",
+  "name": "FCC AK8WW81782 (Sony)",
+  "href": "entity-certification-AK8WW81782.html"
+ },
+ {
+  "id": "organization:edgar-723125",
+  "type": "organization",
+  "name": "Micron",
+  "href": "entity-organization-edgar-723125.html"
+ },
+ {
+  "id": "organization:edgar-1835632",
+  "type": "organization",
+  "name": "Marvell",
+  "href": "entity-organization-edgar-1835632.html"
+ },
+ {
+  "id": "process_tech:cluster-hbm",
+  "type": "process_tech",
+  "name": "HBM 메모리",
+  "href": "entity-process_tech-cluster-hbm.html"
  }
 ]
