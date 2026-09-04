@@ -3166,5 +3166,101 @@
   "type": "certification",
   "name": "FCC A3LEIT5900 (Samsung)",
   "href": "entity-certification-A3LEIT5900.html"
+ },
+ {
+  "id": "paper:arxiv:2609.03594v1",
+  "type": "paper",
+  "name": "LevelSyn: Physical-Aware Logic Synthesis via Level-Asynchronous Graph Neural Networks",
+  "href": "entity-paper-arxiv-2609.03594v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.03528v1",
+  "type": "paper",
+  "name": "LeanGRPO: Eliminating Redundant Recomputation in Diffusion RL",
+  "href": "entity-paper-arxiv-2609.03528v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.03459v1",
+  "type": "paper",
+  "name": "FlowTT: Exploiting Computation Flow Reuse in Irregular Tensor-Train Embedding",
+  "href": "entity-paper-arxiv-2609.03459v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.03149v1",
+  "type": "paper",
+  "name": "RACE-AIMC: Selective Inference for Heterogeneous Analog In-Memory Accelerators at the Edge",
+  "href": "entity-paper-arxiv-2609.03149v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.03137v1",
+  "type": "paper",
+  "name": "A single-precision floating-point systolic Givens-QRD Triangular Solver for MVDR Beamforming",
+  "href": "entity-paper-arxiv-2609.03137v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.03125v1",
+  "type": "paper",
+  "name": "A Time-Encoded Analog Photonic Interposer for Energy-EfficientIntegration of Analog Vision Sensors and Analog Accelerators",
+  "href": "entity-paper-arxiv-2609.03125v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.02988v1",
+  "type": "paper",
+  "name": "Mesh-Native Physics-Informed Graph Surrogates for TCAD-in-the-Loop Design Space Exploration",
+  "href": "entity-paper-arxiv-2609.02988v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.02684v1",
+  "type": "paper",
+  "name": "H3DNAS: Hardware-Aware ONNX-Native 3D Point Cloud Model Compression",
+  "href": "entity-paper-arxiv-2609.02684v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.02470v1",
+  "type": "paper",
+  "name": "Batch Before You Time: Decision-Scoped Proxy Execution for Timing-Aware Logic Rewriting",
+  "href": "entity-paper-arxiv-2609.02470v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.02352v1",
+  "type": "paper",
+  "name": "Atlas: Algorithm-Hardware Co-Design for On-Device City-Scale 3D Gaussian Splatting in VR",
+  "href": "entity-paper-arxiv-2609.02352v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.02219v1",
+  "type": "paper",
+  "name": "Hardware-Accelerated Instance Segmentation for Resource-Constrained Space Robotics with Criticality Analysis",
+  "href": "entity-paper-arxiv-2609.02219v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.01948v1",
+  "type": "paper",
+  "name": "An Emerging NVM-Based On-Chip Training Architecture with Non-Ideality Mitigation Through Bipolar Weight Distributions",
+  "href": "entity-paper-arxiv-2609.01948v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.01821v1",
+  "type": "paper",
+  "name": "Scaling Inference Prefill with High-Radix Photonic Interconnects",
+  "href": "entity-paper-arxiv-2609.01821v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.01775v1",
+  "type": "paper",
+  "name": "Dictionary-Guided Mutation Operators for Automated HDL Repair",
+  "href": "entity-paper-arxiv-2609.01775v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.01771v1",
+  "type": "paper",
+  "name": "GadIR: A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation",
+  "href": "entity-paper-arxiv-2609.01771v1.html"
+ },
+ {
+  "id": "organization:edgar-1730168",
+  "type": "organization",
+  "name": "Broadcom",
+  "href": "entity-organization-edgar-1730168.html"
  }
 ]
