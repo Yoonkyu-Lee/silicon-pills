@@ -3262,5 +3262,17 @@
   "type": "organization",
   "name": "Broadcom",
   "href": "entity-organization-edgar-1730168.html"
+ },
+ {
+  "id": "paper:arxiv:2609.04058v1",
+  "type": "paper",
+  "name": "AI-Assisted Design of a Post-Quantum Cryptographic Accelerator: A Deployed-Silicon Case Study",
+  "href": "entity-paper-arxiv-2609.04058v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.04040v1",
+  "type": "paper",
+  "name": "Confidence-Gated Admission for Hardware Prefetching: When the Gate Matters More Than the Predictor",
+  "href": "entity-paper-arxiv-2609.04040v1.html"
  }
 ]

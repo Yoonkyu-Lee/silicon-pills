@@ -135,6 +135,36 @@
   "linked": []
  },
  {
+  "id": "ev-arxiv:2609.04058v1",
+  "date": "2026-09-03",
+  "type": "paper_published",
+  "title": "arXiv: AI-Assisted Design of a Post-Quantum Cryptographic Accelerator: A Deployed-Silicon Case Study",
+  "primary": "paper:arxiv:2609.04058v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.04058v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.04040v1",
+  "date": "2026-09-03",
+  "type": "paper_published",
+  "title": "arXiv: Confidence-Gated Admission for Hardware Prefetching: When the Gate Matters More Than the Predictor",
+  "primary": "paper:arxiv:2609.04040v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.04040v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-fccid-A3LEIT5900",
   "date": "2026-09-02",
   "type": "cert_filed",
@@ -1492,36 +1522,6 @@
   "primary": "paper:arxiv:2608.26402v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.26402v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.26342v1",
-  "date": "2026-08-26",
-  "type": "paper_published",
-  "title": "arXiv: An Economic Analysis of DNA-based Data Storage Systems",
-  "primary": "paper:arxiv:2608.26342v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.26342v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.26100v1",
-  "date": "2026-08-26",
-  "type": "paper_published",
-  "title": "arXiv: Integrated Hardware Annealing based on Langevin Dynamics for Ising Machines",
-  "primary": "paper:arxiv:2608.26100v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.26100v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
