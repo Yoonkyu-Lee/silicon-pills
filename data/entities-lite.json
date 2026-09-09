@@ -3274,5 +3274,203 @@
   "type": "paper",
   "name": "Confidence-Gated Admission for Hardware Prefetching: When the Gate Matters More Than the Predictor",
   "href": "entity-paper-arxiv-2609.04040v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.09095v1",
+  "type": "paper",
+  "name": "Ozaki 2.5: Engineering the Deconstruction Path of fp64-Emulated Dense Matrix Multiplication on FP8 Tensor Cores",
+  "href": "entity-paper-arxiv-2609.09095v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.08871v1",
+  "type": "paper",
+  "name": "Towards Standardized Evaluation of GPU Memory Safety with GMSBench",
+  "href": "entity-paper-arxiv-2609.08871v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.08682v1",
+  "type": "paper",
+  "name": "HDA-MoE: Hybrid Parallelism and Dynamic, Adaptive Scheduling for Mixture-of-Experts with 3D Near-Memory Processing",
+  "href": "entity-paper-arxiv-2609.08682v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.08446v1",
+  "type": "paper",
+  "name": "FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity",
+  "href": "entity-paper-arxiv-2609.08446v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.08424v1",
+  "type": "paper",
+  "name": "PENDA: An Efficient Processing Element via Norm-of-Difference for Deep Learning Accelerators",
+  "href": "entity-paper-arxiv-2609.08424v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.08232v1",
+  "type": "paper",
+  "name": "Routing Dense Layouts with History-Aware Offline Reinforcement Learning using LSTM",
+  "href": "entity-paper-arxiv-2609.08232v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.07907v1",
+  "type": "paper",
+  "name": "A 28nm 27,648-Spin Multichip Digital Ising Accelerator with Pegasus Connectivity",
+  "href": "entity-paper-arxiv-2609.07907v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.07776v1",
+  "type": "paper",
+  "name": "QROB: Quantifying Realization Overhead in Quantum Compilation via Reverse Construction",
+  "href": "entity-paper-arxiv-2609.07776v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.07444v1",
+  "type": "paper",
+  "name": "TASTE: Throughput-Aware Batch Size Tuning for On-Device Edge Learning",
+  "href": "entity-paper-arxiv-2609.07444v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.07175v1",
+  "type": "paper",
+  "name": "Enabling High-Bandwidth Flash for Generative Recommendation Serving with Write-Aware KV Cache Policy",
+  "href": "entity-paper-arxiv-2609.07175v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.07059v1",
+  "type": "paper",
+  "name": "NOVA-CIM: Noise- and Correlation-Tolerant Stochastic Interfaces for Analog Compute-in-Memory",
+  "href": "entity-paper-arxiv-2609.07059v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.07035v1",
+  "type": "paper",
+  "name": "Capability-Gated Conformance Testing of Quantum Error-Correction Decoder Libraries",
+  "href": "entity-paper-arxiv-2609.07035v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06796v1",
+  "type": "paper",
+  "name": "Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators",
+  "href": "entity-paper-arxiv-2609.06796v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06781v1",
+  "type": "paper",
+  "name": "BLINK: Batch Normalization-based Integrity Checkpoints for In-Situ Detection and Mitigation of Diverse Weight Corruptions in DNN Accelerators",
+  "href": "entity-paper-arxiv-2609.06781v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06691v1",
+  "type": "paper",
+  "name": "Gutenberg: Taming Latency-Critical Cloud Services with Near-Data-Processing",
+  "href": "entity-paper-arxiv-2609.06691v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06551v1",
+  "type": "paper",
+  "name": "EStream: Fast and Memory-Efficient MoE Prefill through Expert Virtualization on Mobile NPUs",
+  "href": "entity-paper-arxiv-2609.06551v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06365v1",
+  "type": "paper",
+  "name": "multi-Stochastic Core Architecture for Scaling Probabilistic Ising Machines",
+  "href": "entity-paper-arxiv-2609.06365v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06270v1",
+  "type": "paper",
+  "name": "Towards Enabling Distance-Based Memory Addressing",
+  "href": "entity-paper-arxiv-2609.06270v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06157v1",
+  "type": "paper",
+  "name": "From Splats to Silicon: Rethinking Computational Efficiency of 3DGS",
+  "href": "entity-paper-arxiv-2609.06157v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.06125v1",
+  "type": "paper",
+  "name": "WaferTrans: Enabling IOMMU-free Distributed Virtual Address Translation for Wafer-scale GPUs",
+  "href": "entity-paper-arxiv-2609.06125v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05982v1",
+  "type": "paper",
+  "name": "CMD: An Integrated CGRA Framework with Cluster-Based Distributed Memory Design",
+  "href": "entity-paper-arxiv-2609.05982v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05960v1",
+  "type": "paper",
+  "name": "GPU-Accelerated Gate-Level Time-Based Power Analysis via Event-Density-Aware Partitioning and Kernel Fusion",
+  "href": "entity-paper-arxiv-2609.05960v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05764v1",
+  "type": "paper",
+  "name": "Interface-Aware KV Cache Quantization for Dense On-Chip NVM in Long-Context LLM Decoding",
+  "href": "entity-paper-arxiv-2609.05764v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05760v1",
+  "type": "paper",
+  "name": "RAGMark: A Comprehensive Framework for Benchmarking Retrieval-Augmented Generation Systems",
+  "href": "entity-paper-arxiv-2609.05760v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05327v1",
+  "type": "paper",
+  "name": "LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams",
+  "href": "entity-paper-arxiv-2609.05327v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05249v1",
+  "type": "paper",
+  "name": "Proton Irradiation Characterization of an Open-Source ML Accelerator on a Zynq UltraScale+ MPSoC",
+  "href": "entity-paper-arxiv-2609.05249v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05226v1",
+  "type": "paper",
+  "name": "TETRIS-Q: Tiling-based Effective Transient-fault Reduction on Interleaved Superconducting Qubits",
+  "href": "entity-paper-arxiv-2609.05226v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.05161v1",
+  "type": "paper",
+  "name": "APEX-RBD: Mixed-Precision Exploration Framework for Hardware-Efficient Robot Dynamics Accelerator Design",
+  "href": "entity-paper-arxiv-2609.05161v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.04912v1",
+  "type": "paper",
+  "name": "TreeFI: Value-Aware Statistical Fault Injection for Deep Neural Networks",
+  "href": "entity-paper-arxiv-2609.04912v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.04783v1",
+  "type": "paper",
+  "name": "A Piecewise-Linear Approximation-based Energy-Efficient Error-Optimized Unsigned Square Rooter for Accuracy-Critical Applications",
+  "href": "entity-paper-arxiv-2609.04783v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.04724v1",
+  "type": "paper",
+  "name": "FlexPosit: Tunable Fractional Precision for LLM Inference Accelerators",
+  "href": "entity-paper-arxiv-2609.04724v1.html"
+ },
+ {
+  "id": "paper:arxiv:2609.04705v1",
+  "type": "paper",
+  "name": "Sustainable Edge Vision via Empirically Calibrated DVFS: Eliminating Thermal Throttling on Passively Cooled Hardware",
+  "href": "entity-paper-arxiv-2609.04705v1.html"
+ },
+ {
+  "id": "certification:A3LSMA185G",
+  "type": "certification",
+  "name": "FCC A3LSMA185G (Samsung)",
+  "href": "entity-certification-A3LSMA185G.html"
  }
 ]

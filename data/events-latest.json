@@ -1,5 +1,822 @@
 [
  {
+  "id": "ev-fccid-A3LSMA185G",
+  "date": "2026-09-09",
+  "type": "cert_filed",
+  "title": "FCC 신규 인증 관측: A3LSMA185G — Samsung",
+  "primary": "certification:A3LSMA185G",
+  "source": {
+   "url": "https://fccid.io/A3LSMA185G",
+   "tier": "1차"
+  },
+  "confidence": "인증",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-b79bf664ffdb7678",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-11/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-29ee05819687a71d",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-10/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-ddeb595fcdf901bb",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-9/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-9bde8aa6e0493fea",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-8/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-08c6e92774e1837c",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-7/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-b0355be1d41a7e8d",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-6/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-55c04eea20b1fa69",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-5/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-3342889ddebc6c3f",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-4/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-190352334d2798d4",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-3/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-skhynix-0f890039cbd04dac",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "SK하이닉스 발표: SK hynix Charts Its Business and Technology Direction at the 2026 Future Forum—”Now Is the Golden Time to Leap Forward”",
+  "primary": "organization:skhynix",
+  "source": {
+   "url": "https://news.skhynix.com/en/future-forum-2026-2/",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-samsung-f0f709317f390762",
+  "date": "2026-09-09",
+  "type": "announcement",
+  "title": "삼성전자 발표: Samsung and Mistral AI Announce Strategic Partnership for Intelligence-Driven Semiconductor Infrastructure",
+  "primary": "organization:samsung",
+  "source": {
+   "url": "https://news.samsung.com/global/samsung-and-mistral-ai-announce-strategic-partnership-for-intelligence-driven-semiconductor-infrastructure",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.09095v1",
+  "date": "2026-09-08",
+  "type": "paper_published",
+  "title": "arXiv: Ozaki 2.5: Engineering the Deconstruction Path of fp64-Emulated Dense Matrix Multiplication on FP8 Tensor Cores",
+  "primary": "paper:arxiv:2609.09095v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.09095v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.08871v1",
+  "date": "2026-09-08",
+  "type": "paper_published",
+  "title": "arXiv: Towards Standardized Evaluation of GPU Memory Safety with GMSBench",
+  "primary": "paper:arxiv:2609.08871v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.08871v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.08682v1",
+  "date": "2026-09-08",
+  "type": "paper_published",
+  "title": "arXiv: HDA-MoE: Hybrid Parallelism and Dynamic, Adaptive Scheduling for Mixture-of-Experts with 3D Near-Memory Processing",
+  "primary": "paper:arxiv:2609.08682v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.08682v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.08446v1",
+  "date": "2026-09-08",
+  "type": "paper_published",
+  "title": "arXiv: FlexSpIM: An Event-Based Digital Compute-In-Memory Accelerator with Flexible Operand Resolution and Layer-Wise Hybrid Stationarity",
+  "primary": "paper:arxiv:2609.08446v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.08446v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.08424v1",
+  "date": "2026-09-08",
+  "type": "paper_published",
+  "title": "arXiv: PENDA: An Efficient Processing Element via Norm-of-Difference for Deep Learning Accelerators",
+  "primary": "paper:arxiv:2609.08424v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.08424v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.08232v1",
+  "date": "2026-09-08",
+  "type": "paper_published",
+  "title": "arXiv: Routing Dense Layouts with History-Aware Offline Reinforcement Learning using LSTM",
+  "primary": "paper:arxiv:2609.08232v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.08232v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-94638185-2026-09-08",
+  "date": "2026-09-08",
+  "type": "price_change",
+  "title": "ESSENCORE KLEVV DDR5-5600 CL46 (16GB) 최저가 +3.3% — 320,640원",
+  "primary": "part_price:danawa-94638185",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=94638185",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-75541700-2026-09-08",
+  "date": "2026-09-08",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5080 뱅가드 SOC D7 16GB 최저가 +32.7% — 2,510,620원",
+  "primary": "part_price:danawa-75541700",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=75541700",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-77379380-2026-09-08",
+  "date": "2026-09-08",
+  "type": "price_change",
+  "title": "MSI 지포스 RTX 5070 게이밍 트리오 OC D7 12GB 최저가 +56.9% — 1,297,750원",
+  "primary": "part_price:danawa-77379380",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=77379380",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-danawa-13190573-2026-09-08",
+  "date": "2026-09-08",
+  "type": "price_change",
+  "title": "삼성전자 870 EVO (1TB) 최저가 -3.3% — 410,000원",
+  "primary": "part_price:danawa-13190573",
+  "source": {
+   "url": "https://prod.danawa.com/info/?pcode=13190573",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 60,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-samsung-b5b8337472407beb",
+  "date": "2026-09-08",
+  "type": "announcement",
+  "title": "삼성전자 발표: Samsung Electronics and ASML Expand Strategic Collaboration for Next-Generation Semiconductor Manufacturing",
+  "primary": "organization:samsung",
+  "source": {
+   "url": "https://news.samsung.com/global/samsung-electronics-and-asml-expand-strategic-collaboration-for-next-generation-semiconductor-manufacturing",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-news-arm-c8ffff24910f467f",
+  "date": "2026-09-08",
+  "type": "announcement",
+  "title": "Arm 발표: Inside the Arm Mali G2-Ultra NX GPU: Delivering desktop-class mobile gameplay with AI-native graphics",
+  "primary": "organization:arm",
+  "source": {
+   "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-edgar-0001104659-26-105718",
+  "date": "2026-09-08",
+  "type": "disclosure",
+  "title": "Qualcomm SEC 8-K 제출 — 중대이벤트 공시",
+  "primary": "organization:edgar-804328",
+  "source": {
+   "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926105718/tm2623289d1_8k.htm",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.07907v1",
+  "date": "2026-09-07",
+  "type": "paper_published",
+  "title": "arXiv: A 28nm 27,648-Spin Multichip Digital Ising Accelerator with Pegasus Connectivity",
+  "primary": "paper:arxiv:2609.07907v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.07907v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.07776v1",
+  "date": "2026-09-07",
+  "type": "paper_published",
+  "title": "arXiv: QROB: Quantifying Realization Overhead in Quantum Compilation via Reverse Construction",
+  "primary": "paper:arxiv:2609.07776v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.07776v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.07444v1",
+  "date": "2026-09-07",
+  "type": "paper_published",
+  "title": "arXiv: TASTE: Throughput-Aware Batch Size Tuning for On-Device Edge Learning",
+  "primary": "paper:arxiv:2609.07444v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.07444v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.07175v1",
+  "date": "2026-09-07",
+  "type": "paper_published",
+  "title": "arXiv: Enabling High-Bandwidth Flash for Generative Recommendation Serving with Write-Aware KV Cache Policy",
+  "primary": "paper:arxiv:2609.07175v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.07175v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.07059v1",
+  "date": "2026-09-07",
+  "type": "paper_published",
+  "title": "arXiv: NOVA-CIM: Noise- and Correlation-Tolerant Stochastic Interfaces for Analog Compute-in-Memory",
+  "primary": "paper:arxiv:2609.07059v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.07059v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.07035v1",
+  "date": "2026-09-07",
+  "type": "paper_published",
+  "title": "arXiv: Capability-Gated Conformance Testing of Quantum Error-Correction Decoder Libraries",
+  "primary": "paper:arxiv:2609.07035v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.07035v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06796v1",
+  "date": "2026-09-06",
+  "type": "paper_published",
+  "title": "arXiv: Hardware Trojan Threats to Multi-Chiplet Photonic Neural Network Accelerators",
+  "primary": "paper:arxiv:2609.06796v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06796v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06781v1",
+  "date": "2026-09-06",
+  "type": "paper_published",
+  "title": "arXiv: BLINK: Batch Normalization-based Integrity Checkpoints for In-Situ Detection and Mitigation of Diverse Weight Corruptions in DNN Accelerators",
+  "primary": "paper:arxiv:2609.06781v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06781v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06691v1",
+  "date": "2026-09-06",
+  "type": "paper_published",
+  "title": "arXiv: Gutenberg: Taming Latency-Critical Cloud Services with Near-Data-Processing",
+  "primary": "paper:arxiv:2609.06691v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06691v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06551v1",
+  "date": "2026-09-06",
+  "type": "paper_published",
+  "title": "arXiv: EStream: Fast and Memory-Efficient MoE Prefill through Expert Virtualization on Mobile NPUs",
+  "primary": "paper:arxiv:2609.06551v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06551v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06365v1",
+  "date": "2026-09-06",
+  "type": "paper_published",
+  "title": "arXiv: multi-Stochastic Core Architecture for Scaling Probabilistic Ising Machines",
+  "primary": "paper:arxiv:2609.06365v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06365v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-accelerator-2026-W36",
+  "date": "2026-09-06",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 11편 (2026-W36)",
+  "primary": "process_tech:accelerator",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2608.30509v1",
+   "http://arxiv.org/abs/2608.30932v1",
+   "http://arxiv.org/abs/2609.00421v1",
+   "http://arxiv.org/abs/2609.01084v1",
+   "http://arxiv.org/abs/2609.03125v1",
+   "http://arxiv.org/abs/2609.04724v1",
+   "http://arxiv.org/abs/2609.05161v1",
+   "http://arxiv.org/abs/2609.05249v1",
+   "http://arxiv.org/abs/2609.05960v1",
+   "http://arxiv.org/abs/2609.06781v1",
+   "http://arxiv.org/abs/2609.06796v1"
+  ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv-topic-llm-hw-2026-W36",
+  "date": "2026-09-06",
+  "type": "paper_topic_agg",
+  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 7편 (2026-W36)",
+  "primary": "process_tech:llm-hw",
+  "source": {
+   "url": "https://arxiv.org/list/cs.AR/recent",
+   "tier": "집계"
+  },
+  "confidence": "공식확정",
+  "score": 55,
+  "members": [
+   "http://arxiv.org/abs/2608.30509v1",
+   "http://arxiv.org/abs/2608.30659v1",
+   "http://arxiv.org/abs/2608.30932v1",
+   "http://arxiv.org/abs/2609.00857v1",
+   "http://arxiv.org/abs/2609.01084v1",
+   "http://arxiv.org/abs/2609.04724v1",
+   "http://arxiv.org/abs/2609.05764v1"
+  ],
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06270v1",
+  "date": "2026-09-05",
+  "type": "paper_published",
+  "title": "arXiv: Towards Enabling Distance-Based Memory Addressing",
+  "primary": "paper:arxiv:2609.06270v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06270v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06157v1",
+  "date": "2026-09-05",
+  "type": "paper_published",
+  "title": "arXiv: From Splats to Silicon: Rethinking Computational Efficiency of 3DGS",
+  "primary": "paper:arxiv:2609.06157v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06157v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.06125v1",
+  "date": "2026-09-05",
+  "type": "paper_published",
+  "title": "arXiv: WaferTrans: Enabling IOMMU-free Distributed Virtual Address Translation for Wafer-scale GPUs",
+  "primary": "paper:arxiv:2609.06125v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.06125v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05982v1",
+  "date": "2026-09-05",
+  "type": "paper_published",
+  "title": "arXiv: CMD: An Integrated CGRA Framework with Cluster-Based Distributed Memory Design",
+  "primary": "paper:arxiv:2609.05982v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05982v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05960v1",
+  "date": "2026-09-05",
+  "type": "paper_published",
+  "title": "arXiv: GPU-Accelerated Gate-Level Time-Based Power Analysis via Event-Density-Aware Partitioning and Kernel Fusion",
+  "primary": "paper:arxiv:2609.05960v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05960v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05764v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: Interface-Aware KV Cache Quantization for Dense On-Chip NVM in Long-Context LLM Decoding",
+  "primary": "paper:arxiv:2609.05764v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05764v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05760v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: RAGMark: A Comprehensive Framework for Benchmarking Retrieval-Augmented Generation Systems",
+  "primary": "paper:arxiv:2609.05760v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05760v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05327v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: LLM-Driven Algorithm Design for Quantum Circuit Synthesis based on Binary Decision Diagrams",
+  "primary": "paper:arxiv:2609.05327v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05327v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05249v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: Proton Irradiation Characterization of an Open-Source ML Accelerator on a Zynq UltraScale+ MPSoC",
+  "primary": "paper:arxiv:2609.05249v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05249v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05226v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: TETRIS-Q: Tiling-based Effective Transient-fault Reduction on Interleaved Superconducting Qubits",
+  "primary": "paper:arxiv:2609.05226v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05226v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.05161v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: APEX-RBD: Mixed-Precision Exploration Framework for Hardware-Efficient Robot Dynamics Accelerator Design",
+  "primary": "paper:arxiv:2609.05161v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.05161v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.04912v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: TreeFI: Value-Aware Statistical Fault Injection for Deep Neural Networks",
+  "primary": "paper:arxiv:2609.04912v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.04912v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.04783v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: A Piecewise-Linear Approximation-based Energy-Efficient Error-Optimized Unsigned Square Rooter for Accuracy-Critical Applications",
+  "primary": "paper:arxiv:2609.04783v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.04783v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.04724v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: FlexPosit: Tunable Fractional Precision for LLM Inference Accelerators",
+  "primary": "paper:arxiv:2609.04724v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.04724v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
+  "id": "ev-arxiv:2609.04705v1",
+  "date": "2026-09-04",
+  "type": "paper_published",
+  "title": "arXiv: Sustainable Edge Vision via Empirically Calibrated DVFS: Eliminating Thermal Throttling on Passively Cooled Hardware",
+  "primary": "paper:arxiv:2609.04705v1",
+  "source": {
+   "url": "http://arxiv.org/abs/2609.04705v1",
+   "tier": "1차"
+  },
+  "confidence": "공식확정",
+  "score": 30,
+  "lang": "ko",
+  "linked": []
+ },
+ {
   "id": "ev-arxiv:2609.03594v1",
   "date": "2026-09-03",
   "type": "paper_published",
@@ -697,831 +1514,6 @@
   "primary": "paper:arxiv:2608.30932v1",
   "source": {
    "url": "http://arxiv.org/abs/2608.30932v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.30659v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: LLM-based Hardware Development with Hierarchical IRs and End-to-End Multi-Agent Workflow",
-  "primary": "paper:arxiv:2608.30659v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.30659v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.30509v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: CHIPSMORE: Compute-in-Interconnect and -Memory Chiplets for Multi-Mode Multi-Request LLM Inference Acceleration",
-  "primary": "paper:arxiv:2608.30509v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.30509v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.30444v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: Non-uniform Memory Partitioning For Low-Power Spiking Neural Networks",
-  "primary": "paper:arxiv:2608.30444v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.30444v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.30435v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: Scalable AXI4 Transaction Monitoring for Mixed-Criticality SoCs: From Phase-Level Precision to ID-Level Efficiency",
-  "primary": "paper:arxiv:2608.30435v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.30435v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.30379v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: KORD: Breaking the Key-Generation Bottleneck in Dealerless FSS via Protocol--Hardware Co-Design",
-  "primary": "paper:arxiv:2608.30379v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.30379v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.30268v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: FABO: Agent-Guided Discovery of Joint Breakpoint Optimization for Timing-Driven Routing Trees",
-  "primary": "paper:arxiv:2608.30268v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.30268v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2609.00450v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: HBQ: Hierarchical Scaling Block Quantization with Hardware-Efficiency-Aware Design for Accurate LLM Inference",
-  "primary": "paper:arxiv:2609.00450v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2609.00450v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2609.00421v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: VARA: A Voltage-Aware ReRAM-Based Accelerator for Energy-Efficient Computing",
-  "primary": "paper:arxiv:2609.00421v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2609.00421v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2609.00407v1",
-  "date": "2026-08-31",
-  "type": "paper_published",
-  "title": "arXiv: DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference",
-  "primary": "paper:arxiv:2609.00407v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2609.00407v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.30058v1",
-  "date": "2026-08-30",
-  "type": "paper_published",
-  "title": "arXiv: High-Performance Low-Power Adiabatic Systolic Array Design in Advanced FinFET Nodes",
-  "primary": "paper:arxiv:2608.30058v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.30058v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-accelerator-2026-W35",
-  "date": "2026-08-30",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: 하드웨어 가속기 관련 신규 논문 6편 (2026-W35)",
-  "primary": "process_tech:accelerator",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2608.24664v1",
-   "http://arxiv.org/abs/2608.25062v1",
-   "http://arxiv.org/abs/2608.25346v1",
-   "http://arxiv.org/abs/2608.25380v1",
-   "http://arxiv.org/abs/2608.26418v2",
-   "http://arxiv.org/abs/2608.28048v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv-topic-llm-hw-2026-W35",
-  "date": "2026-08-30",
-  "type": "paper_topic_agg",
-  "title": "cs.AR 주간 집계: LLM 추론 하드웨어 관련 신규 논문 7편 (2026-W35)",
-  "primary": "process_tech:llm-hw",
-  "source": {
-   "url": "https://arxiv.org/list/cs.AR/recent",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "http://arxiv.org/abs/2608.23658v1",
-   "http://arxiv.org/abs/2608.24637v2",
-   "http://arxiv.org/abs/2608.24650v2",
-   "http://arxiv.org/abs/2608.25053v1",
-   "http://arxiv.org/abs/2608.25062v1",
-   "http://arxiv.org/abs/2608.27184v1",
-   "http://arxiv.org/abs/2608.28048v1"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-dc084e4953cb57ef",
-  "date": "2026-08-30",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [AI Infrastructure Insight] Why faster GPUs alone can’t deliver AI performance",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/ai-infrastructure-insight-ep2/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.28387v1",
-  "date": "2026-08-28",
-  "type": "paper_published",
-  "title": "arXiv: Neuromorphic architectures as numerical solvers for computational neuroscience",
-  "primary": "paper:arxiv:2608.28387v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.28387v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.28188v1",
-  "date": "2026-08-28",
-  "type": "paper_published",
-  "title": "arXiv: Beyond Flat Netlist: Hierarchical Graph Representation Learning for Scalable Analysis of Sequential Circuits",
-  "primary": "paper:arxiv:2608.28188v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.28188v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.28160v1",
-  "date": "2026-08-28",
-  "type": "paper_published",
-  "title": "arXiv: Gen-TAS: A Generative AI-Aided Hardware-Software Task Allocation Framework for FPGA-GPP Heterogeneous Systems",
-  "primary": "paper:arxiv:2608.28160v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.28160v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.28097v1",
-  "date": "2026-08-28",
-  "type": "paper_published",
-  "title": "arXiv: Great Expectations: Benchmarking the Real-World Performance of RVV 1.0 in HPC",
-  "primary": "paper:arxiv:2608.28097v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.28097v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.28048v1",
-  "date": "2026-08-28",
-  "type": "paper_published",
-  "title": "arXiv: AI Hardware Accelerators for Large Language Models: Architectures and the Memory Wall",
-  "primary": "paper:arxiv:2608.28048v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.28048v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-03961a05be2886af",
-  "date": "2026-08-28",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Indiana fab breaks ground as new hub for US AI innovation",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/indiana-groundbreaking-ceremony-sketch/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-aae522502d4a6141",
-  "date": "2026-08-28",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana-beginning-a-new-future-for-us-korea-ai/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-b7c620501875894f",
-  "date": "2026-08-28",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-3/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-7dbc329f1b9e059b",
-  "date": "2026-08-28",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-2/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0001835632-26-000025",
-  "date": "2026-08-28",
-  "type": "disclosure",
-  "title": "Marvell SEC 10-Q 제출 — 분기 실적 공시",
-  "primary": "organization:edgar-1835632",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000025/mrvl-20260801.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-cluster-hbm-2026-W36",
-  "date": "2026-08-28",
-  "type": "cross_synthesis",
-  "title": "HBM 메모리 — 2개 주체 발표 종합 (2026-W36)",
-  "primary": "process_tech:cluster-hbm",
-  "source": {
-   "url": "https://yoonkyu-lee.github.io/silicon-pills/",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-   "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-01/",
-   "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-2/",
-   "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-3/",
-   "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana/",
-   "https://news.skhynix.com/en/sk-hynix-holds-groundbreaking-ceremony-for-hbm-production-base-in-indiana-beginning-a-new-future-for-us-korea-ai/"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-BCGA3534",
-  "date": "2026-08-27",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: BCGA3534 — Apple",
-  "primary": "certification:BCGA3534",
-  "source": {
-   "url": "https://fccid.io/BCGA3534",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-BCGA3535",
-  "date": "2026-08-27",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: BCGA3535 — Apple",
-  "primary": "certification:BCGA3535",
-  "source": {
-   "url": "https://fccid.io/BCGA3535",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-BCGA3545",
-  "date": "2026-08-27",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: BCGA3545 — Apple",
-  "primary": "certification:BCGA3545",
-  "source": {
-   "url": "https://fccid.io/BCGA3545",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-BCGA3546",
-  "date": "2026-08-27",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: BCGA3546 — Apple",
-  "primary": "certification:BCGA3546",
-  "source": {
-   "url": "https://fccid.io/BCGA3546",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-AK8WW38427",
-  "date": "2026-08-27",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: AK8WW38427 — Sony",
-  "primary": "certification:AK8WW38427",
-  "source": {
-   "url": "https://fccid.io/AK8WW38427",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-fccid-AK8WW81782",
-  "date": "2026-08-27",
-  "type": "cert_filed",
-  "title": "FCC 신규 인증 관측: AK8WW81782 — Sony",
-  "primary": "certification:AK8WW81782",
-  "source": {
-   "url": "https://fccid.io/AK8WW81782",
-   "tier": "1차"
-  },
-  "confidence": "인증",
-  "score": 60,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-86ad32c63fa2949e",
-  "date": "2026-08-27",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-01/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-b8edb1ad26fb39b1",
-  "date": "2026-08-27",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Holds Groundbreaking Ceremony for HBM Production Base in Indiana, “Beginning a New Future for US-Korea AI”",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-amat-39b53da40489a8ab",
-  "date": "2026-08-27",
-  "type": "announcement",
-  "title": "Applied Materials 발표: Applied Materials Appoints Akash Palkhiwala to Board of Directors",
-  "primary": "organization:amat",
-  "source": {
-   "url": "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-appoints-akash-palkhiwala-board-directors",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0001628280-26-059257",
-  "date": "2026-08-27",
-  "type": "disclosure",
-  "title": "Applied Materials SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-6951",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/6951/000162828026059257/amat-20260827.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0000707549-26-000043",
-  "date": "2026-08-27",
-  "type": "disclosure",
-  "title": "Lam Research SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-707549",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000043/lrcx-20260824.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0001835632-26-000022",
-  "date": "2026-08-27",
-  "type": "disclosure",
-  "title": "Marvell SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-1835632",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000022/mrvl-20260827.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-cluster-hbm-2026-W35",
-  "date": "2026-08-27",
-  "type": "cross_synthesis",
-  "title": "HBM 메모리 — 2개 주체 발표 종합 (2026-W35)",
-  "primary": "process_tech:cluster-hbm",
-  "source": {
-   "url": "https://yoonkyu-lee.github.io/silicon-pills/",
-   "tier": "집계"
-  },
-  "confidence": "공식확정",
-  "score": 55,
-  "members": [
-   "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-   "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana-01/",
-   "https://news.skhynix.com/en/groundbreaking-ceremony-in-indiana/"
-  ],
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.27199v1",
-  "date": "2026-08-27",
-  "type": "paper_published",
-  "title": "arXiv: Vision-centric generative AI models: A software-hardware perspective",
-  "primary": "paper:arxiv:2608.27199v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.27199v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.27184v1",
-  "date": "2026-08-27",
-  "type": "paper_published",
-  "title": "arXiv: LLMs in Digital EDA: A perspective on shifting roles from Generation to Orchestration",
-  "primary": "paper:arxiv:2608.27184v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.27184v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.26758v1",
-  "date": "2026-08-27",
-  "type": "paper_published",
-  "title": "arXiv: HOLMES: In-Context Failure-Center Localization for High-Dimensional Yield Estimation",
-  "primary": "paper:arxiv:2608.26758v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.26758v1",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-460230c2165051b2",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: [LIVE] SK hynix Indiana Fab Groundbreaking Ceremony",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/indiana-fab-groundbreaking/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-ddc9223ae8171ee0",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/dtf-2026-5/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-d98722ef2c987de0",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/dtf-2026-4/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-e9e4a443e7ad9c1c",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/dtf-2026-3/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-4fd70c3c91dc4245",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/dtf-2026-2/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-03bb8533d089d48e",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/dtf-2026-1/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-skhynix-2144fa12a79fbc08",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "SK하이닉스 발표: SK hynix Presents a Full Lineup of Memory Solutions Optimized for AI Infrastructure at DTF 2026",
-  "primary": "organization:skhynix",
-  "source": {
-   "url": "https://news.skhynix.com/en/dtf-2026/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-news-nvidia-b32d9ad973435024",
-  "date": "2026-08-26",
-  "type": "announcement",
-  "title": "NVIDIA 발표: NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
-  "primary": "organization:nvidia",
-  "source": {
-   "url": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0001045810-26-000075",
-  "date": "2026-08-26",
-  "type": "disclosure",
-  "title": "NVIDIA SEC 10-Q 제출 — 분기 실적 공시",
-  "primary": "organization:edgar-1045810",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0001045810-26-000073",
-  "date": "2026-08-26",
-  "type": "disclosure",
-  "title": "NVIDIA SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-1045810",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000073/nvda-20260826.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-edgar-0001104659-26-101067",
-  "date": "2026-08-26",
-  "type": "disclosure",
-  "title": "Micron SEC 8-K 제출 — 중대이벤트 공시",
-  "primary": "organization:edgar-723125",
-  "source": {
-   "url": "https://www.sec.gov/Archives/edgar/data/723125/000110465926101067/tm2624017d1_8k.htm",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.26418v2",
-  "date": "2026-08-26",
-  "type": "paper_published",
-  "title": "arXiv: Redwood: A Frontier AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
-  "primary": "paper:arxiv:2608.26418v2",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.26418v2",
-   "tier": "1차"
-  },
-  "confidence": "공식확정",
-  "score": 30,
-  "lang": "ko",
-  "linked": []
- },
- {
-  "id": "ev-arxiv:2608.26402v1",
-  "date": "2026-08-26",
-  "type": "paper_published",
-  "title": "arXiv: SILK: Closing the Time-of-Check-to-Time-of-Use Gap in RoT-Protected AI Systems",
-  "primary": "paper:arxiv:2608.26402v1",
-  "source": {
-   "url": "http://arxiv.org/abs/2608.26402v1",
    "tier": "1차"
   },
   "confidence": "공식확정",
